@@ -24,7 +24,7 @@ def load(p, d):
 leads = load("leads.json", {})
 unsub = set(open("unsubscribed.txt").read().lower().split()) if os.path.exists("unsubscribed.txt") else set()
 
-def overpass():
+def overpass_one(CITY):
     cats = "|".join(c.strip() for c in CATEGORIES)
     shop = "bakery|hairdresser|beauty"
     q = f'''[out:json][timeout:90];
@@ -41,6 +41,12 @@ out center tags 400;'''
             print("overpass failed", url, e)
     return []
 
+def overpass():
+    out = []
+    for c in os.getenv("CITY", "Karachi").split(","):
+        if c.strip(): out += overpass_one(c.strip())
+    return out
+
 def score(t):
     s = 0
     if "wikidata" in t or "wikipedia" in t: s += 5
@@ -55,7 +61,7 @@ def slug(s): return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")[:40] or "pl
 def build_site(lead):
     t = lead["tags"]; e = html.escape
     name = e(t["name"]); cat = e((t.get("cuisine") or t.get("amenity") or t.get("shop") or t.get("leisure") or "").replace("_", " ").title())
-    addr = e(", ".join(filter(None, [t.get("addr:housenumber"), t.get("addr:street"), t.get("addr:suburb"), t.get("addr:city", CITY)])))
+    addr = e(", ".join(filter(None, [t.get("addr:housenumber"), t.get("addr:street"), t.get("addr:suburb"), t.get("addr:city", "")])))
     phone = e(t.get("phone") or t.get("contact:phone") or ""); hours = e(t.get("opening_hours", ""))
     lat, lon = lead["lat"], lead["lon"]; d = 0.003
     bbox = f"{lon-d},{lat-d},{lon+d},{lat+d}"
