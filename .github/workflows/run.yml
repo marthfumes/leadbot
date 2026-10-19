@@ -1,0 +1,25 @@
+name: leadbot
+on:
+  schedule: [{cron: "0 6 * * *"}]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: python bot.py
+        env:
+          CITY: ${{ vars.CITY }}
+          CATEGORIES: ${{ vars.CATEGORIES }}
+          DRY_RUN: ${{ vars.DRY_RUN }}
+          SENDER_NAME: ${{ vars.SENDER_NAME }}
+          SENDER_ADDRESS: ${{ vars.SENDER_ADDRESS }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+      - run: |
+          git config user.name leadbot && git config user.email bot@users.noreply.github.com
+          git add -A && (git commit -m "daily run" && git push) || echo "nothing to commit"
