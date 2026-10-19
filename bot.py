@@ -37,13 +37,25 @@ def run_query(q):
         time.sleep(15 * (attempt + 1))
     return None
 
+def geocode(city):
+    try:
+        u = "https://nominatim.openstreetmap.org/search?format=json&limit=1&q=" + urllib.parse.quote(city)
+        r = json.load(urllib.request.urlopen(urllib.request.Request(u, headers={"User-Agent": "leadbot/1.0 (github actions)"}), timeout=30))
+        s_, n_, w_, e_ = [float(x) for x in r[0]["boundingbox"]]
+        print("geocoded", city, s_, w_, n_, e_)
+        return f"{s_},{w_},{n_},{e_}"
+    except Exception as e:
+        print("geocode failed", city, e)
+        return None
+
 def overpass_one(CITY):
     out = []
-    area = f'(area["name"="{CITY}"]["boundary"="administrative"];area["name:en"="{CITY}"]["boundary"="administrative"];area["name"="{CITY}"]["place"];)->.a;'
+    bbox = geocode(CITY)
+    if not bbox: return out
     for c in CATEGORIES:
         c = c.strip()
         f = '["name"][!"website"][!"contact:website"]'
-        q = f'[out:json][timeout:40];{area}(nwr(area.a)["amenity"="{c}"]{f};nwr(area.a)["shop"="{c}"]{f};nwr(area.a)["leisure"="{c}"]{f};);out center tags 150;'
+        q = f'[out:json][timeout:40];(nwr({bbox})["amenity"="{c}"]{f};nwr({bbox})["shop"="{c}"]{f};nwr({bbox})["leisure"="{c}"]{f};);out center tags 300;'
         els = run_query(q)
         if els is None:
             print("servers busy, giving up for", CITY, "- will retry on the next daily run")
