@@ -27,16 +27,18 @@ unsub = set(open("unsubscribed.txt").read().lower().split()) if os.path.exists("
 def overpass_one(CITY):
     cats = "|".join(c.strip() for c in CATEGORIES)
     shop = "bakery|hairdresser|beauty"
-    q = f'''[out:json][timeout:90];
-area["name"="{CITY}"]["boundary"="administrative"]->.a;
+    q = f'''[out:json][timeout:60];
+(area["name"="{CITY}"]["boundary"="administrative"];area["name:en"="{CITY}"]["boundary"="administrative"];area["name"="{CITY}"]["place"];)->.a;
 (nwr(area.a)["amenity"~"^({cats})$"]["name"][!"website"][!"contact:website"];
  nwr(area.a)["shop"~"^({cats})$"]["name"][!"website"][!"contact:website"];
  nwr(area.a)["leisure"~"^({cats})$"]["name"][!"website"][!"contact:website"];);
 out center tags 400;'''
-    for url in ["https://overpass-api.de/api/interpreter", "https://overpass.kumi.systems/api/interpreter"]:
+    for url in ["https://overpass-api.de/api/interpreter", "https://overpass.kumi.systems/api/interpreter", "https://overpass.private.coffee/api/interpreter"]:
         try:
             req = urllib.request.Request(url, urllib.parse.urlencode({"data": q}).encode(), {"User-Agent": "leadbot/1.0"})
-            return json.load(urllib.request.urlopen(req, timeout=120))["elements"]
+            els = json.load(urllib.request.urlopen(req, timeout=100))["elements"]
+            print("overpass ok", CITY, url, len(els), "results")
+            return els
         except Exception as e:
             print("overpass failed", url, e)
     return []
