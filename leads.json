@@ -29,7 +29,7 @@
   "slug": "pizza-hut-3656",
   "email": "",
   "built": "2026-10-19",
-  "status": "no_email"
+  "status": "chain_skipped"
  },
  "node4760144668": {
   "tags": {
@@ -62,7 +62,7 @@
   "slug": "pizza-hut-4668",
   "email": "",
   "built": "2026-10-19",
-  "status": "no_email"
+  "status": "chain_skipped"
  },
  "node4764256793": {
   "tags": {
@@ -99,7 +99,7 @@
   "slug": "place-6793",
   "email": "",
   "built": "2026-10-19",
-  "status": "no_email"
+  "status": "chain_skipped"
  },
  "node4769319482": {
   "tags": {
@@ -130,7 +130,7 @@
   "slug": "place-9482",
   "email": "",
   "built": "2026-10-19",
-  "status": "no_email"
+  "status": "chain_skipped"
  },
  "node5142898231": {
   "tags": {
@@ -181,7 +181,7 @@
   "slug": "nando-6285",
   "email": "",
   "built": "2026-10-19",
-  "status": "no_email"
+  "status": "chain_skipped"
  },
  "node4724246499": {
   "tags": {
@@ -229,7 +229,7 @@
   "slug": "place-9263",
   "email": "",
   "built": "2026-10-19",
-  "status": "no_email"
+  "status": "chain_skipped"
  },
  "node4767393788": {
   "tags": {
@@ -251,7 +251,7 @@
   "slug": "place-3788",
   "email": "",
   "built": "2026-10-19",
-  "status": "no_email"
+  "status": "chain_skipped"
  },
  "node4769242975": {
   "tags": {
@@ -277,6 +277,167 @@
   "lat": 24.8079119,
   "lon": 67.061242,
   "slug": "place-2975",
+  "email": "",
+  "built": "2026-10-19",
+  "status": "chain_skipped"
+ },
+ "node4409193892": {
+  "tags": {
+   "addr:city": "\u06a9\u0631\u0627\u0686\u06cc",
+   "addr:postcode": "75020",
+   "amenity": "restaurant",
+   "cuisine": "afghan",
+   "diet:halal": "only",
+   "name": "\u0627\u0641\u063a\u0627\u0646 \u0628\u062e\u0627\u0631\u06cc \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u0646",
+   "name:en": "Afghan Bukhari Restaurant",
+   "name:ur": "\u0627\u0641\u063a\u0627\u0646 \u0628\u062e\u0627\u0631\u06cc \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u0646",
+   "phone": "03453353374"
+  },
+  "lat": 24.8231505,
+  "lon": 66.9787094,
+  "slug": "afghan-bukhari-restaurant-3892",
+  "email": "",
+  "built": "2026-10-19",
+  "status": "no_email"
+ },
+ "node4786004054": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Phase 8",
+   "addr:place": "DHA Phase 8",
+   "addr:province": "Sindh",
+   "addr:street": "Khayaban e Shaheen",
+   "addr:suburb": "Defence Housing Authority",
+   "amenity": "cafe",
+   "name": "Cafe Cup Shup",
+   "phone": "+92 331 2177144"
+  },
+  "lat": 24.7891043,
+  "lon": 67.0754553,
+  "slug": "cafe-cup-shup-4054",
+  "email": "",
+  "built": "2026-10-19",
+  "status": "no_email"
+ },
+ "node12128176961": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "V3JF+4M2, Haider Ali Rd, Delhi Mercantile Society,",
+   "name": "Baking through life",
+   "phone": "03008209892",
+   "shop": "bakery"
+  },
+  "lat": 24.8801203,
+  "lon": 67.0743736,
+  "slug": "baking-through-life-6961",
+  "email": "",
+  "built": "2026-10-19",
+  "status": "no_email"
+ },
+ "node12130980036": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:housenumber": "R 899,",
+   "addr:street": "Federal B Area Hussainabad Block 3 Gulberg Town,",
+   "name": "Fine Bakers",
+   "phone": "03350297731",
+   "shop": "bakery"
+  },
+  "lat": 24.9152451,
+  "lon": 67.0582429,
+  "slug": "fine-bakers-0036",
+  "email": "",
+  "built": "2026-10-19",
+  "status": "no_email"
+ },
+ "node12131072486": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "opp. CO2 SODA SHOP, Madni Masjid Rd, adjacent to DELHI GULZAR NIHARI HOUSE,",
+   "name": "THE WAFFLES (Hussainabad Branch)",
+   "phone": "03353804184",
+   "shop": "bakery"
+  },
+  "lat": 24.9154808,
+  "lon": 67.059058,
+  "slug": "the-waffles-hussainabad-branch-2486",
+  "email": "",
+  "built": "2026-10-19",
+  "status": "no_email"
+ },
+ "node12131493824": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "W386+M6Q, 316/2, Federal B Area Hussainabad Block 3 Gulberg Town,",
+   "name": "Karachi Bakers",
+   "phone": "03102815316",
+   "shop": "bakery"
+  },
+  "lat": 24.9167496,
+  "lon": 67.0606681,
+  "slug": "karachi-bakers-3824",
+  "email": "",
+  "built": "2026-10-19",
+  "status": "no_email"
+ },
+ "node12131612368": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "W386+VCH, Federal B Area Azizabad Block 8 Gulberg Town,",
+   "name": "Fine Bread And Rusk",
+   "phone": "03102895202",
+   "shop": "bakery"
+  },
+  "lat": 24.9171558,
+  "lon": 67.0612021,
+  "slug": "fine-bread-and-rusk-2368",
+  "email": "",
+  "built": "2026-10-19",
+  "status": "no_email"
+ },
+ "node12132082244": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "W397+94V, Hussainabad Rd, Federal B Area Azizabad Block 8 Gulberg Town",
+   "name": "M.Suleman Mithai Wala",
+   "phone": "03132807376",
+   "shop": "bakery"
+  },
+  "lat": 24.9184036,
+  "lon": 67.0627406,
+  "slug": "m-suleman-mithai-wala-2244",
+  "email": "",
+  "built": "2026-10-19",
+  "status": "no_email"
+ },
+ "node12137266970": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": ", Block 13D-2 Block 13 D 2 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh, Pakistan",
+   "name": "Taha Sweets Bakers and Nimco",
+   "phone": "03453626102",
+   "shop": "bakery"
+  },
+  "lat": 24.9103877,
+  "lon": 67.074857,
+  "slug": "taha-sweets-bakers-and-nimco-6970",
+  "email": "",
+  "built": "2026-10-19",
+  "status": "no_email"
+ },
+ "node12139279863": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:housenumber": "Flat B16, 3rd floor",
+   "addr:street": "Flat B16, 3rd floor, Fahad Garden, Block 13 E Gulshan-e-Iqbal, Karachi,",
+   "name": "Bake It!",
+   "phone": "03103122255",
+   "shop": "bakery"
+  },
+  "lat": 24.9077652,
+  "lon": 67.0667568,
+  "slug": "bake-it-9863",
   "email": "",
   "built": "2026-10-19",
   "status": "no_email"
