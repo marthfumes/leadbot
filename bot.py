@@ -41,9 +41,9 @@ def geocode(city):
     try:
         u = "https://nominatim.openstreetmap.org/search?format=json&limit=1&q=" + urllib.parse.quote(city)
         r = json.load(urllib.request.urlopen(urllib.request.Request(u, headers={"User-Agent": "leadbot/1.0 (github actions)"}), timeout=30))
-        s_, n_, w_, e_ = [float(x) for x in r[0]["boundingbox"]]
-        print("geocoded", city, s_, w_, n_, e_)
-        return f"{s_},{w_},{n_},{e_}"
+        lat, lon = float(r[0]["lat"]), float(r[0]["lon"]); d = 0.08
+        print("geocoded", city, lat, lon)
+        return f"{lat-d},{lon-d},{lat+d},{lon+d}"
     except Exception as e:
         print("geocode failed", city, e)
         return None
@@ -55,7 +55,7 @@ def overpass_one(CITY):
     for c in CATEGORIES:
         c = c.strip()
         f = '["name"][!"website"][!"contact:website"]'
-        q = f'[out:json][timeout:40];(nwr({bbox})["amenity"="{c}"]{f};nwr({bbox})["shop"="{c}"]{f};nwr({bbox})["leisure"="{c}"]{f};);out center tags 300;'
+        q = f'[out:json][timeout:40];(nwr({bbox})["amenity"="{c}"]{f};nwr({bbox})["shop"="{c}"]{f};nwr({bbox})["leisure"="{c}"]{f};);out center tags 200;'
         els = run_query(q)
         if els is None:
             print("servers busy, giving up for", CITY, "- will retry on the next daily run")
