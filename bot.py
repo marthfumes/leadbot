@@ -24,24 +24,34 @@ def load(p, d):
 leads = load("leads.json", {})
 unsub = set(open("unsubscribed.txt").read().lower().split()) if os.path.exists("unsubscribed.txt") else set()
 
+URLS = ["https://overpass-api.de/api/interpreter", "https://overpass.kumi.systems/api/interpreter", "https://overpass.private.coffee/api/interpreter"]
+
+def run_query(q):
+    for attempt in range(3):
+        for url in URLS:
+            try:
+                req = urllib.request.Request(url, urllib.parse.urlencode({"data": q}).encode(), {"User-Agent": "leadbot/1.0 (github actions)"})
+                return json.load(urllib.request.urlopen(req, timeout=60))["elements"]
+            except Exception as e:
+                print("overpass failed", url, e)
+        time.sleep(15 * (attempt + 1))
+    return None
+
 def overpass_one(CITY):
-    cats = "|".join(c.strip() for c in CATEGORIES)
-    shop = "bakery|hairdresser|beauty"
-    q = f'''[out:json][timeout:60];
-(area["name"="{CITY}"]["boundary"="administrative"];area["name:en"="{CITY}"]["boundary"="administrative"];area["name"="{CITY}"]["place"];)->.a;
-(nwr(area.a)["amenity"~"^({cats})$"]["name"][!"website"][!"contact:website"];
- nwr(area.a)["shop"~"^({cats})$"]["name"][!"website"][!"contact:website"];
- nwr(area.a)["leisure"~"^({cats})$"]["name"][!"website"][!"contact:website"];);
-out center tags 400;'''
-    for url in ["https://overpass-api.de/api/interpreter", "https://overpass.kumi.systems/api/interpreter", "https://overpass.private.coffee/api/interpreter"]:
-        try:
-            req = urllib.request.Request(url, urllib.parse.urlencode({"data": q}).encode(), {"User-Agent": "leadbot/1.0"})
-            els = json.load(urllib.request.urlopen(req, timeout=100))["elements"]
-            print("overpass ok", CITY, url, len(els), "results")
-            return els
-        except Exception as e:
-            print("overpass failed", url, e)
-    return []
+    out = []
+    area = f'(area["name"="{CITY}"]["boundary"="administrative"];area["name:en"="{CITY}"]["boundary"="administrative"];area["name"="{CITY}"]["place"];)->.a;'
+    for c in CATEGORIES:
+        c = c.strip()
+        f = '["name"][!"website"][!"contact:website"]'
+        q = f'[out:json][timeout:40];{area}(nwr(area.a)["amenity"="{c}"]{f};nwr(area.a)["shop"="{c}"]{f};nwr(area.a)["leisure"="{c}"]{f};);out center tags 150;'
+        els = run_query(q)
+        if els is None:
+            print("servers busy, giving up for", CITY, "- will retry on the next daily run")
+            break
+        print("overpass ok", CITY, c, len(els), "results")
+        out += els
+        time.sleep(3)
+    return out
 
 def overpass():
     out = []
