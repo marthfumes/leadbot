@@ -1,5 +1,6 @@
-import os, json, re, html, smtplib, time, urllib.request, urllib.parse, datetime
+import os, json, re, html, shutil, smtplib, time, urllib.request, urllib.parse, datetime
 from email.message import EmailMessage
+from collections import Counter
 
 CITY = os.getenv("CITY", "Karachi")
 CATEGORIES = os.getenv("CATEGORIES", "restaurant,cafe,hairdresser,beauty,bakery,dentist,gym").split(",")
@@ -71,13 +72,25 @@ def overpass():
         if c.strip(): out += overpass_one(c.strip())
     return out
 
+CHAIN_KEYS = ("brand", "brand:wikidata", "brand:website", "operator:wikidata", "website", "contact:website")
+
+def is_chain(t, counts=None):
+    if any(k in t for k in CHAIN_KEYS): return True
+    return bool(counts) and counts.get((t.get("name") or "").lower(), 0) >= 3
+
+def wa_number(p):
+    d = re.sub(r"\D", "", (p or "").split(";")[0])
+    if d.startswith("00"): d = d[2:]
+    if d.startswith("0"): d = "92" + d[1:]
+    return d if re.fullmatch(r"923\d{9}", d) else ""
+
 def score(t):
     s = 0
     if "wikidata" in t or "wikipedia" in t: s += 5
-    if "brand" in t: s += 2
+    if wa_number(t.get("phone") or t.get("contact:phone")): s += 2
     for k in ("phone", "contact:phone", "opening_hours"): s += 1 if k in t else 0
     if "email" in t or "contact:email" in t: s += 3
-    if "contact:facebook" in t or "contact:instagram" in t: s += 1
+    if "contact:facebook" in t or "contact:instagram" in t: s += 2
     return s
 
 def slug(s): return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")[:40] or "place"
@@ -122,14 +135,23 @@ Reply "stop" and I won't contact you again.
     with smtplib.SMTP_SSL(SMTP_HOST, SMTP_PORT) as s:
         s.login(SMTP_USER, SMTP_PASS); s.send_message(msg)
 
-# 1) discover + build
+# 0) clean up chain/franchise leads built by older versions
+for key, l in leads.items():
+    if l.get("tags") and is_chain(l["tags"]) and l.get("status") != "chain_skipped":
+        shutil.rmtree(f"docs/{l['slug']}", ignore_errors=True)
+        l["status"] = "chain_skipped"
+
+# 1) discover + build (local businesses only, no chains)
 built = 0
-for el in sorted(overpass(), key=lambda e: -score(e.get("tags", {}))):
+found = overpass()
+counts = Counter((e.get("tags", {}).get("name") or "").lower() for e in found)
+for el in sorted(found, key=lambda e: -score(e.get("tags", {}))):
     key = f"{el['type']}{el['id']}"
     if key in leads or built >= BUILD_PER_RUN: continue
+    if is_chain(el.get("tags", {}), counts): continue
     t = el["tags"]; lat = el.get("lat") or el.get("center", {}).get("lat"); lon = el.get("lon") or el.get("center", {}).get("lon")
     if lat is None: continue
-    lead = {"tags": t, "lat": lat, "lon": lon, "slug": slug(t["name"]) + "-" + str(el["id"])[-4:],
+    lead = {"tags": t, "lat": lat, "lon": lon, "slug": slug(t.get("name:en") or t["name"]) + "-" + str(el["id"])[-4:],
             "email": (t.get("email") or t.get("contact:email") or "").strip().lower(), "built": TODAY,
             "status": "built" if (t.get("email") or t.get("contact:email")) else "no_email"}
     build_site(lead); leads[key] = lead; built += 1
@@ -146,4 +168,17 @@ for key, l in leads.items():
     try: send(l); l["status"] = "emailed"; l["emailed"] = TODAY; sent += 1; time.sleep(20)
     except Exception as e: print("send failed", l["email"], e)
 print("emailed", sent)
+def write_outreach():
+    wa, fb, calls = [], [], []
+    for l in leads.values():
+        if l.get("status") not in ("no_email", "built", "emailed") or not l.get("tags"): continue
+        t = l["tags"]; nm = t.get("name:en") or t["name"]; url = f"{BASE_URL}/{l['slug']}/"
+        ph = (t.get("phone") or t.get("contact:phone") or "").split(";")[0].strip(); n = wa_number(ph)
+        msg = f"Hello! I noticed {nm} doesn't have a website, so I made a free draft for you: {url} If you like it I can customize it. Reply STOP and I won't message again."
+        if n: wa.append(f"- **{nm}**: [Send on WhatsApp](https://wa.me/{n}?text={urllib.parse.quote(msg)}) | [preview]({url})")
+        elif ph: calls.append(f"- **{nm}**: call {ph} | [preview]({url})")
+        if t.get("contact:facebook"): fb.append(f"- **{nm}**: [Facebook page]({t['contact:facebook']}) | [preview]({url})")
+    open("outreach.md", "w").write("# Outreach list (tap a link, the message is pre-filled)\n\n## WhatsApp (mobile numbers)\n" + ("\n".join(wa) or "_none yet_") +
+        "\n\n## Facebook pages (send a message there)\n" + ("\n".join(fb) or "_none yet_") + "\n\n## Phone only (landline)\n" + ("\n".join(calls) or "_none yet_") + "\n")
+write_outreach()
 json.dump(leads, open("leads.json", "w"), indent=1)
