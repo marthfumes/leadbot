@@ -668,5 +668,233 @@
   "built": "2026-10-20",
   "status": "no_email",
   "tv": 4
+ },
+ "node12143519152": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "plotA1 Bhatti hair salon, Gulshan 13-B Block 13 B Gulshan-e-Iqbal, Karachi,",
+   "name": "Bhatti hair salon",
+   "phone": "03042069422",
+   "shop": "hairdresser"
+  },
+  "lat": 24.9081718,
+  "lon": 67.0793291,
+  "slug": "bhatti-hair-salon-9152",
+  "email": "",
+  "built": "2026-10-20",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Bhatti hair salon in Karachi",
+   "about": "Welcome to Bhatti hair salon, a local salon located in Karachi. We are happy to serve the Karachi community with our salon services. Visit us in Karachi today.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0628\u06be\u0679\u06cc \u06c1\u06cc\u0626\u0631 \u0633\u06cc\u0644\u0648\u0646 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u0628\u06be\u0679\u06cc \u06c1\u06cc\u0626\u0631 \u0633\u06cc\u0644\u0648\u0646 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u0633\u06cc\u0644\u0648\u0646 \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u0648 \u0627\u067e\u0646\u06cc \u0633\u06cc\u0644\u0648\u0646 \u062e\u062f\u0645\u0627\u062a \u0641\u0631\u0627\u06c1\u0645 \u06a9\u0631\u0646\u06d2 \u067e\u0631 \u062e\u0648\u0634\u06cc \u06c1\u06d2\u06d4 \u0622\u062c \u06c1\u06cc \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06c1\u0645\u0627\u0631\u06d2 \u067e\u0627\u0633 \u0622\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node12147509567": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:housenumber": "V2GC+G8",
+   "addr:street": "safey building, Garden West Area,",
+   "name": "Pachi men's saloon",
+   "phone": "03453291216",
+   "shop": "hairdresser"
+  },
+  "lat": 24.8762261,
+  "lon": 67.020885,
+  "slug": "pachi-men-s-saloon-9567",
+  "email": "",
+  "built": "2026-10-20",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Pachi men's saloon in Karachi.",
+   "about": "Welcome to Pachi men's saloon located in Karachi. We are a local salon ready to serve you. Visit us in Karachi today.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u067e\u099a\u09bf \u0645\u06cc\u0646\u0632 \u0633\u06cc\u0644\u0648\u0646 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4",
+   "about_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u067e\u099a\u09bf \u0645\u06cc\u0646\u0632 \u0633\u06cc\u0644\u0648\u0646 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4 \u06c1\u0645 \u0622\u067e \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u06d2 \u0644\u06cc\u06d2 \u062a\u06cc\u0627\u0631 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u0633\u06cc\u0644\u0648\u0646 \u06c1\u06cc\u06ba\u06d4 \u0622\u062c \u06c1\u06cc \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06c1\u0645\u0627\u0631\u06d2 \u067e\u0627\u0633 \u0622\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node12164938402": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:housenumber": "V2HJ+F2",
+   "addr:street": "Khalid Corner, Pedro D'Souza Rd, opposite Ghafooria masjid, Garden East",
+   "name": "Meryam Asghar Hair Artistry",
+   "phone": "03332285541",
+   "shop": "hairdresser"
+  },
+  "lat": 24.8786866,
+  "lon": 67.0300059,
+  "slug": "meryam-asghar-hair-artistry-8402",
+  "email": "",
+  "built": "2026-10-20",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Meryam Asghar Hair Artistry",
+   "about": "Welcome to Meryam Asghar Hair Artistry in Karachi. We are a local salon ready to serve you. Visit us in Karachi for your salon needs.",
+   "tagline_ur": "\u0645\u0631\u06cc\u0645 \u0627\u0635\u063a\u0631 \u06c1\u06cc\u0626\u0631 \u0622\u0631\u0679\u0633\u0679\u0631\u06cc \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0645\u0631\u06cc\u0645 \u0627\u0635\u063a\u0631 \u06c1\u06cc\u0626\u0631 \u0622\u0631\u0679\u0633\u0679\u0631\u06cc \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4 \u06c1\u0645 \u0622\u067e \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u06d2 \u0644\u06cc\u06d2 \u062a\u06cc\u0627\u0631 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u0633\u06cc\u0644\u0648\u0646 \u06c1\u06cc\u06ba\u06d4 \u0627\u067e\u0646\u06cc \u0633\u06cc\u0644\u0648\u0646 \u06a9\u06cc \u0636\u0631\u0648\u0631\u06cc\u0627\u062a \u06a9\u06d2 \u0644\u06cc\u06d2 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node12167884149": {
+  "tags": {
+   "addr:city": "karachi",
+   "addr:street": "Shop no 02 , Ross Marry Apartment, Shahrah-e-Pakistan, beside Bankislami Ayesha Manzil Branch, Federal B Area Block 10",
+   "name": "Hair Craft Central",
+   "phone": "03181255660",
+   "shop": "hairdresser"
+  },
+  "lat": 24.9324866,
+  "lon": 67.0699957,
+  "slug": "hair-craft-central-4149",
+  "email": "",
+  "built": "2026-10-20",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Your neighborhood salon in Karachi",
+   "about": "Welcome to Hair Craft Central, a local salon in Karachi. Visit us for your hair care needs. We are happy to serve our community.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0622\u067e \u06a9\u0627 \u0627\u067e\u0646\u0627 \u0633\u06cc\u0644\u0648\u0646",
+   "about_ur": "\u06c1\u06cc\u0626\u0631 \u06a9\u0631\u0627\u0641\u0679 \u0633\u06cc\u0646\u0679\u0631 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u06a9\u0631\u0627\u0686\u06cc \u06a9\u0627 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u0633\u06cc\u0644\u0648\u0646\u06d4 \u0627\u067e\u0646\u06cc \u0628\u0627\u0644\u0648\u06ba \u06a9\u06cc \u062f\u06cc\u06a9\u06be \u0628\u06be\u0627\u0644 \u06a9\u06cc \u0636\u0631\u0648\u0631\u06cc\u0627\u062a \u06a9\u06d2 \u0644\u06cc\u06d2 \u06c1\u0645 \u0633\u06d2 \u0645\u0644\u06cc\u06ba\u06d4 \u06c1\u0645\u06cc\u06ba \u0627\u067e\u0646\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u062a\u06d2 \u06c1\u0648\u0626\u06d2 \u062e\u0648\u0634\u06cc \u06c1\u0648\u062a\u06cc \u06c1\u06d2\u06d4"
+  },
+  "tv": 4
+ },
+ "node12168577924": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Shahbaz St, Kharadar Defence Housing Authority,",
+   "name": "Anaya Saloon",
+   "phone": "03001722238",
+   "shop": "hairdresser"
+  },
+  "lat": 24.8526394,
+  "lon": 66.9947396,
+  "slug": "anaya-saloon-7924",
+  "email": "",
+  "built": "2026-10-20",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Anaya Saloon in Karachi.",
+   "about": "Welcome to Anaya Saloon, a local salon located in Karachi. We are happy to serve the Karachi community with our salon services.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0627\u0646\u0627\u06cc\u0627 \u0633\u06cc\u0644\u0648\u0646 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4",
+   "about_ur": "\u0627\u0646\u0627\u06cc\u0627 \u0633\u06cc\u0644\u0648\u0646 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u0633\u06cc\u0644\u0648\u0646 \u06c1\u06d2\u06d4 \u06c1\u0645 \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0644\u0648\u06af\u0648\u06ba \u06a9\u0648 \u0627\u067e\u0646\u06cc \u0633\u06cc\u0644\u0648\u0646 \u06a9\u06cc \u062e\u062f\u0645\u0627\u062a \u0641\u0631\u0627\u06c1\u0645 \u06a9\u0631\u0646\u06d2 \u067e\u0631 \u062e\u0648\u0634 \u06c1\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node12169699214": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:housenumber": "V2GM+WM",
+   "addr:street": "Askari bank soldier bazar 2 number, Garden East,",
+   "name": "B cuts men salon",
+   "phone": "03331221486",
+   "shop": "hairdresser"
+  },
+  "lat": 24.8773647,
+  "lon": 67.0341889,
+  "slug": "b-cuts-men-salon-9214",
+  "email": "",
+  "built": "2026-10-20",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Your neighborhood men's salon in Karachi.",
+   "about": "Welcome to B cuts men salon, a local salon located right here in Karachi. We are always happy to serve our community and provide a great experience for every visitor. Stop by and check out our salon today!",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0622\u067e \u06a9\u0627 \u0627\u067e\u0646\u0627 \u0645\u0631\u062f\u0627\u0646\u06c1 \u0633\u06cc\u0644\u0648\u0646\u06d4",
+   "about_ur": "\u0628\u06cc \u06a9\u0679\u0633 \u0645\u06cc\u0646 \u0633\u06cc\u0644\u0648\u0646 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06cc\u06c1\u06cc\u06ba \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u0633\u06cc\u0644\u0648\u0646 \u06c1\u06d2\u06d4 \u06c1\u0645 \u06c1\u0645\u06cc\u0634\u06c1 \u0627\u067e\u0646\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u0627\u0648\u0631 \u06c1\u0631 \u0622\u0646\u06d2 \u0648\u0627\u0644\u06d2 \u06a9\u0648 \u0627\u06cc\u06a9 \u0634\u0627\u0646\u062f\u0627\u0631 \u062a\u062c\u0631\u0628\u06c1 \u0641\u0631\u0627\u06c1\u0645 \u06a9\u0631\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u062e\u0648\u0634 \u0631\u06c1\u062a\u06d2 \u06c1\u06cc\u06ba\u06d4 \u0622\u062c \u06c1\u06cc \u06c1\u0645\u0627\u0631\u06d2 \u0633\u06cc\u0644\u0648\u0646 \u06a9\u0627 \u0631\u062e \u06a9\u0631\u06cc\u06ba!"
+  },
+  "tv": 4
+ },
+ "node12172126697": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:housenumber": "V2GJ+5C",
+   "addr:street": "no.2, near police station, Soldier Bazaar",
+   "hairdresser": "barber",
+   "name": "Nai ki dukan, barber",
+   "phone": "03039131628",
+   "shop": "hairdresser"
+  },
+  "lat": 24.8753567,
+  "lon": 67.0310492,
+  "slug": "nai-ki-dukan-barber-6697",
+  "email": "",
+  "built": "2026-10-20",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Your local barber in Karachi",
+   "about": "Welcome to Nai ki dukan, barber, your friendly neighborhood salon located in Karachi. We are proud to serve the Karachi community with our salon services.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0622\u067e \u06a9\u0627 \u0645\u0642\u0627\u0645\u06cc \u0628\u0627\u0631\u0628\u0631",
+   "about_ur": "Karachi mein \u0648\u0627\u0642\u0639 Nai ki dukan, barber mein \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u0622\u067e \u06a9\u0627 \u062f\u0648\u0633\u062a\u0627\u0646\u06c1 \u0642\u0631\u06cc\u0628\u06cc \u0633\u06cc\u0644\u0648\u0646 \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u0648 \u0627\u067e\u0646\u06cc \u0633\u06cc\u0644\u0648\u0646 \u06a9\u06cc \u062e\u062f\u0645\u0627\u062a \u0641\u0631\u0627\u06c1\u0645 \u06a9\u0631\u0646\u06d2 \u067e\u0631 \u0641\u062e\u0631 \u06c1\u06d2\u06d4"
+  },
+  "tv": 4
+ },
+ "node12172318823": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:housenumber": "V2GM+G4",
+   "addr:street": "Hasnain Heights Soldier, bazar,",
+   "hairdresser": "barber",
+   "name": "Saeed Hair Saloon",
+   "phone": "03002530474",
+   "shop": "hairdresser"
+  },
+  "lat": 24.876353,
+  "lon": 67.0328309,
+  "slug": "saeed-hair-saloon-8823",
+  "email": "",
+  "built": "2026-10-20",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Saeed Hair Saloon in Karachi",
+   "about": "Welcome to Saeed Hair Saloon, located in Karachi. We are a local salon ready to serve you. Visit us in Karachi today.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0633\u0639\u06cc\u062f \u06c1\u06cc\u0626\u0631 \u0633\u06cc\u0644\u0648\u0646 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u0633\u0639\u06cc\u062f \u06c1\u06cc\u0626\u0631 \u0633\u06cc\u0644\u0648\u0646 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u06c1\u06d2\u06d4 \u06c1\u0645 \u0622\u067e \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u06d2 \u0644\u06cc\u06d2 \u062a\u06cc\u0627\u0631 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u0633\u06cc\u0644\u0648\u0646 \u06c1\u06cc\u06ba\u06d4 \u0622\u062c \u06c1\u06cc \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06c1\u0645\u0627\u0631\u06d2 \u067e\u0627\u0633 \u0622\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node12173035862": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Street 7, Laloo Khait Block 10 liaquatabad no 10, Karachi, Karachi City, Sindh 74800, Pakistan",
+   "name": "Naae mens salon",
+   "phone": "03452151539",
+   "shop": "hairdresser"
+  },
+  "lat": 24.9083938,
+  "lon": 67.0526484,
+  "slug": "naae-mens-salon-5862",
+  "email": "",
+  "built": "2026-10-20",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Your neighborhood salon in Karachi.",
+   "about": "Welcome to Naae mens salon, a local salon proudly serving Karachi. We are here to provide you with great salon services right in your area.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0622\u067e \u06a9\u0627 \u0627\u067e\u0646\u0627 \u0633\u06cc\u0644\u0648\u0646\u06d4",
+   "about_ur": "\u0646\u0627\u0626\u06cc\u0646\u0633 \u0645\u06cc\u0646\u0632 \u0633\u06cc\u0644\u0648\u0646 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u0633\u06cc\u0644\u0648\u0646 \u062c\u0648 \u0641\u062e\u0631 \u06a9\u06d2 \u0633\u0627\u062a\u06be \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u062e\u062f\u0645\u0627\u062a \u0627\u0646\u062c\u0627\u0645 \u062f\u06d2 \u0631\u06c1\u0627 \u06c1\u06d2\u06d4 \u06c1\u0645 \u0622\u067e \u06a9\u06d2 \u0639\u0644\u0627\u0642\u06d2 \u0645\u06cc\u06ba \u0628\u06c1\u062a\u0631\u06cc\u0646 \u0633\u06cc\u0644\u0648\u0646 \u06a9\u06cc \u062e\u062f\u0645\u0627\u062a \u0641\u0631\u0627\u06c1\u0645 \u06a9\u0631\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u06cc\u06c1\u0627\u06ba \u0645\u0648\u062c\u0648\u062f \u06c1\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node12179729382": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Al Azam Square, Shop no.L5, Main St, near MA Fast Food, Sharifabad Block 1 Gulberg Town, Karachi, Karachi City, Sindh 74950, Pakistan",
+   "hairdresser": "barber",
+   "name": "WAX MEN'S SALOON",
+   "phone": "03038570650",
+   "shop": "hairdresser"
+  },
+  "lat": 24.9100686,
+  "lon": 67.0502282,
+  "slug": "wax-men-s-saloon-9382",
+  "email": "",
+  "built": "2026-10-20",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to WAX MEN'S SALOON in Karachi.",
+   "about": "Welcome to WAX MEN'S SALOON, your local salon located right here in Karachi. We are always ready to serve you in our area. Visit us soon for your salon needs.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba WAX MEN'S SALOON \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4",
+   "about_ur": "WAX MEN'S SALOON \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0622\u067e \u06a9\u0627 \u0645\u0642\u0627\u0645\u06cc \u0633\u06cc\u0644\u0648\u0646 \u06c1\u06d2\u06d4 \u06c1\u0645 \u0627\u067e\u0646\u06d2 \u0639\u0644\u0627\u0642\u06d2 \u0645\u06cc\u06ba \u0622\u067e \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u06d2 \u0644\u06cc\u06d2 \u06c1\u0645\u06cc\u0634\u06c1 \u062a\u06cc\u0627\u0631 \u06c1\u06cc\u06ba\u06d4 \u0627\u067e\u0646\u06cc \u0633\u06cc\u0644\u0648\u0646 \u06a9\u06cc \u0636\u0631\u0648\u0631\u06cc\u0627\u062a \u06a9\u06d2 \u0644\u06cc\u06d2 \u062c\u0644\u062f \u06c1\u06cc \u06c1\u0645\u0627\u0631\u06d2 \u067e\u0627\u0633 \u0622\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
  }
 }
