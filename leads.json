@@ -157,7 +157,14 @@
   "slug": "mr-ms-salon-8231",
   "email": "",
   "built": "2026-10-19",
-  "status": "no_email"
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Mr&Ms Salon in Karachi",
+   "about": "Welcome to Mr&Ms Salon, located in Karachi. We are open Monday through Sunday from 11:00 to 19:00 for both men and women. Enjoy our air-conditioned space and pay easily with cash or cards.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0645\u0633 \u0627\u06cc\u0646\u0688 \u0645\u0633\u0632 \u0633\u06cc\u0644\u0648\u0646 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0645\u0633 \u0627\u06cc\u0646\u0688 \u0645\u0633\u0632 \u0633\u06cc\u0644\u0648\u0646 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4 \u06c1\u0645 \u0645\u0631\u062f\u0648\u06ba \u0627\u0648\u0631 \u0639\u0648\u0631\u062a\u0648\u06ba \u062f\u0648\u0646\u0648\u06ba \u06a9\u06d2 \u0644\u06cc\u06d2 \u067e\u06cc\u0631 \u0633\u06d2 \u0627\u062a\u0648\u0627\u0631 \u0635\u0628\u062d 11:00 \u0633\u06d2 \u0634\u0627\u0645 19:00 \u062a\u06a9 \u06a9\u06be\u0644\u06d2 \u06c1\u06cc\u06ba\u06d4 \u06c1\u0645\u0627\u0631\u06d2 \u0627\u06d2 \u0633\u06cc \u0645\u0627\u062d\u0648\u0644 \u0633\u06d2 \u0644\u0637\u0641 \u0627\u0646\u062f\u0648\u0632 \u06c1\u0648\u06ba \u0627\u0648\u0631 \u0646\u0642\u062f \u06cc\u0627 \u06a9\u0627\u0631\u0688 \u06a9\u06d2 \u0630\u0631\u06cc\u0639\u06d2 \u0622\u0633\u0627\u0646\u06cc \u0633\u06d2 \u0627\u062f\u0627\u0626\u06cc\u06af\u06cc \u06a9\u0631\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
  },
  "node4724026285": {
   "tags": {
@@ -204,7 +211,14 @@
   "slug": "cafe-flo-6499",
   "email": "",
   "built": "2026-10-19",
-  "status": "no_email"
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Cafe Flo in Karachi.",
+   "about": "Welcome to Cafe Flo, a restaurant located in Clifton, Karachi. We are open from 12:00 to 00:00 every day. Visit us to enjoy your time in the area.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06a9\u06cc\u09ab\u09c7 \u0641\u0644\u0648 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4",
+   "about_ur": "\u06a9\u06cc\u09ab\u09c7 \u0641\u0644\u0648 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u06c1 \u06a9\u0644\u0641\u0679\u0646\u060c \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u06ba \u06c1\u06d2\u06d4 \u06c1\u0645 \u06c1\u0631 \u0631\u0648\u0632 12:00 \u0633\u06d2 00:00 \u062a\u06a9 \u06a9\u06be\u0644\u06d2 \u0631\u06c1\u062a\u06d2 \u06c1\u06cc\u06ba\u06d4 \u0627\u0633 \u0639\u0644\u0627\u0642\u06d2 \u0645\u06cc\u06ba \u0627\u067e\u0646\u06d2 \u0648\u0642\u062a \u0633\u06d2 \u0644\u0637\u0641 \u0627\u0646\u062f\u0648\u0632 \u06c1\u0648\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
  },
  "node4764159263": {
   "tags": {
@@ -298,7 +312,14 @@
   "slug": "afghan-bukhari-restaurant-3892",
   "email": "",
   "built": "2026-10-19",
-  "status": "no_email"
+  "status": "no_email",
+  "ai": {
+   "tagline": "Authentic Afghan Cuisine in Karachi",
+   "about": "Welcome to \u0627\u0641\u063a\u0627\u0646 \u0628\u062e\u0627\u0631\u06cc \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u0646, a local Afghan restaurant located in \u06a9\u0631\u0627\u0686\u06cc. We invite you to enjoy our delicious Afghan dishes prepared with care. Visit us today for a wonderful dining experience.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0627\u0635\u0644 \u0627\u0641\u063a\u0627\u0646 \u06a9\u06be\u0627\u0646\u06d2",
+   "about_ur": "\u0627\u0641\u063a\u0627\u0646 \u0628\u062e\u0627\u0631\u06cc \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u0646 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u0627\u0641\u063a\u0627\u0646 \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u0646 \u06c1\u06d2\u06d4 \u06c1\u0645 \u0622\u067e \u06a9\u0648 \u0627\u067e\u0646\u06cc \u0645\u0632\u06cc\u062f\u0627\u0631 \u0627\u0641\u063a\u0627\u0646 \u0688\u0634\u0632 \u0633\u06d2 \u0644\u0637\u0641 \u0627\u0646\u062f\u0648\u0632 \u06c1\u0648\u0646\u06d2 \u06a9\u06cc \u062f\u0639\u0648\u062a \u062f\u06cc\u062a\u06d2 \u06c1\u06cc\u06ba\u06d4 \u0627\u06cc\u06a9 \u0634\u0627\u0646\u062f\u0627\u0631 \u06a9\u06be\u0627\u0646\u06d2 \u06a9\u06d2 \u062a\u062c\u0631\u0628\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u0622\u062c \u06c1\u06cc \u06c1\u0645\u0627\u0631\u06d2 \u067e\u0627\u0633 \u0622\u0626\u06cc\u06ba"
+  },
+  "tv": 4
  },
  "node4786004054": {
   "tags": {
@@ -318,7 +339,14 @@
   "slug": "cafe-cup-shup-4054",
   "email": "",
   "built": "2026-10-19",
-  "status": "no_email"
+  "status": "no_email",
+  "ai": {
+   "tagline": "Your neighborhood caf\u00e9 in Karachi",
+   "about": "Welcome to Cafe Cup Shup, a cozy caf\u00e9 located in Defence Housing Authority, Karachi. Drop by to enjoy our space in the neighborhood. We look forward to seeing you here.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0622\u067e \u06a9\u0627 \u0627\u067e\u0646\u0627 \u0645\u0642\u0627\u0645\u06cc \u06a9\u06cc\u09ab\u09c7",
+   "about_ur": "\u06a9\u06cc\u09ab\u09c7 \u06a9\u067e \u0634\u067e \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u0688\u06cc\u0641\u0646\u0633 \u06c1\u0627\u0624\u0633\u0646\u06af \u0627\u062a\u06be\u0627\u0631\u0679\u06cc\u060c \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0622\u0631\u0627\u0645 \u062f\u06c1 \u06a9\u06cc\u09ab\u09c7 \u06c1\u06d2\u06d4 \u06c1\u0645\u0627\u0631\u06d2 \u067e\u0627\u0633 \u0622\u0646\u06d2 \u0627\u0648\u0631 \u0645\u062d\u0644\u06d2 \u0645\u06cc\u06ba \u06c1\u0645\u0627\u0631\u06cc \u062c\u06af\u06c1 \u0633\u06d2 \u0644\u0637\u0641 \u0627\u0646\u062f\u0648\u0632 \u06c1\u0648\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba\u06d4 \u06c1\u0645 \u06cc\u06c1\u0627\u06ba \u0622\u067e \u06a9\u06d2 \u0645\u0646\u062a\u0638\u0631 \u06c1\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
  },
  "node12128176961": {
   "tags": {
@@ -333,7 +361,8 @@
   "slug": "baking-through-life-6961",
   "email": "",
   "built": "2026-10-19",
-  "status": "no_email"
+  "status": "no_email",
+  "tv": 4
  },
  "node12130980036": {
   "tags": {
@@ -349,7 +378,14 @@
   "slug": "fine-bakers-0036",
   "email": "",
   "built": "2026-10-19",
-  "status": "no_email"
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Fine Bakers in Karachi",
+   "about": "Welcome to Fine Bakers, your local bakery right here in Karachi. We are always happy to serve our community. Stop by and visit us today!",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0641\u0627\u0626\u0646 \u0628\u06cc\u06a9\u0631\u0632 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u0641\u0627\u0626\u0646 \u0628\u06cc\u06a9\u0631\u0632 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06cc\u06c1\u06cc\u06ba \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0622\u067e \u06a9\u06cc \u0645\u0642\u0627\u0645\u06cc \u0628\u06cc\u06a9\u0631\u06cc \u06c1\u06d2\u06d4 \u06c1\u0645 \u06c1\u0645\u06cc\u0634\u06c1 \u0627\u067e\u0646\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u06a9\u06d2 \u062e\u0648\u0634 \u06c1\u0648\u062a\u06d2 \u06c1\u06cc\u06ba\u06d4 \u0622\u062c \u06c1\u06cc \u0622\u0626\u06cc\u06ba \u0627\u0648\u0631 \u06c1\u0645 \u0633\u06d2 \u0645\u0644\u06cc\u06ba!"
+  },
+  "tv": 4
  },
  "node12131072486": {
   "tags": {
@@ -364,7 +400,14 @@
   "slug": "the-waffles-hussainabad-branch-2486",
   "email": "",
   "built": "2026-10-19",
-  "status": "no_email"
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to THE WAFFLES Hussainabad Branch.",
+   "about": "Welcome to THE WAFFLES Hussainabad Branch, a local bakery in Karachi. We are happy to serve the Karachi community. Visit us today!",
+   "tagline_ur": "\u062f\u06cc \u0648\u0627\u0641\u0632 \u062d\u0633\u06cc\u0646 \u0622\u0628\u0627\u062f \u0628\u0631\u0627\u0646\u0686 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4",
+   "about_ur": "\u062f\u06cc \u0648\u0627\u0641\u0632 \u062d\u0633\u06cc\u0646 \u0622\u0628\u0627\u062f \u0628\u0631\u0627\u0646\u0686 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0627\u06cc\u06a9 \u0628\u06cc\u06a9\u0631\u06cc \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u06a9\u06d2 \u062e\u0648\u0634\u06cc \u06c1\u0648\u062a\u06cc \u06c1\u06d2\u06d4 \u0622\u062c \u06c1\u06cc \u06c1\u0645\u0627\u0631\u06d2 \u067e\u0627\u0633 \u0622\u0626\u06cc\u06ba!"
+  },
+  "tv": 4
  },
  "node12131493824": {
   "tags": {
@@ -379,7 +422,14 @@
   "slug": "karachi-bakers-3824",
   "email": "",
   "built": "2026-10-19",
-  "status": "no_email"
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Karachi Bakers in Karachi",
+   "about": "Welcome to Karachi Bakers, a local bakery located in Karachi. We are proud to serve our community here in Karachi.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06a9\u0631\u0627\u0686\u06cc \u0628\u06cc\u06a9\u0631\u0632 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u0628\u06cc\u06a9\u0631\u06cc\u060c \u06a9\u0631\u0627\u0686\u06cc \u0628\u06cc\u06a9\u0631\u0632 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4 \u06c1\u0645\u06cc\u06ba \u06cc\u06c1\u0627\u06ba \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0627\u067e\u0646\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u067e\u0631 \u0641\u062e\u0631 \u06c1\u06d2\u06d4"
+  },
+  "tv": 4
  },
  "node12131612368": {
   "tags": {
@@ -394,7 +444,14 @@
   "slug": "fine-bread-and-rusk-2368",
   "email": "",
   "built": "2026-10-19",
-  "status": "no_email"
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Fine Bread And Rusk",
+   "about": "Welcome to Fine Bread And Rusk, a bakery located in Karachi. We are proud to serve the city of Karachi. Visit us today!",
+   "tagline_ur": "\u0641\u0627\u0626\u0646 \u0628\u0631\u06cc\u0688 \u0627\u06cc\u0646\u0688 \u0631\u0633\u06a9 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u0641\u0627\u0626\u0646 \u0628\u0631\u06cc\u0688 \u0627\u06cc\u0646\u0688 \u0631\u0633\u06a9 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0628\u06cc\u06a9\u0631\u06cc \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u0634\u06c1\u0631 \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u067e\u0631 \u0641\u062e\u0631 \u06c1\u06d2\u06d4 \u0622\u062c \u06c1\u06cc \u06c1\u0645 \u0633\u06d2 \u0645\u0644\u06cc\u06ba!"
+  },
+  "tv": 4
  },
  "node12132082244": {
   "tags": {
@@ -409,7 +466,14 @@
   "slug": "m-suleman-mithai-wala-2244",
   "email": "",
   "built": "2026-10-19",
-  "status": "no_email"
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to M.Suleman Mithai Wala in Karachi",
+   "about": "Welcome to M.Suleman Mithai Wala, a local bakery located in Karachi. We are proud to serve the community in Karachi. Visit us to experience our bakery today.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0627\u06cc\u0645 \u0633\u0644\u06cc\u0645\u0627\u0646 \u0645\u0679\u06be\u0627\u0626\u06cc \u0648\u0627\u0644\u0627 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u0627\u06cc\u0645 \u0633\u0644\u06cc\u0645\u0627\u0646 \u0645\u0679\u06be\u0627\u0626\u06cc \u0648\u0627\u0644\u0627 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u06c1 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u0628\u06cc\u06a9\u0631\u06cc \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0639\u0644\u0627\u0642\u06d2 \u0645\u06cc\u06ba \u062e\u062f\u0645\u0627\u062a \u0627\u0646\u062c\u0627\u0645 \u062f\u06cc\u0646\u06d2 \u067e\u0631 \u0641\u062e\u0631 \u06c1\u06d2\u06d4 \u0622\u062c \u06c1\u06cc \u06c1\u0645\u0627\u0631\u06cc \u0628\u06cc\u06a9\u0631\u06cc \u06a9\u0627 \u0631\u062e \u06a9\u0631\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
  },
  "node12137266970": {
   "tags": {
@@ -424,7 +488,8 @@
   "slug": "taha-sweets-bakers-and-nimco-6970",
   "email": "",
   "built": "2026-10-19",
-  "status": "no_email"
+  "status": "no_email",
+  "tv": 4
  },
  "node12139279863": {
   "tags": {
@@ -440,6 +505,168 @@
   "slug": "bake-it-9863",
   "email": "",
   "built": "2026-10-19",
-  "status": "no_email"
+  "status": "no_email",
+  "tv": 4
+ },
+ "node10822270006": {
+  "tags": {
+   "addr:street": "Rahat Commercial Lane 3",
+   "name": "lavish men\u2019s salon",
+   "phone": "0336-5244452",
+   "shop": "hairdresser"
+  },
+  "lat": 24.8090861,
+  "lon": 67.0691545,
+  "slug": "lavish-men-s-salon-0006",
+  "email": "",
+  "built": "2026-10-20",
+  "status": "no_email",
+  "tv": 4
+ },
+ "node12131053165": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:housenumber": "W385+8QF,",
+   "addr:street": ", Federal B Area Block 2 Gulberg Town,",
+   "name": "REX Hair Dresser & Saloon",
+   "phone": "03212911901",
+   "shop": "hairdresser"
+  },
+  "lat": 24.9157611,
+  "lon": 67.0594342,
+  "slug": "rex-hair-dresser-saloon-3165",
+  "email": "",
+  "built": "2026-10-20",
+  "status": "no_email",
+  "tv": 4
+ },
+ "node12131514824": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Madni Masjid Rd, Federal B Area Azizabad Block 8 Gulberg Town,",
+   "name": "Silk Cut Hair Saloon",
+   "phone": "03232416761",
+   "shop": "hairdresser"
+  },
+  "lat": 24.9170372,
+  "lon": 67.0610392,
+  "slug": "silk-cut-hair-saloon-4824",
+  "email": "",
+  "built": "2026-10-20",
+  "status": "no_email",
+  "tv": 4
+ },
+ "node12132158879": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Shop A\u060c 164, Block 13D-1 Block 13 D 1 Gulshan-e-Iqbal, Karachi, n",
+   "name": "Momoz Hair Salon for men",
+   "phone": "03009249295",
+   "shop": "hairdresser"
+  },
+  "lat": 24.9142966,
+  "lon": 67.0815133,
+  "slug": "momoz-hair-salon-for-men-8879",
+  "email": "",
+  "built": "2026-10-20",
+  "status": "no_email",
+  "tv": 4
+ },
+ "node12132160962": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Sahba Akhtar Rd, Block 13D-1 Block 13 D 1 Gulshan-e-Iqbal, Karachi",
+   "name": "Perfect hair club",
+   "phone": "03323597207",
+   "shop": "hairdresser"
+  },
+  "lat": 24.9136987,
+  "lon": 67.0819274,
+  "slug": "perfect-hair-club-0962",
+  "email": "",
+  "built": "2026-10-20",
+  "status": "no_email",
+  "tv": 4
+ },
+ "node12134276227": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "R3W4+22W, Karachi Cantonment,",
+   "name": "Paradise Hair Parlor",
+   "phone": "03012723012",
+   "shop": "hairdresser"
+  },
+  "lat": 24.8450871,
+  "lon": 67.0550249,
+  "slug": "paradise-hair-parlor-6227",
+  "email": "",
+  "built": "2026-10-20",
+  "status": "no_email",
+  "tv": 4
+ },
+ "node12134301951": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Defence garden apartments, Phase 1 Karachi Cantonment, Karachi,",
+   "name": "Salman Hair Studio",
+   "phone": "03032324990",
+   "shop": "hairdresser"
+  },
+  "lat": 24.845547,
+  "lon": 67.0542605,
+  "slug": "salman-hair-studio-1951",
+  "email": "",
+  "built": "2026-10-20",
+  "status": "no_email",
+  "tv": 4
+ },
+ "node12138406677": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Shop No 1 Suncity Apartment Gulshan E Iqbal Block, 13 D-2, Karachi, 75300, Pakistan",
+   "hairdresser": "barber",
+   "name": "The Lads Lounge",
+   "phone": "03211267011",
+   "shop": "hairdresser"
+  },
+  "lat": 24.9105309,
+  "lon": 67.0745618,
+  "slug": "the-lads-lounge-6677",
+  "email": "",
+  "built": "2026-10-20",
+  "status": "no_email",
+  "tv": 4
+ },
+ "node12139193806": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Habeeb blessing, Block 13 D 2 Gulshan-e-Iqbal, Karachi,",
+   "name": "The Scissor\u2019s Edge",
+   "phone": "03315414052",
+   "shop": "hairdresser"
+  },
+  "lat": 24.9101929,
+  "lon": 67.0709615,
+  "slug": "the-scissor-s-edge-3806",
+  "email": "",
+  "built": "2026-10-20",
+  "status": "no_email",
+  "tv": 4
+ },
+ "node12141413594": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Shop , number 10, Mudasir Heights, Udham Das Tara Chand Rd, near Jilani Masjid, opp. sailani Apartment, Garden West Garden West Area,",
+   "name": "Adeel men,s saloon",
+   "phone": "03009686555",
+   "shop": "hairdresser"
+  },
+  "lat": 24.8743199,
+  "lon": 67.0167468,
+  "slug": "adeel-men-s-saloon-3594",
+  "email": "",
+  "built": "2026-10-20",
+  "status": "no_email",
+  "tv": 4
  }
 }
