@@ -38,3 +38,6 @@
 
 ## Phone only (landline)
 - **Cafe Flo**: call +92 21 35877499 | [preview](https://muzammilmehar123.github.io/leadbot/cafe-flo-6499/)
+- **Chatterbox**: call +92 213 583 0337 | [preview](https://muzammilmehar123.github.io/leadbot/chatterbox-3383/)
+- **Kababjees**: call 021111666111 | [preview](https://muzammilmehar123.github.io/leadbot/kababjees-4796/)
+- **Cafe Laziz**: call 02132631484 | [preview](https://muzammilmehar123.github.io/leadbot/cafe-laziz-7637/)

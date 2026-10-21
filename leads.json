@@ -896,5 +896,253 @@
    "about_ur": "WAX MEN'S SALOON \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0622\u067e \u06a9\u0627 \u0645\u0642\u0627\u0645\u06cc \u0633\u06cc\u0644\u0648\u0646 \u06c1\u06d2\u06d4 \u06c1\u0645 \u0627\u067e\u0646\u06d2 \u0639\u0644\u0627\u0642\u06d2 \u0645\u06cc\u06ba \u0622\u067e \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u06d2 \u0644\u06cc\u06d2 \u06c1\u0645\u06cc\u0634\u06c1 \u062a\u06cc\u0627\u0631 \u06c1\u06cc\u06ba\u06d4 \u0627\u067e\u0646\u06cc \u0633\u06cc\u0644\u0648\u0646 \u06a9\u06cc \u0636\u0631\u0648\u0631\u06cc\u0627\u062a \u06a9\u06d2 \u0644\u06cc\u06d2 \u062c\u0644\u062f \u06c1\u06cc \u06c1\u0645\u0627\u0631\u06d2 \u067e\u0627\u0633 \u0622\u0626\u06cc\u06ba\u06d4"
   },
   "tv": 4
+ },
+ "node4759233383": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Phase 6",
+   "addr:place": "DHA Phase 6",
+   "addr:postcode": "75500",
+   "addr:province": "Sindh",
+   "addr:street": "Khayaban-e-Muslim",
+   "addr:suburb": "Defence Housing Authority",
+   "amenity": "cafe",
+   "name": "Chatterbox",
+   "opening_hours": "08:00-00:00",
+   "phone": "+92 213 583 0337"
+  },
+  "lat": 24.7909061,
+  "lon": 67.0650309,
+  "slug": "chatterbox-3383",
+  "email": "",
+  "built": "2026-10-21",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Chatterbox in Karachi",
+   "about": "Welcome to Chatterbox, a cozy caf\u00e9 located in Defence Housing Authority, Karachi. We are open every day from 08:00 to 00:00. Drop by to enjoy our space.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0686\u06cc\u0679\u0631 \u0628\u0627\u06a9\u0633 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u0686\u06cc\u0679\u0631 \u0628\u0627\u06a9\u0633 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u06c1 \u0688\u06cc\u0641\u0646\u0633 \u06c1\u0627\u0624\u0633\u0646\u06af \u0627\u062a\u06be\u0627\u0631\u0679\u06cc\u060c \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0622\u0631\u0627\u0645 \u062f\u06c1 \u06a9\u06cc\u0641\u06d2 \u06c1\u06d2\u06d4 \u06c1\u0645 \u0631\u0648\u0632\u0627\u0646\u06c1 \u0635\u0628\u062d 08:00 \u0633\u06d2 \u0631\u0627\u062a 00:00 \u0628\u062c\u06d2 \u062a\u06a9 \u06a9\u06be\u0644\u06d2 \u0631\u06c1\u062a\u06d2 \u06c1\u06cc\u06ba\u06d4 \u06c1\u0645\u0627\u0631\u06cc \u062c\u06af\u06c1 \u0633\u06d2 \u0644\u0637\u0641 \u0627\u0646\u062f\u0648\u0632 \u06c1\u0648\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node4493984796": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Shaheed e Millat Road",
+   "amenity": "restaurant",
+   "name": "Kababjees",
+   "phone": "021111666111"
+  },
+  "lat": 24.883502,
+  "lon": 67.060199,
+  "slug": "kababjees-4796",
+  "email": "",
+  "built": "2026-10-21",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Kababjees in Karachi",
+   "about": "Welcome to Kababjees, a local restaurant located in Karachi. We are proud to serve the Karachi community. Visit us today!",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06a9\u0628\u0627\u0628 \u062c\u06cc\u0632 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u06a9\u0628\u0627\u0628 \u062c\u06cc\u0632 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u0631\u06cc\u0633\u0679\u0648\u0631\u0627\u0646\u0679 \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u067e\u0631 \u0641\u062e\u0631 \u06c1\u06d2\u06d4 \u0622\u062c \u06c1\u06cc \u06c1\u0645\u0627\u0631\u06d2 \u067e\u0627\u0633 \u0622\u0626\u06cc\u06ba!"
+  },
+  "tv": 4
+ },
+ "node4723934051": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Block 2",
+   "addr:place": "Clifton Block 2",
+   "addr:province": "Sindh",
+   "addr:street": "Clifton",
+   "addr:suburb": "Clifton",
+   "amenity": "restaurant",
+   "capacity": "200",
+   "country": "PK",
+   "name": "China Town Resturant",
+   "opening_hours": "12:00-00:00"
+  },
+  "lat": 24.8108892,
+  "lon": 67.0180925,
+  "slug": "china-town-resturant-4051",
+  "email": "",
+  "built": "2026-10-21",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to China Town Resturant in Clifton",
+   "about": "Welcome to China Town Resturant, a local restaurant located in Clifton, Karachi. We are open every day from 12:00 to 00:00 to serve you. Visit us today to experience our wonderful restaurant.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0639\u0644\u0627\u0642\u06d2 \u06a9\u0644\u0641\u0679\u0646 \u0645\u06cc\u06ba \u0686\u0627\u0626\u09a8\u09be \u0679\u0627\u0624\u0646 \u0631\u06cc\u0633\u0679\u0648\u0631\u0646\u0679 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u0686\u0627\u0626\u09a8\u09be \u0679\u0627\u0624\u0646 \u0631\u06cc\u0633\u0679\u0648\u0631\u0646\u0679 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u06c1 \u06a9\u0644\u0641\u062a\u06be\u0645\u060c \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u0631\u06cc\u0633\u0679\u0648\u0631\u0646\u0679 \u06c1\u06d2\u06d4 \u06c1\u0645 \u0622\u067e \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u06d2 \u0644\u06cc\u06d2 \u0631\u0648\u0632\u0627\u0646\u06c1 \u062f\u0648\u067e\u06c1\u0631 12:00 \u0633\u06d2 \u0631\u0627\u062a 00:00 \u062a\u06a9 \u06a9\u06be\u0644\u06d2 \u0631\u06c1\u062a\u06d2 \u06c1\u06cc\u06ba\u06d4 \u06c1\u0645\u0627\u0631\u06d2 \u0634\u0627\u0646\u062f\u0627\u0631 \u0631\u06cc\u0633\u0679\u0648\u0631\u0646\u0679 \u06a9\u0627 \u062a\u062c\u0631\u0628\u06c1 \u06a9\u0631\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u0622\u062c \u06c1\u06cc \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node4759233385": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Phase 6",
+   "addr:place": "DHA Phase 6",
+   "addr:province": "Sindh",
+   "addr:street": "Khayaban-e-Shujaat",
+   "addr:suburb": "Defence Housing Authority",
+   "amenity": "restaurant",
+   "name": "Zouk",
+   "opening_hours": "12:00-00:00"
+  },
+  "lat": 24.7905326,
+  "lon": 67.0652906,
+  "slug": "zouk-3385",
+  "email": "",
+  "built": "2026-10-21",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Zouk Restaurant in Karachi.",
+   "about": "Welcome to Zouk, a restaurant located in Defence Housing Authority, Karachi. We are open every day from 12:00 to 00:00. We look forward to serving you.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0688\u06cc\u0641\u09c7\u09a8\u09cd\u09b8 \u06c1\u0627\u0624\u0633\u0646\u06af \u0627\u062a\u06be\u0627\u0631\u0679\u06cc \u0645\u06cc\u06ba \u0632\u0648\u062e \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u06ba \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4",
+   "about_ur": "\u0632\u0648\u062e \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u0688\u06cc\u0641\u09c7\u09a8\u09cd\u09b8 \u06c1\u0627\u0624\u0633\u0646\u06af \u0627\u062a\u06be\u0627\u0631\u0679\u06cc\u060c \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u06ba \u06c1\u06d2\u06d4 \u06c1\u0645 \u06c1\u0631 \u0631\u0648\u0632 12:00 \u0633\u06d2 00:00 \u062a\u06a9 \u06a9\u06be\u0644\u06d2 \u0631\u06c1\u062a\u06d2 \u06c1\u06cc\u06ba\u06d4 \u06c1\u0645 \u0622\u067e \u06a9\u0648 \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f \u06a9\u06c1\u0646\u06d2 \u06a9\u06d2 \u0645\u0646\u062a\u0638\u0631 \u06c1\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node4732352268": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:full": "Lalazar",
+   "addr:housenumber": "Shop No 20",
+   "addr:postcode": "75020",
+   "addr:province": "Sindh",
+   "addr:street": "NORE-1",
+   "amenity": "cafe",
+   "name": "Hunza Cafe",
+   "opening_hours": "10:00-22:30"
+  },
+  "lat": 24.8424221,
+  "lon": 67.0023801,
+  "slug": "hunza-cafe-2268",
+  "email": "",
+  "built": "2026-10-21",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Hunza Cafe in Karachi",
+   "about": "Welcome to Hunza Cafe, a cozy caf\u00e9 located in Karachi. We are open every day from 10:00 to 22:30. Stop by to enjoy our space.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06c1\u0646\u0632\u0627 \u06a9\u06cc\u0641\u06d2 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u06c1\u0646\u0632\u0627 \u06a9\u06cc\u0641\u06d2 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0622\u0631\u0627\u0645 \u062f\u06c1 \u06a9\u06cc\u0641\u06d2 \u06c1\u06d2\u06d4 \u06c1\u0645 \u0631\u0648\u0632\u0627\u0646\u06c1 10:00 \u0633\u06d2 22:30 \u062a\u06a9 \u06a9\u06be\u0644\u06d2 \u0631\u06c1\u062a\u06d2 \u06c1\u06cc\u06ba\u06d4 \u06c1\u0645\u0627\u0631\u06cc \u062c\u06af\u06c1 \u067e\u0631 \u0636\u0631\u0648\u0631 \u0622\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node5137527637": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:housenumber": "V248+J6",
+   "addr:street": "Shahrah-e-Liaquat, Main Burns Road,",
+   "amenity": "cafe",
+   "name": "Cafe Laziz",
+   "phone": "02132631484"
+  },
+  "lat": 24.8564946,
+  "lon": 67.0154634,
+  "slug": "cafe-laziz-7637",
+  "email": "",
+  "built": "2026-10-21",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Cafe Laziz in Karachi",
+   "about": "Welcome to Cafe Laziz, a local caf\u00e9 located in Karachi. We are proud to serve our community here in Karachi. Visit us to experience our caf\u00e9.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06a9\u06cc\u0641\u06d2 \u0644\u0630\u06cc\u0630 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u06a9\u06cc\u0641\u06d2\u060c \u06a9\u06cc\u0641\u06d2 \u0644\u0630\u06cc\u0630 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4 \u06c1\u0645\u06cc\u06ba \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0627\u067e\u0646\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u067e\u0631 \u0641\u062e\u0631 \u06c1\u06d2\u06d4 \u06c1\u0645\u0627\u0631\u06d2 \u06a9\u06cc\u0641\u06d2 \u06a9\u0627 \u062a\u062c\u0631\u0628\u06c1 \u06a9\u0631\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node1440050917": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:postcode": "75020",
+   "addr:province": "Sindh",
+   "amenity": "restaurant",
+   "name": "Nan Shop"
+  },
+  "lat": 24.8860968,
+  "lon": 66.9552671,
+  "slug": "nan-shop-0917",
+  "email": "",
+  "built": "2026-10-21",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Nan Shop in Karachi",
+   "about": "Nan Shop is a local restaurant located in Karachi. We are happy to serve our community here in Karachi. Visit us today to experience our restaurant.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0646\u0646 \u0634\u0627\u067e \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u0646\u0646 \u0634\u0627\u067e \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u0631\u06cc\u0633\u0679\u0648\u0631\u0627\u0646\u0679 \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u06cc\u06c1\u0627\u06ba \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0627\u067e\u0646\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u067e\u0631 \u062e\u0648\u0634\u06cc \u06c1\u06d2\u06d4 \u06c1\u0645\u0627\u0631\u06d2 \u0631\u06cc\u0633\u0679\u0648\u0631\u0627\u0646\u0679 \u06a9\u0627 \u062a\u062c\u0631\u0628\u06c1 \u06a9\u0631\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u0622\u062c \u06c1\u06cc \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node1440070265": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:postcode": "75020",
+   "addr:province": "Sindh",
+   "amenity": "restaurant",
+   "name": "Cafe n Nan Shop"
+  },
+  "lat": 24.8847074,
+  "lon": 66.9562676,
+  "slug": "cafe-n-nan-shop-0265",
+  "email": "",
+  "built": "2026-10-21",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Cafe n Nan Shop in Karachi",
+   "about": "Welcome to Cafe n Nan Shop, a local restaurant located in Karachi. We are happy to serve the community in Karachi. Visit us today!",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06a9\u06cc\u0641\u06d2 \u0627\u06cc\u0646\u0688 \u0646\u0627\u0646 \u0634\u0627\u067e \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u0631\u06cc\u0633\u0679\u0648\u0631\u0627\u0646\u0679\u060c \u06a9\u06cc\u0641\u06d2 \u0627\u06cc\u0646\u0688 \u0646\u0627\u0646 \u0634\u0627\u067e \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4 \u06c1\u0645\u06cc\u06ba \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0644\u0648\u06af\u0648\u06ba \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u067e\u0631 \u062e\u0648\u0634\u06cc \u06c1\u06d2\u06d4 \u0622\u062c \u06c1\u06cc \u06c1\u0645\u0627\u0631\u06d2 \u067e\u0627\u0633 \u0622\u0626\u06cc\u06ba!"
+  },
+  "tv": 4
+ },
+ "node1927188246": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Lalazar",
+   "addr:postcode": "75020",
+   "addr:province": "Sindh",
+   "addr:street": "Road Number 4",
+   "amenity": "restaurant",
+   "name": "Seafront BBQ"
+  },
+  "lat": 24.8424475,
+  "lon": 66.9953222,
+  "slug": "seafront-bbq-8246",
+  "email": "",
+  "built": "2026-10-21",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Seafront BBQ in Karachi.",
+   "about": "Welcome to Seafront BBQ, a restaurant located in Karachi. We are happy to serve the Karachi community.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0633\u06cc \u0641\u0631\u0646\u0679 \u0628\u0627\u0631\u0628\u06cc \u06a9\u06cc\u0648 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4",
+   "about_ur": "\u0633\u06cc \u0641\u0631\u0646\u0679 \u0628\u0627\u0631\u0628\u06cc \u06a9\u06cc\u0648 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u06c1 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u06ba \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0644\u0648\u06af\u0648\u06ba \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u062a\u06d2 \u06c1\u0648\u0626\u06d2 \u062e\u0648\u0634\u06cc \u06c1\u0648\u062a\u06cc \u06c1\u06d2\u06d4"
+  },
+  "tv": 4
+ },
+ "node3191259714": {
+  "tags": {
+   "amenity": "restaurant",
+   "cuisine": "regional",
+   "name": "Kaiser Restaurant"
+  },
+  "lat": 24.8554939,
+  "lon": 67.0095,
+  "slug": "kaiser-restaurant-9714",
+  "email": "",
+  "built": "2026-10-21",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Kaiser Restaurant.",
+   "about": "Welcome to Kaiser Restaurant. We proudly serve delicious regional cuisine for our guests. Visit us today to enjoy our regional dishes.",
+   "tagline_ur": "\u06a9\u0cc8\u0cb8\u0631 \u0631\u06cc\u0633\u0679\u0648\u0631\u0646\u0679 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4",
+   "about_ur": "\u06a9\u0cc8\u0cb8\u0631 \u0631\u06cc\u0633\u0679\u0648\u0631\u0646\u0679 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4 \u06c1\u0645 \u0641\u062e\u0631 \u06a9\u06d2 \u0633\u0627\u062a\u06be \u0627\u067e\u0646\u06d2 \u0645\u06c1\u0645\u0627\u0646\u0648\u06ba \u06a9\u0648 \u0645\u0632\u06cc\u062f\u0627\u0631 \u0639\u0644\u0627\u0642\u0627\u0626\u06cc \u06a9\u06be\u0627\u0646\u06d2 \u067e\u06cc\u0634 \u06a9\u0631\u062a\u06d2 \u06c1\u06cc\u06ba\u06d4 \u06c1\u0645\u0627\u0631\u06d2 \u0639\u0644\u0627\u0642\u0627\u0626\u06cc \u067e\u06a9\u0648\u0627\u0646\u0648\u06ba \u0633\u06d2 \u0644\u0637\u0641 \u0627\u0646\u062f\u0648\u0632 \u06c1\u0648\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u0622\u062c \u06c1\u06cc \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
  }
 }
