@@ -1144,5 +1144,224 @@
    "about_ur": "\u06a9\u0cc8\u0cb8\u0631 \u0631\u06cc\u0633\u0679\u0648\u0631\u0646\u0679 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4 \u06c1\u0645 \u0641\u062e\u0631 \u06a9\u06d2 \u0633\u0627\u062a\u06be \u0627\u067e\u0646\u06d2 \u0645\u06c1\u0645\u0627\u0646\u0648\u06ba \u06a9\u0648 \u0645\u0632\u06cc\u062f\u0627\u0631 \u0639\u0644\u0627\u0642\u0627\u0626\u06cc \u06a9\u06be\u0627\u0646\u06d2 \u067e\u06cc\u0634 \u06a9\u0631\u062a\u06d2 \u06c1\u06cc\u06ba\u06d4 \u06c1\u0645\u0627\u0631\u06d2 \u0639\u0644\u0627\u0642\u0627\u0626\u06cc \u067e\u06a9\u0648\u0627\u0646\u0648\u06ba \u0633\u06d2 \u0644\u0637\u0641 \u0627\u0646\u062f\u0648\u0632 \u06c1\u0648\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u0622\u062c \u06c1\u06cc \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba\u06d4"
   },
   "tv": 4
+ },
+ "node12184509915": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Block 5-C Block 5 C Block 5 Nazimabad, Karachi, Karachi City, Sindh 74600, Pakistan",
+   "name": "Nks salon for gentlemen",
+   "phone": "03458932335",
+   "shop": "hairdresser"
+  },
+  "lat": 24.9228628,
+  "lon": 67.0278748,
+  "slug": "nks-salon-for-gentlemen-9915",
+  "email": "",
+  "built": "2026-10-22",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Nks salon for gentlemen",
+   "about": "Welcome to Nks salon for gentlemen in Karachi. We are happy to serve you in our salon. Visit us in Karachi.",
+   "tagline_ur": "\u0627\u06cc\u0646 \u06a9\u06d2 \u0627\u06cc\u0633 \u0633\u0644\u0648\u0646 \u0641\u0627\u0631 \u062c\u0646\u0679\u0644\u0645\u06cc\u0646 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0627\u06cc\u0646 \u06a9\u06d2 \u0627\u06cc\u0633 \u0633\u0644\u0648\u0646 \u0641\u0627\u0631 \u062c\u0646\u0679\u0644\u0645\u06cc\u0646 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4 \u06c1\u0645\u06cc\u06ba \u0627\u067e\u0646\u06d2 \u0633\u0644\u0648\u0646 \u0645\u06cc\u06ba \u0622\u067e \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u067e\u0631 \u062e\u0648\u0634\u06cc \u06c1\u06d2\u06d4 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06c1\u0645\u0627\u0631\u06d2 \u067e\u0627\u0633 \u0622\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node12201349340": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "5-C, Block 5-C Block 5 C Block 5 Nazimabad, Karachi, Karachi City, Sindh 74600, Pakistan",
+   "name": "J.D Men salon",
+   "phone": "03323964750",
+   "shop": "hairdresser"
+  },
+  "lat": 24.9213567,
+  "lon": 67.026146,
+  "slug": "j-d-men-salon-9340",
+  "email": "",
+  "built": "2026-10-22",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to J.D Men salon in Karachi",
+   "about": "Welcome to J.D Men salon, located in Karachi. We are a dedicated salon proudly serving the Karachi area. Visit us for your salon needs.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u062c\u07ad \u0688\u06cc \u0645\u06cc\u0646 \u0633\u06cc\u0644\u0648\u0646 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u062c\u07ad \u0688\u06cc \u0645\u06cc\u0646 \u0633\u06cc\u0644\u0648\u0646 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u06c1\u06d2\u06d4 \u06c1\u0645 \u0627\u06cc\u06a9 \u0633\u0631\u0634\u0627\u0631 \u0633\u06cc\u0644\u0648\u0646 \u06c1\u06cc\u06ba \u062c\u0648 \u0641\u062e\u0631 \u06a9\u06d2 \u0633\u0627\u062a\u06be \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0639\u0644\u0627\u0642\u06d2 \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631 \u0631\u06c1\u0627 \u06c1\u06d2\u06d4 \u0627\u067e\u0646\u06cc \u0633\u06cc\u0644\u0648\u0646 \u06a9\u06cc \u0636\u0631\u0648\u0631\u06cc\u0627\u062a \u06a9\u06d2 \u0644\u06cc\u06d2 \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node12201364732": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "D Block 5 Block 5 D Block 5 Nazimabad, Karachi, Karachi City, Sindh 74600, Pakistan",
+   "name": "Royale's salon",
+   "phone": "03362496477",
+   "shop": "hairdresser"
+  },
+  "lat": 24.9213381,
+  "lon": 67.0254559,
+  "slug": "royale-s-salon-4732",
+  "email": "",
+  "built": "2026-10-22",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Royale's salon in Karachi",
+   "about": "Welcome to Royale's salon. We are a local salon located in Karachi. Visit us in Karachi for your salon needs.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0631\u0627\u0626\u0644\u0632 \u0633\u06cc\u0644\u0648\u0646 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u0631\u0627\u0626\u0644\u0632 \u0633\u06cc\u0644\u0648\u0646 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4 \u06c1\u0645 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u0633\u06cc\u0644\u0648\u0646 \u06c1\u06cc\u06ba\u06d4 \u0627\u067e\u0646\u06cc \u0633\u06cc\u0644\u0648\u0646 \u06a9\u06cc \u0636\u0631\u0648\u0631\u06cc\u0627\u062a \u06a9\u06d2 \u0644\u06cc\u06d2 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node12203269396": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:housenumber": "V298+MG",
+   "addr:street": "shop#3ibahimmanzilmesahamliroadgardenkarachi, City,",
+   "name": "3 STAR HAIR SALOON",
+   "phone": "03158825650",
+   "shop": "hairdresser"
+  },
+  "lat": 24.8692206,
+  "lon": 67.016155,
+  "slug": "3-star-hair-saloon-9396",
+  "email": "",
+  "built": "2026-10-22",
+  "status": "no_email",
+  "tv": 4
+ },
+ "node12207800782": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:housenumber": "V28F+F5",
+   "addr:street": "Preedy Quarters",
+   "name": "New Smart Style Hair Saloon",
+   "phone": "03032428227",
+   "shop": "hairdresser"
+  },
+  "lat": 24.8662649,
+  "lon": 67.0229923,
+  "slug": "new-smart-style-hair-saloon-0782",
+  "email": "",
+  "built": "2026-10-22",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to New Smart Style Hair Saloon",
+   "about": "Welcome to New Smart Style Hair Saloon in Karachi. We are a local salon ready to serve you. Visit us in Karachi today.",
+   "tagline_ur": "\u0646\u06cc\u0648 \u0633\u0645\u0627\u0631\u0679 \u0633\u0679\u0627\u0626\u0644 \u06c1\u06cc\u0626\u0631 \u0633\u06cc\u0644\u0648\u0646 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0646\u06cc\u0648 \u0633\u0645\u0627\u0631\u0679 \u0633\u0679\u0627\u0626\u0644 \u06c1\u06cc\u0626\u0631 \u0633\u06cc\u0644\u0648\u0646 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4 \u06c1\u0645 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u0633\u06cc\u0644\u0648\u0646 \u06c1\u06cc\u06ba \u062c\u0648 \u0622\u067e \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u06d2 \u0644\u06cc\u06d2 \u062a\u06cc\u0627\u0631 \u06c1\u06cc\u06ba\u06d4 \u0622\u062c \u06c1\u06cc \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06c1\u0645\u0627\u0631\u06d2 \u067e\u0627\u0633 \u0622\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node12213534809": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:housenumber": "V2CG+9F5",
+   "addr:street": "Saddar",
+   "hairdresser": "barber",
+   "name": "Style hair dresser",
+   "phone": "03065180794",
+   "shop": "hairdresser"
+  },
+  "lat": 24.8707734,
+  "lon": 67.0263018,
+  "slug": "style-hair-dresser-4809",
+  "email": "",
+  "built": "2026-10-22",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Style hair dresser salon",
+   "about": "Welcome to Style hair dresser, a salon located in Karachi. We are proud to serve the Karachi community with our salon services. Visit us in Karachi today.",
+   "tagline_ur": "\u0627\u0633\u0679\u09be\u0987\u09b2 \u06c1\u06cc\u0626\u0631 \u0688\u0631\u06cc\u0633\u0631 \u0633\u0627\u0644\u0648\u0646 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u0627\u0633\u0679\u09be\u0987\u09b2 \u06c1\u06cc\u0626\u0631 \u0688\u0631\u06cc\u0633\u0631 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0633\u0627\u0644\u0648\u0646 \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u0648 \u0627\u067e\u0646\u06cc \u0633\u0627\u0644\u0648\u0646 \u06a9\u06cc \u062e\u062f\u0645\u0627\u062a \u0641\u0631\u0627\u06c1\u0645 \u06a9\u0631\u0646\u06d2 \u067e\u0631 \u0641\u062e\u0631 \u06c1\u06d2\u06d4 \u0622\u062c \u06c1\u06cc \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06c1\u0645 \u0633\u06d2 \u0645\u0644\u0627\u0642\u0627\u062a \u06a9\u0631\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node12231799694": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Muhammadi Rd, Shershah Colony, Karachi, Karachi City, Sindh, Pakistan",
+   "name": "Shesh Maheel shersha karachi",
+   "phone": "03052646245",
+   "shop": "hairdresser"
+  },
+  "lat": 24.8816972,
+  "lon": 66.9880155,
+  "slug": "shesh-maheel-shersha-karachi-9694",
+  "email": "",
+  "built": "2026-10-22",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Shesh Maheel shersha karachi",
+   "about": "Welcome to Shesh Maheel shersha karachi, a local salon in Karachi. We are happy to serve the Karachi area. Visit us soon for our salon services.",
+   "tagline_ur": "Shesh Maheel shersha karachi \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "Shesh Maheel shersha karachi \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u06a9\u0631\u0627\u0686\u06cc \u06a9\u0627 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u0633\u06cc\u0644\u0648\u0646\u06d4 \u06c1\u0645\u06cc\u06ba \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0639\u0644\u0627\u0642\u06d2 \u0645\u06cc\u06ba \u062e\u062f\u0645\u0627\u062a \u0627\u0646\u062c\u0627\u0645 \u062f\u06cc\u0646\u06d2 \u067e\u0631 \u062e\u0648\u0634\u06cc \u06c1\u06d2\u06d4 \u06c1\u0645\u0627\u0631\u06cc \u0633\u06cc\u0644\u0648\u0646 \u062e\u062f\u0645\u0627\u062a \u06a9\u06d2 \u0644\u06cc\u06d2 \u062c\u0644\u062f \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node12231833817": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Shershah Colony, Karachi, Karachi City, Sindh, Pakistan",
+   "hairdresser": "barber",
+   "name": "Groom Beauty Salon",
+   "phone": "03057813949",
+   "shop": "hairdresser"
+  },
+  "lat": 24.8822979,
+  "lon": 66.9890837,
+  "slug": "groom-beauty-salon-3817",
+  "email": "",
+  "built": "2026-10-22",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Groom Beauty Salon in Karachi",
+   "about": "Welcome to Groom Beauty Salon, located in Karachi. We are a local salon ready to serve you. Visit us in Karachi today.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06af\u0631\u0648\u0645 \u0628\u06cc\u0648\u0679\u06cc \u0633\u06cc\u0644\u0648\u0646 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u06af\u0631\u0648\u0645 \u0628\u06cc\u0648\u0679\u06cc \u0633\u06cc\u0644\u0648\u0646 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u06c1\u06d2\u06d4 \u06c1\u0645 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u0633\u06cc\u0644\u0648\u0646 \u06c1\u06cc\u06ba \u062c\u0648 \u0622\u067e \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u06d2 \u0644\u06cc\u06d2 \u062a\u06cc\u0627\u0631 \u06c1\u06cc\u06ba\u06d4 \u0622\u062c \u06c1\u06cc \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06c1\u0645\u0627\u0631\u06d2 \u067e\u0627\u0633 \u0622\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node11564493369": {
+  "tags": {
+   "addr:street": "Commercial Avenue",
+   "name": "Centra Flora / Dezato cakehouse",
+   "opening_hours": "Mo-Sa 09:00-23:00",
+   "phone": "02135866679",
+   "shop": "bakery"
+  },
+  "lat": 24.8286823,
+  "lon": 67.050656,
+  "slug": "centra-flora-dezato-cakehouse-3369",
+  "email": "",
+  "built": "2026-10-22",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Centra Flora / Dezato cakehouse",
+   "about": "Welcome to Centra Flora / Dezato cakehouse, your local bakery. We are open Monday through Saturday from 09:00 to 23:00. Stop by and visit us during our operating hours.",
+   "tagline_ur": "\u0633\u06cc\u0646\u0679\u0631\u0627 \u0641\u0644\u0648\u0631\u0627 / \u0688\u06cc\u0632\u0627\u0679\u0648 \u06a9\u06cc\u06a9 \u06c1\u0627\u0624\u0633 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u0633\u06cc\u0646\u0679\u0631\u0627 \u0641\u0644\u0648\u0631\u0627 / \u0688\u06cc\u0632\u0627\u0679\u0648 \u06a9\u06cc\u06a9 \u06c1\u0627\u0624\u0633\u060c \u0622\u067e \u06a9\u06cc \u0645\u0642\u0627\u0645\u06cc \u0628\u06cc\u06a9\u0631\u06cc \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4 \u06c1\u0645 \u067e\u06cc\u0631 \u062a\u0627 \u06c1\u0641\u062a\u06c1 \u0635\u0628\u062d 09:00 \u0633\u06d2 \u0631\u0627\u062a 23:00 \u0628\u062c\u06d2 \u062a\u06a9 \u06a9\u06be\u0644\u06d2 \u0631\u06c1\u062a\u06d2 \u06c1\u06cc\u06ba\u06d4 \u06c1\u0645\u0627\u0631\u06d2 \u0627\u0648\u0642\u0627\u062a \u06a9\u0627\u0631 \u0645\u06cc\u06ba \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node4723971233": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Clifton Block 3",
+   "name": "Anjarwala Bakers",
+   "opening_hours": "Mo-Su 09:00-21:00",
+   "shop": "bakery"
+  },
+  "lat": 24.8146493,
+  "lon": 67.0209243,
+  "slug": "anjarwala-bakers-1233",
+  "email": "",
+  "built": "2026-10-22",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Anjarwala Bakers in Karachi",
+   "about": "Welcome to Anjarwala Bakers, your local bakery in Karachi. We are open Monday through Sunday from 09:00 to 21:00. Visit us today!",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0627\u0646\u062c\u0631 \u0648\u0627\u0644\u0627 \u0628\u06cc\u06a9\u0631\u0632 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u0627\u0646\u062c\u0631 \u0648\u0627\u0644\u0627 \u0628\u06cc\u06a9\u0631\u0632 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0622\u067e \u06a9\u06cc \u0645\u0642\u0627\u0645\u06cc \u0628\u06cc\u06a9\u0631\u06cc \u06c1\u06d2\u06d4 \u06c1\u0645 \u067e\u06cc\u0631 \u0633\u06d2 \u0627\u062a\u0648\u0627\u0631 \u062a\u06a9 \u0635\u0628\u062d 09:00 \u0633\u06d2 \u0631\u0627\u062a 21:00 \u0628\u062c\u06d2 \u062a\u06a9 \u06a9\u06be\u0644\u06d2 \u0631\u06c1\u062a\u06d2 \u06c1\u06cc\u06ba\u06d4 \u0622\u062c \u06c1\u06cc \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba!"
+  },
+  "tv": 4
  }
 }
