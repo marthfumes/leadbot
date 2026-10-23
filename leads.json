@@ -1363,5 +1363,234 @@
    "about_ur": "\u0627\u0646\u062c\u0631 \u0648\u0627\u0644\u0627 \u0628\u06cc\u06a9\u0631\u0632 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0622\u067e \u06a9\u06cc \u0645\u0642\u0627\u0645\u06cc \u0628\u06cc\u06a9\u0631\u06cc \u06c1\u06d2\u06d4 \u06c1\u0645 \u067e\u06cc\u0631 \u0633\u06d2 \u0627\u062a\u0648\u0627\u0631 \u062a\u06a9 \u0635\u0628\u062d 09:00 \u0633\u06d2 \u0631\u0627\u062a 21:00 \u0628\u062c\u06d2 \u062a\u06a9 \u06a9\u06be\u0644\u06d2 \u0631\u06c1\u062a\u06d2 \u06c1\u06cc\u06ba\u06d4 \u0622\u062c \u06c1\u06cc \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba!"
   },
   "tv": 4
+ },
+ "node12127530663": {
+  "tags": {
+   "addr:city": "karachi",
+   "addr:street": "W37J+FHP, Sahba Akhtar Rd, Block 13D-1 Block 13 D 1 Gulshan-e-Iqbal, Karachi,",
+   "name": "Ambala Sweets & Bakers",
+   "phone": "02134825416",
+   "shop": "bakery"
+  },
+  "lat": 24.9138115,
+  "lon": 67.0814511,
+  "slug": "ambala-sweets-bakers-0663",
+  "email": "",
+  "built": "2026-10-23",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Ambala Sweets & Bakers",
+   "about": "Welcome to Ambala Sweets & Bakers in Karachi. We are a local bakery ready to serve you. Visit us today in Karachi.",
+   "tagline_ur": "\u0627\u0645\u0628\u0627\u0644\u06c1 \u0633\u0648\u06cc\u0679\u0633 \u0627\u06cc\u0646\u0688 \u0628\u06cc\u06a9\u0631\u0632 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0627\u0645\u0628\u0627\u0644\u06c1 \u0633\u0648\u06cc\u0679\u0633 \u0627\u06cc\u0646\u0688 \u0628\u06cc\u06a9\u0631\u0632 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4 \u06c1\u0645 \u0622\u067e \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u06d2 \u0644\u06cc\u06d2 \u062a\u06cc\u0627\u0631 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u0628\u06cc\u06a9\u0631\u06cc \u06c1\u06cc\u06ba\u06d4 \u0622\u062c \u06c1\u06cc \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06c1\u0645 \u0633\u06d2 \u0645\u0644\u0627\u0642\u0627\u062a \u06a9\u0631\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node12131805788": {
+  "tags": {
+   "addr:street": "Madni Masjid Rd, Federal B Area Azizabad Block 8 Gulberg Town,",
+   "name": "Haji Rabri Walay Karachi Branch",
+   "phone": "02136330301",
+   "shop": "bakery"
+  },
+  "lat": 24.9173139,
+  "lon": 67.0614133,
+  "slug": "haji-rabri-walay-karachi-branch-5788",
+  "email": "",
+  "built": "2026-10-23",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Haji Rabri Walay Karachi Branch",
+   "about": "Welcome to Haji Rabri Walay Karachi Branch, your local bakery. We are happy to serve our community. Visit us today to experience our bakery.",
+   "tagline_ur": "\u06c1\u0627\u062c\u06cc \u0631\u0628\u0691\u06cc \u0648\u0627\u0644\u06d2 \u06a9\u0631\u0627\u0686\u06cc \u0628\u0631\u0627\u0646\u0686 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u06c1\u0627\u062c\u06cc \u0631\u0628\u0691\u06cc \u0648\u0627\u0644\u06d2 \u06a9\u0631\u0627\u0686\u06cc \u0628\u0631\u0627\u0646\u0686 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u0622\u067e \u06a9\u06cc \u0645\u0642\u0627\u0645\u06cc \u0628\u06cc\u06a9\u0631\u06cc \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u0627\u067e\u0646\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u062a\u06d2 \u06c1\u0648\u0626\u06d2 \u062e\u0648\u0634\u06cc \u06c1\u0648\u062a\u06cc \u06c1\u06d2\u06d4 \u06c1\u0645\u0627\u0631\u06cc \u0628\u06cc\u06a9\u0631\u06cc \u06a9\u0627 \u062a\u062c\u0631\u0628\u06c1 \u06a9\u0631\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u0622\u062c \u06c1\u06cc \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node12133671987": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Shahrah-e-Faisal Rd, PECHS Extension Block 6 PECHS, Karachi, Karachi City, Sindh 75400, Pakistan",
+   "name": "Twistles By Ghania PECHS",
+   "phone": "02133517220",
+   "shop": "bakery"
+  },
+  "lat": 24.8591408,
+  "lon": 67.0598566,
+  "slug": "twistles-by-ghania-pechs-1987",
+  "email": "",
+  "built": "2026-10-23",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Fresh bakery treats in Karachi PECHS",
+   "about": "Welcome to Twistles By Ghania PECHS, your local bakery located in Karachi. We are proud to serve our community here in Karachi. Stop by and visit us today!",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u067e\u06cc \u0627\u06cc \u0633\u06cc \u0627\u06cc\u0686 \u0627\u06cc\u0633 \u0645\u06cc\u06ba \u062a\u0627\u0632\u06c1 \u0628\u06cc\u06a9\u0631\u06cc \u06a9\u06cc \u0686\u06cc\u0632\u06cc\u06ba",
+   "about_ur": "Twistles By Ghania PECHS \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0622\u067e \u06a9\u06cc \u0645\u0642\u0627\u0645\u06cc \u0628\u06cc\u06a9\u0631\u06cc \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0627\u067e\u0646\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u067e\u0631 \u0641\u062e\u0631 \u06c1\u06d2\u06d4 \u0622\u062c \u06c1\u06cc \u06c1\u0645\u0627\u0631\u06d2 \u067e\u0627\u0633 \u0622\u0626\u06cc\u06ba!"
+  },
+  "tv": 4
+ },
+ "node12146427472": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Micassa Apartments, Sir Shah Suleman Rd, Essa Nagri,",
+   "hairdresser": "barber",
+   "name": "New Look",
+   "phone": "02134120145",
+   "shop": "hairdresser"
+  },
+  "lat": 24.9033142,
+  "lon": 67.068993,
+  "slug": "new-look-7472",
+  "email": "",
+  "built": "2026-10-23",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to New Look Salon in Karachi",
+   "about": "Welcome to New Look, a salon located in Karachi. We are happy to serve the Karachi community with our salon services. Visit us in Karachi today.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0646\u06cc\u0648 \u0644\u064f\u06a9 \u0633\u06cc\u0644\u0648\u0646 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0633\u06cc\u0644\u0648\u0646\u060c \u0646\u06cc\u0648 \u0644\u064f\u06a9 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4 \u06c1\u0645 \u0627\u067e\u0646\u06cc \u0633\u06cc\u0644\u0648\u0646 \u06a9\u06cc \u062e\u062f\u0645\u0627\u062a \u06a9\u06d2 \u0633\u0627\u062a\u06be \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u067e\u0631 \u062e\u0648\u0634 \u06c1\u06cc\u06ba\u06d4 \u0622\u062c \u06c1\u06cc \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06c1\u0645\u0627\u0631\u06d2 \u067e\u0627\u0633 \u0622\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node3931980854": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Mahmood Hussain Road",
+   "amenity": "restaurant",
+   "name": "Hot N Spicy Potatoes & hot N Sweet Corn",
+   "operator": "Chase"
+  },
+  "lat": 24.8842184,
+  "lon": 67.0571409,
+  "slug": "hot-n-spicy-potatoes-hot-n-sweet-corn-0854",
+  "email": "",
+  "built": "2026-10-23",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Delicious potatoes and corn in Karachi.",
+   "about": "Welcome to Hot N Spicy Potatoes & hot N Sweet Corn, a restaurant located in Karachi. We are happy to serve you in our local area. Visit us today for a wonderful dining experience.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0645\u0632\u06cc\u062f\u0627\u0631 \u0622\u0644\u06d2 \u0627\u0648\u0631 \u0645\u06a9\u0626\u06cc\u06d4",
+   "about_ur": "\u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f \u06c1\u0627\u0679 \u0627\u06cc\u0646 \u0633\u067e\u0627\u0626\u0633\u06cc \u067e\u0648\u0679\u06cc\u0679\u0648\u0632 \u0627\u06cc\u0646\u0688 \u06c1\u0627\u0679 \u0627\u06cc\u0646 \u0633\u0648\u06cc\u0679 \u06a9\u0627\u0631\u0646\u060c \u062c\u0648 \u06a9\u06c1 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u06ba \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u0627\u067e\u0646\u06d2 \u0645\u0642\u0627\u0645\u06cc \u0639\u0644\u0627\u0642\u06d2 \u0645\u06cc\u06ba \u0622\u067e \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u06a9\u06d2 \u062e\u0648\u0634\u06cc \u06c1\u0648\u062a\u06cc \u06c1\u06d2\u06d4 \u0622\u062c \u06c1\u06cc \u06c1\u0645\u0627\u0631\u06d2 \u067e\u0627\u0633 \u0622\u0626\u06cc\u06ba \u0627\u0648\u0631 \u0628\u06c1\u062a\u0631\u06cc\u0646 \u06a9\u06be\u0627\u0646\u06d2 \u0633\u06d2 \u0644\u0637\u0641 \u0627\u0646\u062f\u0648\u0632 \u06c1\u0648\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node3941643099": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Block H",
+   "addr:place": "North Nazimabad Block H",
+   "addr:province": "Sindh",
+   "addr:street": "Allama Rasheed Turabi Road",
+   "addr:suburb": "North Nazimabad Town",
+   "amenity": "restaurant",
+   "name": "Pakistan Pakwan House"
+  },
+  "lat": 24.9330613,
+  "lon": 67.0524883,
+  "slug": "pakistan-pakwan-house-3099",
+  "email": "",
+  "built": "2026-10-23",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Authentic restaurant in North Nazimabad Town, Karachi",
+   "about": "Welcome to Pakistan Pakwan House, a restaurant located in North Nazimabad Town, Karachi. Visit us to enjoy our food in the local area. We are happy to serve you.",
+   "tagline_ur": "\u0646\u0627\u0631\u062a\u06be \u0646\u0627\u0638\u0645 \u0622\u0628\u0627\u062f \u0679\u0627\u0624\u0646\u060c \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0645\u0633\u062a\u0646\u062f \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u06ba",
+   "about_ur": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646 \u067e\u06a9\u0648\u0627\u0646 \u06c1\u0627\u0624\u0633 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u0646\u0627\u0631\u062a\u06be \u0646\u0627\u0638\u0645 \u0622\u0628\u0627\u062f \u0679\u0627\u0624\u0646\u060c \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u06ba \u06c1\u06d2\u06d4 \u06c1\u0645\u0627\u0631\u06d2 \u0639\u0644\u0627\u0642\u06d2 \u0645\u06cc\u06ba \u06c1\u0645\u0627\u0631\u06d2 \u06a9\u06be\u0627\u0646\u06d2 \u0633\u06d2 \u0644\u0637\u0641 \u0627\u0646\u062f\u0648\u0632 \u06c1\u0648\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba\u06d4 \u06c1\u0645\u06cc\u06ba \u0622\u067e \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631 \u06a9\u06d2 \u062e\u0648\u0634\u06cc \u06c1\u0648\u06af\u06cc\u06d4"
+  },
+  "tv": 4
+ },
+ "node4266186576": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "PAF Base Masroor",
+   "addr:postcode": "75020",
+   "addr:province": "Sindh",
+   "amenity": "restaurant",
+   "name": "Officers Mess"
+  },
+  "lat": 24.8743731,
+  "lon": 66.9449586,
+  "slug": "officers-mess-6576",
+  "email": "",
+  "built": "2026-10-23",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Officers Mess in Karachi.",
+   "about": "Welcome to Officers Mess, a restaurant located in Karachi. We are happy to serve you in the Karachi area.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0622\u0641\u06cc\u0633\u0631\u0632 \u0645\u06cc\u0633 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4",
+   "about_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0631\u06cc\u0633\u0679\u0648\u0631\u0627\u0646\u0679 \u0622\u0641\u06cc\u0633\u0631\u0632 \u0645\u06cc\u0633 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4 \u06c1\u0645\u06cc\u06ba \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0639\u0644\u0627\u0642\u06d2 \u0645\u06cc\u06ba \u0622\u067e \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u062a\u06d2 \u06c1\u0648\u0626\u06d2 \u062e\u0648\u0634\u06cc \u06c1\u0648\u062a\u06cc \u06c1\u06d2\u06d4"
+  },
+  "tv": 4
+ },
+ "node4338114397": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Phase 5",
+   "addr:place": "DHA Phase 5",
+   "addr:province": "Sindh",
+   "addr:street": "Badar Commercial 10th Street",
+   "addr:suburb": "Defence Housing Authority",
+   "amenity": "restaurant",
+   "name": "Daily dubai resturant"
+  },
+  "lat": 24.7971902,
+  "lon": 67.0443407,
+  "slug": "daily-dubai-resturant-4397",
+  "email": "",
+  "built": "2026-10-23",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Daily dubai resturant in Karachi",
+   "about": "Welcome to Daily dubai resturant, a local restaurant located in Defence Housing Authority, Karachi. We are proud to serve our community in the area. Visit us soon!",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0688\u06cc\u0641\u0646\u0633 \u06c1\u0627\u0624\u0633\u0646\u06af \u0627\u062a\u06be\u0627\u0631\u0679\u06cc \u0645\u06cc\u06ba \u0688\u06cc\u0644\u06cc \u062f\u0628\u0626\u06cc \u0631\u06cc\u0633\u0679\u0648\u0631\u0646\u0679 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u0688\u06cc\u0644\u06cc \u062f\u0628\u0626\u06cc \u0631\u06cc\u0633\u0679\u0648\u0631\u0646\u0679 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u06c1 \u0688\u06cc\u0641\u0646\u0633 \u06c1\u0627\u0624\u0633\u0646\u06af \u0627\u062a\u06be\u0627\u0631\u0679\u06cc\u060c \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u0631\u06cc\u0633\u0679\u0648\u0631\u0646\u0679 \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u0627\u0633 \u0639\u0644\u0627\u0642\u06d2 \u0645\u06cc\u06ba \u0627\u067e\u0646\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u067e\u0631 \u0641\u062e\u0631 \u06c1\u06d2\u06d4 \u062c\u0644\u062f \u06c1\u06cc \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba!"
+  },
+  "tv": 4
+ },
+ "node4380893989": {
+  "tags": {
+   "amenity": "restaurant",
+   "cuisine": "chinese",
+   "name": "China Castle - Bahadurabad",
+   "name:en": "China Castle"
+  },
+  "lat": 24.8837861,
+  "lon": 67.064997,
+  "slug": "china-castle-3989",
+  "email": "",
+  "built": "2026-10-23",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Authentic Chinese cuisine at China Castle.",
+   "about": "Welcome to China Castle - Bahadurabad! We are a local Chinese restaurant dedicated to serving delicious Chinese food. Visit us today to enjoy our wonderful dishes.",
+   "tagline_ur": "\u0686\u0627\u0626\u0646\u0627 \u06a9\u06cc\u0633\u0644 \u0645\u06cc\u06ba \u0645\u0633\u062a\u0646\u062f \u0686\u06cc\u0646\u06cc \u06a9\u06be\u0627\u0646\u0627\u06d4",
+   "about_ur": "\u0686\u0627\u0626\u09a8\u09be \u06a9\u06cc\u0633\u0644 - \u0628\u06c1\u0627\u062f\u0631\u0622\u0628\u0627\u062f \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f! \u06c1\u0645 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u0686\u06cc\u0646\u06cc \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u06ba \u06c1\u06cc\u06ba \u062c\u0648 \u0645\u0632\u06cc\u062f\u0627\u0631 \u0686\u06cc\u0646\u06cc \u06a9\u06be\u0627\u0646\u0627 \u067e\u06cc\u0634 \u06a9\u0631\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u0648\u0642\u0641 \u06c1\u06cc\u06ba\u06d4 \u06c1\u0645\u0627\u0631\u06d2 \u0634\u0627\u0646\u062f\u0627\u0631 \u06a9\u06be\u0627\u0646\u0648\u06ba \u0633\u06d2 \u0644\u0637\u0641 \u0627\u0646\u062f\u0648\u0632 \u06c1\u0648\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u0622\u062c \u06c1\u06cc \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node4496341725": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:postcode": "75300",
+   "amenity": "restaurant",
+   "cuisine": "regional",
+   "name": "Baji Jan Pakwan"
+  },
+  "lat": 24.9219465,
+  "lon": 67.0924821,
+  "slug": "baji-jan-pakwan-1725",
+  "email": "",
+  "built": "2026-10-23",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Authentic regional cuisine in Karachi.",
+   "about": "Welcome to Baji Jan Pakwan! We are a regional restaurant located in Karachi. Visit us to enjoy our delicious regional dishes.",
+   "tagline_ur": "Karachi \u0645\u06cc\u06ba \u0645\u0633\u062a\u0646\u062f \u0639\u0644\u0627\u0642\u0627\u0626\u06cc \u067e\u06a9\u0648\u0627\u0646\u06d4",
+   "about_ur": "\u0628aji Jan Pakwan \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f! \u06c1\u0645 Karachi \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0639\u0644\u0627\u0642\u0627\u0626\u06cc \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u06ba \u06c1\u06cc\u06ba\u06d4 \u06c1\u0645\u0627\u0631\u06d2 \u0645\u0632\u06cc\u062f\u0627\u0631 \u0639\u0644\u0627\u0642\u0627\u0626\u06cc \u067e\u06a9\u0648\u0627\u0646\u0648\u06ba \u0633\u06d2 \u0644\u0637\u0641 \u0627\u0646\u062f\u0648\u0632 \u06c1\u0648\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
  }
 }

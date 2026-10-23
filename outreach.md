@@ -50,3 +50,7 @@
 - **Kababjees**: call 021111666111 | [preview](https://muzammilmehar123.github.io/leadbot/kababjees-4796/)
 - **Cafe Laziz**: call 02132631484 | [preview](https://muzammilmehar123.github.io/leadbot/cafe-laziz-7637/)
 - **Centra Flora / Dezato cakehouse**: call 02135866679 | [preview](https://muzammilmehar123.github.io/leadbot/centra-flora-dezato-cakehouse-3369/)
+- **Ambala Sweets & Bakers**: call 02134825416 | [preview](https://muzammilmehar123.github.io/leadbot/ambala-sweets-bakers-0663/)
+- **Haji Rabri Walay Karachi Branch**: call 02136330301 | [preview](https://muzammilmehar123.github.io/leadbot/haji-rabri-walay-karachi-branch-5788/)
+- **Twistles By Ghania PECHS**: call 02133517220 | [preview](https://muzammilmehar123.github.io/leadbot/twistles-by-ghania-pechs-1987/)
+- **New Look**: call 02134120145 | [preview](https://muzammilmehar123.github.io/leadbot/new-look-7472/)
