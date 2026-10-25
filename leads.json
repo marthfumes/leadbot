@@ -1857,5 +1857,256 @@
    "about_ur": "\u067e\u06cc\u0646\u0679\u0631\u06cc- \u0632\u0645\u0632\u0645\u06c1 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u0688\u06cc\u0641\u0646\u0633 \u06c1\u0627\u0624\u0633\u0646\u06af \u0627\u062a\u06be\u0627\u0631\u0679\u06cc\u060c \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u06ba \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u0622\u067e \u06a9\u06d2 \u0639\u0644\u0627\u0642\u06d2 \u0645\u06cc\u06ba \u0622\u067e \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u06a9\u06cc \u062e\u0648\u0634\u06cc \u06c1\u06d2\u06d4"
   },
   "tv": 4
+ },
+ "node4725390759": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Block 5",
+   "addr:place": "Clifton Block 5",
+   "addr:province": "Sindh",
+   "addr:street": "Clifton",
+   "addr:suburb": "Clifton",
+   "amenity": "restaurant",
+   "name": "Arabian Nights"
+  },
+  "lat": 24.825779,
+  "lon": 67.0341481,
+  "slug": "arabian-nights-0759",
+  "email": "",
+  "built": "2026-10-25",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Arabian Nights in Clifton.",
+   "about": "Welcome to Arabian Nights, a restaurant located in Clifton, Karachi. We are delighted to serve you in our local area. Come visit us soon!",
+   "tagline_ur": "\u06a9\u0644\u0641\u0679\u0646 \u0645\u06cc\u06ba \u0639\u0631\u0628\u06cc\u0646 \u0646\u0627\u0626\u0679\u0633 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4",
+   "about_ur": "\u0639\u0631\u0628\u06cc\u0646 \u0646\u0627\u0626\u0679\u0633 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u06c1 \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0639\u0644\u0627\u0642\u06d2 \u06a9\u0644\u0641\u0679\u0646 \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u06ba \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u0622\u067e \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u067e\u0631 \u062e\u0648\u0634\u06cc \u06c1\u06d2\u06d4 \u062c\u0644\u062f \u06c1\u06cc \u06c1\u0645\u0627\u0631\u06d2 \u067e\u0627\u0633 \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba!"
+  },
+  "tv": 4
+ },
+ "node4725390784": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Block 9",
+   "addr:place": "Clifton Block 9",
+   "addr:province": "Sindh",
+   "addr:street": "Clifton",
+   "addr:suburb": "Clifton",
+   "amenity": "restaurant",
+   "capacity": "50",
+   "country": "PK",
+   "name": "Damascus"
+  },
+  "lat": 24.8259611,
+  "lon": 67.0359318,
+  "slug": "damascus-0784",
+  "email": "",
+  "built": "2026-10-25",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Damascus Restaurant in Clifton.",
+   "about": "Welcome to Damascus, a restaurant located in Clifton, Karachi. We are happy to serve you in our local area. Come visit us soon.",
+   "tagline_ur": "\u06a9\u0644\u0641\u0679\u0646 \u0645\u06cc\u06ba \u062f\u0645\u0634\u0642 \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u06ba \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4",
+   "about_ur": "\u062f\u0645\u0634\u0642 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0639\u0644\u0627\u0642\u06d2 \u06a9\u0644\u0641\u0679\u0646 \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u06ba \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u0627\u067e\u0646\u06d2 \u0645\u0642\u0627\u0645\u06cc \u0639\u0644\u0627\u0642\u06d2 \u0645\u06cc\u06ba \u0622\u067e \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u06a9\u06cc \u062e\u0648\u0634\u06cc \u06c1\u06d2\u06d4 \u062c\u0644\u062f \u06c1\u06cc \u06c1\u0645\u0627\u0631\u06d2 \u067e\u0627\u0633 \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node4727729732": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Phase 5",
+   "addr:place": "DHA Phase 5",
+   "addr:province": "Sindh",
+   "addr:street": "Khayaban e Muhafiz",
+   "addr:suburb": "Defence Housing Authority",
+   "amenity": "restaurant",
+   "name": "Siam Express"
+  },
+  "lat": 24.8118469,
+  "lon": 67.0501712,
+  "slug": "siam-express-9732",
+  "email": "",
+  "built": "2026-10-25",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Siam Express in Karachi",
+   "about": "Welcome to Siam Express, a restaurant located in Defence Housing Authority, Karachi. We are excited to serve our local community. Visit us today!",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0688\u06cc\u0641\u0646\u0633 \u06c1\u0627\u0624\u0633\u0646\u06af \u0627\u062a\u06be\u0627\u0631\u0679\u06cc \u0645\u06cc\u06ba \u0633\u06cc\u0627\u0645 \u0627\u06cc\u06a9\u0633\u067e\u0631\u06cc\u0633 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u0633\u06cc\u0627\u0645 \u0627\u06cc\u06a9\u0633\u067e\u0631\u06cc\u0633 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u06c1 \u0688\u06cc\u0641\u0646\u0633 \u06c1\u0627\u0624\u0633\u0646\u06af \u0627\u062a\u06be\u0627\u0631\u0679\u06cc\u060c \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u06ba \u06c1\u06d2\u06d4 \u06c1\u0645 \u0627\u067e\u0646\u06cc \u0645\u0642\u0627\u0645\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u0648 \u062e\u062f\u0645\u062a \u0641\u0631\u0627\u06c1\u0645 \u06a9\u0631\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u067e\u0631\u062c\u0648\u0634 \u06c1\u06cc\u06ba\u06d4 \u0622\u062c \u06c1\u06cc \u06c1\u0645\u0627\u0631\u06d2 \u067e\u0627\u0633 \u0622\u0626\u06cc\u06ba!"
+  },
+  "tv": 4
+ },
+ "node4727729738": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Phase 6",
+   "addr:place": "DHA Phase 6",
+   "addr:province": "Sindh",
+   "addr:street": "Khayaban e Shahbaz",
+   "addr:suburb": "Defence Housing Authority",
+   "amenity": "restaurant",
+   "name": "Bella Vita"
+  },
+  "lat": 24.8076277,
+  "lon": 67.0610049,
+  "slug": "bella-vita-9738",
+  "email": "",
+  "built": "2026-10-25",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Bella Vita in Karachi",
+   "about": "Bella Vita is a restaurant located in Defence Housing Authority, Karachi. We look forward to welcoming you soon.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0628\u06cc\u0644\u0627 \u0648\u06cc\u0679\u0627 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u0628\u06cc\u0644\u0627 \u0648\u06cc\u0679\u0627 \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0688\u06cc\u0641\u0646\u0633 \u06c1\u0627\u0624\u0633\u0646\u06af \u0627\u062a\u06be\u0627\u0631\u0679\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u06ba \u06c1\u06d2\u06d4 \u06c1\u0645 \u062c\u0644\u062f \u06c1\u06cc \u0622\u067e \u06a9\u0648 \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f \u06a9\u06c1\u0646\u06d2 \u06a9\u06d2 \u0645\u0646\u062a\u0638\u0631 \u06c1\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node4727729740": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Phase 6",
+   "addr:place": "DHA Phase 6",
+   "addr:province": "Sindh",
+   "addr:street": "Khayaban e Shahbaz",
+   "addr:suburb": "Defence Housing Authority",
+   "amenity": "restaurant",
+   "name": "Ginsoy"
+  },
+  "lat": 24.8075036,
+  "lon": 67.0608835,
+  "slug": "ginsoy-9740",
+  "email": "",
+  "built": "2026-10-25",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Ginsoy in Karachi",
+   "about": "Welcome to Ginsoy, a restaurant located in Defence Housing Authority, Karachi. We are happy to serve our local community. Visit us today!",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0688\u06cc\u0641\u0646\u0633 \u06c1\u0627\u0624\u0633\u0646\u06af \u0627\u062a\u06be\u0627\u0631\u0679\u06cc \u0645\u06cc\u06ba \u06af\u0646\u0633\u0648\u0627\u0626\u06d2",
+   "about_ur": "\u06af\u0646\u0633\u0648\u0627\u0626\u06d2 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u0688\u06cc\u0641\u0646\u0633 \u06c1\u0627\u0624\u0633\u0646\u06af \u0627\u062a\u06be\u0627\u0631\u0679\u06cc\u060c \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u0646 \u06c1\u06d2\u06d4 \u06c1\u0645 \u0627\u067e\u0646\u06d2 \u0645\u0642\u0627\u0645\u06cc \u0639\u0644\u0627\u0642\u06d2 \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631 \u06a9\u06d2 \u0628\u06c1\u062a \u062e\u0648\u0634 \u06c1\u06cc\u06ba\u06d4 \u0622\u062c \u06c1\u06cc \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba!"
+  },
+  "tv": 4
+ },
+ "node4730493100": {
+  "tags": {
+   "addr:city": "\u06a9\u0631\u0627\u0686\u06cc",
+   "addr:street": "\u0630\u0648\u0627\u0644\u0641\u0642\u0627\u0631 \u0627\u0633\u0679\u0631\u06cc\u0679 1",
+   "amenity": "restaurant",
+   "name": "\u0631\u06cc\u0633\u0679\u0648\u0631\u0646\u0679 \u06a9\u0627 \u0645\u0632\u06c1 \u0644\u06cc\u06ba",
+   "name:en": "Savour Resturant",
+   "name:ur": "\u0631\u06cc\u0633\u0679\u0648\u0631\u0646\u0679 \u06a9\u0627 \u0645\u0632\u06c1 \u0644\u06cc\u06ba"
+  },
+  "lat": 24.7857163,
+  "lon": 67.0909581,
+  "slug": "savour-resturant-3100",
+  "email": "",
+  "built": "2026-10-25",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Enjoy delicious food in Karachi.",
+   "about": "Welcome to \u0631\u06cc\u0633\u0679\u0648\u0631\u0646\u0679 \u06a9\u0627 \u0645\u0632\u06c1 \u0644\u06cc\u06ba, a local restaurant located in Karachi. We are proud to serve our community right here in the area of Karachi.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0644\u0630\u06cc\u0630 \u06a9\u06be\u0627\u0646\u06d2 \u06a9\u0627 \u0644\u0637\u0641 \u0627\u0679\u06be\u0627\u0626\u06cc\u06ba\u06d4",
+   "about_ur": "\u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f \u0631\u06cc\u0633\u0679\u0648\u0631\u0646\u0679 \u06a9\u0627 \u0645\u0632\u06c1 \u0644\u06cc\u06ba\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u0631\u06cc\u0633\u0679\u0648\u0631\u0646\u0679 \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0639\u0644\u0627\u0642\u06d2 \u0645\u06cc\u06ba \u0627\u067e\u0646\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u067e\u0631 \u0641\u062e\u0631 \u06c1\u06d2\u06d4"
+  },
+  "tv": 4
+ },
+ "node4732946426": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:postcode": "75020",
+   "addr:province": "Sindh",
+   "addr:street": "Port Grand",
+   "amenity": "restaurant",
+   "name": "European Restaurant -Port Grand"
+  },
+  "lat": 24.8429211,
+  "lon": 66.9898616,
+  "slug": "european-restaurant-port-grand-6426",
+  "email": "",
+  "built": "2026-10-25",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to European Restaurant -Port Grand",
+   "about": "Welcome to European Restaurant -Port Grand in Karachi. We are a local restaurant ready to serve you. Visit us in Karachi today.",
+   "tagline_ur": "\u06cc\u0648\u0631\u067e\u06cc\u0626\u0646 \u0631\u06cc\u0633\u0679\u0648\u0631\u0646\u0679 \u067e\u0648\u0631\u0679 \u06af\u0631\u06cc\u0646\u0688 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06cc\u0648\u0631\u067e\u06cc\u0626\u0646 \u0631\u06cc\u0633\u0679\u0648\u0631\u0646\u0679 \u067e\u0648\u0631\u0679 \u06af\u0631\u06cc\u0646\u0688 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4 \u06c1\u0645 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u0631\u06cc\u0633\u0679\u0648\u0631\u0646\u0679 \u06c1\u06cc\u06ba \u062c\u0648 \u0622\u067e \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u06d2 \u0644\u06cc\u06d2 \u062a\u06cc\u0627\u0631 \u06c1\u06cc\u06ba\u06d4 \u0622\u062c \u06c1\u06cc \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06c1\u0645\u0627\u0631\u06d2 \u067e\u0627\u0633 \u0622\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node4732948873": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:postcode": "75020",
+   "addr:province": "Sindh",
+   "addr:street": "Port Grand",
+   "amenity": "restaurant",
+   "name": "Gaffar Kabob House -Port Grand"
+  },
+  "lat": 24.8430519,
+  "lon": 66.9899207,
+  "slug": "gaffar-kabob-house-port-grand-8873",
+  "email": "",
+  "built": "2026-10-25",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Gaffar Kabob House -Port Grand",
+   "about": "Welcome to Gaffar Kabob House -Port Grand, a restaurant located in Karachi. We are proud to serve the local community in Karachi. Visit us to enjoy our restaurant experience.",
+   "tagline_ur": "\u06af\u0641\u0627\u0631 \u06a9\u0628\u0627\u0628 \u06c1\u0627\u0624\u0633 - \u067e\u0648\u0631\u0679 \u06af\u0631\u06cc\u0646\u0688 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u06af\u0641\u0627\u0631 \u06a9\u0628\u0627\u0628 \u06c1\u0627\u0624\u0633 - \u067e\u0648\u0631\u0679 \u06af\u0631\u06cc\u0646\u0688 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u06c1 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u06ba \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0645\u0642\u0627\u0645\u06cc \u0644\u0648\u06af\u0648\u06ba \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u067e\u0631 \u0641\u062e\u0631 \u06c1\u06d2\u06d4 \u06c1\u0645\u0627\u0631\u06d2 \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u06ba \u06a9\u06d2 \u062a\u062c\u0631\u0628\u06d2 \u0633\u06d2 \u0644\u0637\u0641 \u0627\u0646\u062f\u0648\u0632 \u06c1\u0648\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node4732950928": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:postcode": "75020",
+   "addr:province": "Sindh",
+   "addr:street": "Port Grand",
+   "amenity": "restaurant",
+   "name": "Bay Side Food Court -Port Grand"
+  },
+  "lat": 24.8426208,
+  "lon": 66.989649,
+  "slug": "bay-side-food-court-port-grand-0928",
+  "email": "",
+  "built": "2026-10-25",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Bay Side Food Court",
+   "about": "Welcome to Bay Side Food Court -Port Grand, a restaurant located in Karachi. We are happy to serve the Karachi area. Visit us today!",
+   "tagline_ur": "\u0628\u06cc \u0633\u0627\u0626\u06cc\u0688 \u0641\u0648\u0688 \u06a9\u0648\u0631\u0679 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u0628\u06cc \u0633\u0627\u0626\u06cc\u0688 \u0641\u0648\u0688 \u06a9\u0648\u0631\u0679 - \u067e\u0648\u0631\u0679 \u06af\u0631\u06cc\u0646\u0688 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u06ba \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0639\u0644\u0627\u0642\u06d2 \u0645\u06cc\u06ba \u062e\u062f\u0645\u0627\u062a \u0627\u0646\u062c\u0627\u0645 \u062f\u06d2 \u06a9\u0631 \u062e\u0648\u0634\u06cc \u06c1\u0648\u062a\u06cc \u06c1\u06d2\u06d4 \u0622\u062c \u06c1\u06cc \u06c1\u0645\u0627\u0631\u06d2 \u067e\u0627\u0633 \u0622\u0626\u06cc\u06ba!"
+  },
+  "tv": 4
+ },
+ "node4732952373": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:postcode": "75020",
+   "addr:province": "Sindh",
+   "addr:street": "Port Grand",
+   "amenity": "restaurant",
+   "name": "Grand Pier -Port Grand"
+  },
+  "lat": 24.8423797,
+  "lon": 66.9895082,
+  "slug": "grand-pier-port-grand-2373",
+  "email": "",
+  "built": "2026-10-25",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Grand Pier -Port Grand",
+   "about": "Welcome to Grand Pier -Port Grand, a restaurant located in Karachi. We are happy to serve the Karachi community.",
+   "tagline_ur": "\u06af\u0631\u0627\u0646\u0688 \u067e\u06cc\u0626\u0631 - \u067e\u0648\u0631\u0679 \u06af\u0631\u0627\u0646\u0688 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u06af\u0631\u0627\u0646\u0688 \u067e\u06cc\u0626\u0631 - \u067e\u0648\u0631\u0679 \u06af\u0631\u0627\u0646\u0688 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u06ba \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0639\u0644\u0627\u0642\u06d2 \u0645\u06cc\u06ba \u062e\u062f\u0645\u062a \u06a9\u0631\u062a\u06d2 \u06c1\u0648\u0626\u06d2 \u062e\u0648\u0634\u06cc \u06c1\u0648\u062a\u06cc \u06c1\u06d2\u06d4"
+  },
+  "tv": 4
  }
 }
