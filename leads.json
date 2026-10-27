@@ -2338,5 +2338,259 @@
    "about_ur": "\u06a9\u0628\u0627\u0628 \u062c\u06cc\u0632 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0639\u0644\u0627\u0642\u06d2 \u0646\u0627\u0631\u062a\u06be \u0646\u0627\u0638\u0645 \u0622\u0628\u0627\u062f \u0679\u0627\u0624\u0646 \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u0646 \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u06cc\u06c1\u0627\u06ba \u0627\u067e\u0646\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u06a9\u06cc \u062e\u0648\u0634\u06cc \u06c1\u06d2\u06d4 \u06c1\u0645\u0627\u0631\u06d2 \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u0646 \u06a9\u0627 \u062a\u062c\u0631\u0628\u06c1 \u06a9\u0631\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u0622\u062c \u06c1\u06cc \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba\u06d4"
   },
   "tv": 4
+ },
+ "node4738098681": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:place": "North Nazimabad Block A",
+   "addr:province": "Sindh",
+   "addr:street": "North Nazimabad Block A",
+   "addr:suburb": "North Nazimabad Town",
+   "amenity": "restaurant",
+   "name": "Creek Inn"
+  },
+  "lat": 24.9284013,
+  "lon": 67.0321756,
+  "slug": "creek-inn-8681",
+  "email": "",
+  "built": "2026-10-27",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Creek Inn in Karachi",
+   "about": "Welcome to Creek Inn, a local restaurant located in North Nazimabad Town, Karachi. We are happy to serve our community in the area. Visit us today to experience our restaurant.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06a9\u0631\u06cc\u06cc\u06a9 \u0627\u0646 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u06a9\u0631\u06cc\u06cc\u06a9 \u0627\u0646 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0639\u0644\u0627\u0642\u06d2 \u0646\u0627\u0631\u062a\u06be \u0646\u0627\u0638\u0645 \u0622\u0628\u0627\u062f \u0679\u0627\u0624\u0646 \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0631\u06cc\u0633\u0679\u0648\u0631\u0627\u0646\u0679 \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u0627\u0633 \u0639\u0644\u0627\u0642\u06d2 \u0645\u06cc\u06ba \u0627\u067e\u0646\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u067e\u0631 \u062e\u0648\u0634\u06cc \u06c1\u06d2\u06d4 \u06c1\u0645\u0627\u0631\u06d2 \u0631\u06cc\u0633\u0679\u0648\u0631\u0627\u0646\u0679 \u06a9\u0627 \u062a\u062c\u0631\u0628\u06c1 \u06a9\u0631\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u0622\u062c \u06c1\u06cc \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node4738098682": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:place": "North Nazimabad Block A",
+   "addr:province": "Sindh",
+   "addr:street": "North Nazimabad Block A",
+   "addr:suburb": "North Nazimabad Town",
+   "amenity": "restaurant",
+   "name": "Pizza King"
+  },
+  "lat": 24.9287831,
+  "lon": 67.0325325,
+  "slug": "pizza-king-8682",
+  "email": "",
+  "built": "2026-10-27",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Pizza King in Karachi",
+   "about": "Welcome to Pizza King, a local restaurant located in North Nazimabad Town, Karachi. We are happy to serve our community here. Visit us today to experience our restaurant.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u067e\u0632\u0627 \u06a9\u0646\u06af \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u067e\u0632\u0627 \u06a9\u0646\u06af \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0639\u0644\u0627\u0642\u06d2 \u0646\u0627\u0631\u062a\u06be \u0646\u0627\u0638\u0645 \u0622\u0628\u0627\u062f \u0679\u0627\u0624\u0646 \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u0631\u06cc\u0633\u0679\u0648\u0631\u0627\u0646\u0679 \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u06cc\u06c1\u0627\u06ba \u0627\u067e\u0646\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u062a\u06d2 \u06c1\u0648\u0626\u06d2 \u062e\u0648\u0634\u06cc \u06c1\u0648\u062a\u06cc \u06c1\u06d2\u06d4 \u06c1\u0645\u0627\u0631\u06d2 \u0631\u06cc\u0633\u0679\u0648\u0631\u0627\u0646\u0679 \u06a9\u0627 \u062a\u062c\u0631\u0628\u06c1 \u06a9\u0631\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u0622\u062c \u06c1\u06cc \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node4738098683": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:place": "North Nazimabad Block A",
+   "addr:province": "Sindh",
+   "addr:street": "North Nazimabad Block A",
+   "addr:suburb": "North Nazimabad Town",
+   "amenity": "restaurant",
+   "name": "Khanjee"
+  },
+  "lat": 24.9288367,
+  "lon": 67.0326263,
+  "slug": "khanjee-8683",
+  "email": "",
+  "built": "2026-10-27",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Khanjee in Karachi",
+   "about": "Welcome to Khanjee, a local restaurant located in North Nazimabad Town, Karachi. We are happy to serve our community in the area. Visit us today!",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u062e\u0627\u0646 \u062c\u06cc \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u062e\u0627\u0646 \u062c\u06cc \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0639\u0644\u0627\u0642\u06d2 \u0646\u0627\u0631\u062a\u06be \u0646\u0627\u0638\u0645 \u0622\u0628\u0627\u062f \u0679\u0627\u0624\u0646 \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u0631\u06cc\u0633\u0679\u0648\u0631\u0627\u0646\u0679 \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u0627\u0633 \u0639\u0644\u0627\u0642\u06d2 \u0645\u06cc\u06ba \u0627\u067e\u0646\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u06a9\u06cc \u062e\u0648\u0634\u06cc \u06c1\u06d2\u06d4 \u0622\u062c \u06c1\u06cc \u06c1\u0645\u0627\u0631\u06d2 \u067e\u0627\u0633 \u0622\u0626\u06cc\u06ba!"
+  },
+  "tv": 4
+ },
+ "node4738098684": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:place": "North Nazimabad Block A",
+   "addr:province": "Sindh",
+   "addr:street": "North Nazimabad Block A",
+   "addr:suburb": "North Nazimabad Town",
+   "amenity": "restaurant",
+   "name": "Sawadee"
+  },
+  "lat": 24.9286956,
+  "lon": 67.0324654,
+  "slug": "sawadee-8684",
+  "email": "",
+  "built": "2026-10-27",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Sawadee in Karachi.",
+   "about": "Welcome to Sawadee, a restaurant located in North Nazimabad Town, Karachi. We are happy to serve our local community. Visit us today to experience our restaurant.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0633\u0648\u0627\u062f\u06d2 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4",
+   "about_ur": "\u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0646\u0627\u0631\u062a\u06be \u0646\u0627\u0638\u0645 \u0622\u0628\u0627\u062f \u0679\u0627\u0624\u0646 \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u0646 \u0633\u0648\u0627\u062f\u06d2 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4 \u06c1\u0645 \u0627\u067e\u0646\u06cc \u0645\u0642\u0627\u0645\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631 \u06a9\u06d2 \u062e\u0648\u0634 \u06c1\u06cc\u06ba\u06d4 \u06c1\u0645\u0627\u0631\u06d2 \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u0646 \u06a9\u0627 \u062a\u062c\u0631\u0628\u06c1 \u06a9\u0631\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u0622\u062c \u06c1\u06cc \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node4738119332": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Allama Shabbir Ahmed Usmani Road",
+   "amenity": "restaurant",
+   "capacity": "50",
+   "cuisine": "international",
+   "delivery": "yes",
+   "name": "Sizzler Cafe and Grill",
+   "outdoor_seating": "no",
+   "smoking": "outside",
+   "takeaway": "yes"
+  },
+  "lat": 24.9306638,
+  "lon": 67.099261,
+  "slug": "sizzler-cafe-and-grill-9332",
+  "email": "",
+  "built": "2026-10-27",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Sizzler Cafe and Grill.",
+   "about": "Welcome to Sizzler Cafe and Grill, an international restaurant located in Karachi. We are pleased to offer both delivery and takeaway services for your convenience.",
+   "tagline_ur": "\u0633\u06cc\u0632\u0644\u0631 \u06a9\u06cc\u0641\u06d2 \u0627\u06cc\u0646\u0688 \u06af\u0631\u0644 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4",
+   "about_ur": "\u0633\u06cc\u0632\u0644\u0631 \u06a9\u06cc\u0641\u06d2 \u0627\u06cc\u0646\u0688 \u06af\u0631\u0644 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0628\u06cc\u0646 \u0627\u0644\u0627\u0642\u0648\u0627\u0645\u06cc \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u06ba \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u0622\u067e \u06a9\u06cc \u0633\u06c1\u0648\u0644\u062a \u06a9\u06d2 \u0644\u06cc\u06d2 \u06c1\u0648\u0645 \u0688\u06cc\u0644\u06cc\u0648\u0631\u06cc \u0627\u0648\u0631 \u0679\u06cc\u06a9 \u0627\u0648\u06d2 \u06a9\u06cc \u062e\u062f\u0645\u0627\u062a \u067e\u06cc\u0634 \u06a9\u0631\u0646\u06d2 \u067e\u0631 \u062e\u0648\u0634\u06cc \u06c1\u06d2\u06d4"
+  },
+  "tv": 4
+ },
+ "node4738119452": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:place": "North Nazimabad Block A",
+   "addr:province": "Sindh",
+   "addr:street": "North Nazimabad Block A",
+   "addr:suburb": "North Nazimabad Town",
+   "amenity": "restaurant",
+   "name": "Manahil Food"
+  },
+  "lat": 24.9280248,
+  "lon": 67.032867,
+  "slug": "manahil-food-9452",
+  "email": "",
+  "built": "2026-10-27",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Manahil Food in Karachi.",
+   "about": "Welcome to Manahil Food, a restaurant located in North Nazimabad Town, Karachi. We are happy to serve our local community.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0645\u0646\u0627\u06c1\u0644 \u0641\u0648\u0688 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4",
+   "about_ur": "\u0645\u0646\u0627\u06c1\u0644 \u0641\u0648\u0688 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0639\u0644\u0627\u0642\u06d2 \u0646\u0627\u0631\u062a\u06be \u0646\u0627\u0638\u0645 \u0622\u0628\u0627\u062f \u0679\u0627\u0624\u0646 \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u06ba \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u0627\u067e\u0646\u06cc \u0645\u0642\u0627\u0645\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u062a\u06d2 \u06c1\u0648\u0626\u06d2 \u062e\u0648\u0634\u06cc \u06c1\u0648\u062a\u06cc \u06c1\u06d2\u06d4"
+  },
+  "tv": 4
+ },
+ "node4738119453": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:place": "North Nazimabad Block A",
+   "addr:province": "Sindh",
+   "addr:street": "North Nazimabad Block A",
+   "addr:suburb": "North Nazimabad Town",
+   "amenity": "restaurant",
+   "name": "Afridi Inn"
+  },
+  "lat": 24.9282291,
+  "lon": 67.0330735,
+  "slug": "afridi-inn-9453",
+  "email": "",
+  "built": "2026-10-27",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Afridi Inn in Karachi",
+   "about": "Welcome to Afridi Inn, a restaurant located in North Nazimabad Town, Karachi. Visit us to enjoy our dining space in the local area. We look forward to serving you.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0646\u0627\u0631\u062a\u06be \u0646\u0627\u0638\u0645 \u0622\u0628\u0627\u062f \u0679\u0627\u0624\u0646 \u0645\u06cc\u06ba \u0639\u0641\u0631\u06cc\u062f\u06cc \u0627\u0646 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u0639\u0641\u0631\u06cc\u062f\u06cc \u0627\u0646 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0639\u0644\u0627\u0642\u06d2 \u0646\u0627\u0631\u062a\u06be \u0646\u0627\u0638\u0645 \u0622\u0628\u0627\u062f \u0679\u0627\u0624\u0646 \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0631\u0a48\u0c38\u0c4d\u0c1f\u0648\u0631\u0646\u0679 \u06c1\u06d2\u06d4 \u06c1\u0645\u0627\u0631\u06d2 \u0645\u0642\u0627\u0645\u06cc \u0639\u0644\u0627\u0642\u06d2 \u0645\u06cc\u06ba \u06a9\u06be\u0627\u0646\u06d2 \u0633\u06d2 \u0644\u0637\u0641 \u0627\u0646\u062f\u0648\u0632 \u06c1\u0648\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba\u06d4 \u06c1\u0645 \u0622\u067e \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u06d2 \u0645\u0646\u062a\u0638\u0631 \u06c1\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node4738119457": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:place": "North Nazimabad Block A",
+   "addr:province": "Sindh",
+   "addr:street": "North Nazimabad Block A",
+   "addr:suburb": "North Nazimabad Town",
+   "amenity": "restaurant",
+   "name": "Pizza King"
+  },
+  "lat": 24.9285943,
+  "lon": 67.0329425,
+  "slug": "pizza-king-9457",
+  "email": "",
+  "built": "2026-10-27",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Pizza King in Karachi",
+   "about": "Welcome to Pizza King, a local restaurant located in North Nazimabad Town, Karachi. We are happy to serve our community here. Visit us soon!",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u067e\u06cc\u0632\u0627 \u06a9\u0646\u06af \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u067e\u06cc\u0632\u0627 \u06a9\u0646\u06af \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0639\u0644\u0627\u0642\u06d2 \u0646\u0627\u0631\u062a\u06be \u0646\u0627\u0638\u0645 \u0622\u0628\u0627\u062f \u0679\u0627\u0624\u0646 \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u0631\u06cc\u0633\u0679\u0648\u0631\u0627\u0646\u0679 \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u06cc\u06c1\u0627\u06ba \u0627\u067e\u0646\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u06a9\u06d2 \u062e\u0648\u0634\u06cc \u06c1\u0648\u062a\u06cc \u06c1\u06d2\u06d4 \u062c\u0644\u062f \u06c1\u06cc \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba!"
+  },
+  "tv": 4
+ },
+ "node4738135544": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:place": "North Nazimabad Block A",
+   "addr:province": "Sindh",
+   "addr:street": "North Nazimabad Block A",
+   "addr:suburb": "North Nazimabad Town",
+   "amenity": "restaurant",
+   "name": "Meerath Famous Kabab Paratha"
+  },
+  "lat": 24.9289295,
+  "lon": 67.0347351,
+  "slug": "meerath-famous-kabab-paratha-5544",
+  "email": "",
+  "built": "2026-10-27",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Meerath Famous Kabab Paratha!",
+   "about": "Welcome to Meerath Famous Kabab Paratha, a restaurant located in North Nazimabad Town, Karachi. We are happy to serve our local community. Visit us today in Karachi!",
+   "tagline_ur": "\u0645\u06cc\u0631\u0679\u06be \u0641\u06cc\u0645\u0633 \u06a9\u0628\u0627\u0628 \u067e\u0631\u0627\u0679\u06be\u0627 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f!",
+   "about_ur": "\u0645\u06cc\u0631\u0679\u06be \u0641\u06cc\u0645\u0633 \u06a9\u0628\u0627\u0628 \u067e\u0631\u0627\u0679\u06be\u0627 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0639\u0644\u0627\u0642\u06d2 \u0646\u0627\u0631\u062a\u06be \u0646\u0627\u0638\u0645 \u0622\u0628\u0627\u062f \u0679\u0627\u0624\u0646 \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0631\u06cc\u0633\u0679\u0648\u0631\u0627\u0646\u0679 \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u0627\u067e\u0646\u06cc \u0645\u0642\u0627\u0645\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u06a9\u06cc \u062e\u0648\u0634\u06cc \u06c1\u06d2\u06d4 \u0622\u062c \u06c1\u06cc \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06c1\u0645\u0627\u0631\u06d2 \u067e\u0627\u0633 \u0622\u0626\u06cc\u06ba!"
+  },
+  "tv": 4
+ },
+ "node4738226146": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Rashid Minhas Road",
+   "amenity": "restaurant",
+   "capacity": "50",
+   "cuisine": "kebab;regional",
+   "delivery": "yes",
+   "name": "Delhi Kebab House",
+   "outdoor_seating": "no",
+   "smoking": "outside",
+   "takeaway": "yes"
+  },
+  "lat": 24.927555,
+  "lon": 67.0897289,
+  "slug": "delhi-kebab-house-6146",
+  "email": "",
+  "built": "2026-10-27",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Authentic kebabs and regional cuisine in Karachi.",
+   "about": "Welcome to Delhi Kebab House, a restaurant located in Karachi. We serve delicious kebab and regional cuisine, available for both delivery and takeaway.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0627\u0635\u0644 \u06a9\u0628\u0627\u0628 \u0627\u0648\u0631 \u0639\u0644\u0627\u0642\u0627\u0626\u06cc \u06a9\u06be\u0627\u0646\u06d2\u06d4",
+   "about_ur": "\u062f\u06c1\u0644\u06cc \u06a9\u0628\u0627\u0628 \u06c1\u0627\u0624\u0633 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u06c1 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u06ba \u06c1\u06d2\u06d4 \u06c1\u0645 \u0645\u0632\u06cc\u062f\u0627\u0631 \u06a9\u0628\u0627\u0628 \u0627\u0648\u0631 \u0639\u0644\u0627\u0642\u0627\u0626\u06cc \u06a9\u06be\u0627\u0646\u06d2 \u067e\u06cc\u0634 \u06a9\u0631\u062a\u06d2 \u06c1\u06cc\u06ba\u060c \u062c\u0648 \u0688\u0644\u06cc\u0648\u0631\u06cc \u0627\u0648\u0631 \u0679\u06cc\u06a9 \u0648\u06d2 \u062f\u0648\u0646\u0648\u06ba \u06a9\u06d2 \u0644\u06cc\u06d2 \u062f\u0633\u062a\u06cc\u0627\u0628 \u06c1\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
  }
 }

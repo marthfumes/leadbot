@@ -1,0 +1,125 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex"><meta name="theme-color" content="#9f1d1d"><meta name="description" content="Welcome to Sizzler Cafe and Grill."><title>Sizzler Cafe and Grill</title>
+<script>document.documentElement.className+=' js'</script>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@600;800&family=Plus+Jakarta+Sans:wght@400;600;700;800&family=Noto+Naskh+Arabic:wght@400;600&display=swap" rel="stylesheet">
+<style>
+@property --ang{syntax:'<angle>';initial-value:0deg;inherits:false}
+:root{--p:#9f1d1d;--a:#ffb703;--soft:#fff0e8;--fd:'Fraunces',Georgia,'Times New Roman',serif;--bg:#fbfaf8;--fg:#15171f;--muted:#5d6475;--card:#fff;--line:#e9e7e2;--pt:#9f1d1d}
+@media(prefers-color-scheme:dark){:root:not([data-theme=light]){--bg:#0c0e14;--fg:#eef0f6;--muted:#9aa2b5;--card:#151925;--line:#242a39;--soft:#1c2232;--pt:var(--a)}}
+:root[data-theme=dark]{--bg:#0c0e14;--fg:#eef0f6;--muted:#9aa2b5;--card:#151925;--line:#242a39;--soft:#1c2232;--pt:var(--a)}
+*{box-sizing:border-box}html{scroll-behavior:smooth;overflow-x:hidden}
+body{margin:0;overflow-x:hidden;font-family:'Plus Jakarta Sans',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;background:var(--bg);color:var(--fg);line-height:1.7;-webkit-font-smoothing:antialiased}
+.i{width:1.15em;height:1.15em;flex:none}
+.ur{display:none;font-family:'Noto Naskh Arabic','Segoe UI',serif;line-height:2.1}body.lang-ur .ur{display:block}body.lang-ur .en{display:none}
+.wrap{max-width:1040px;margin:0 auto;padding:0 22px}
+#prog{position:fixed;top:0;left:0;height:3px;width:0;background:linear-gradient(90deg,var(--a),var(--p));z-index:60}
+.spot{position:fixed;inset:0;pointer-events:none;z-index:1;opacity:0;transition:opacity .4s;background:radial-gradient(520px circle at var(--x,50%) var(--y,50%),color-mix(in srgb,var(--a) 13%,transparent),transparent 65%)}
+.draft{background:#fff3cd;color:#5c4400;text-align:center;padding:8px 12px;font-size:.8rem;position:relative;z-index:25}
+nav{position:sticky;top:0;z-index:40;backdrop-filter:blur(16px) saturate(1.4);-webkit-backdrop-filter:blur(16px) saturate(1.4);background:color-mix(in srgb,var(--bg) 70%,transparent);border-bottom:1px solid var(--line)}
+nav .wrap{display:flex;align-items:center;justify-content:space-between;height:62px;gap:10px}
+.brand{font-family:var(--fd);font-weight:800;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:52%;font-size:1.05rem}
+.nr{display:flex;gap:8px;align-items:center}
+.ib{border:1px solid var(--line);background:var(--card);color:var(--fg);border-radius:999px;padding:8px 15px;font:inherit;font-size:.85rem;cursor:pointer;transition:.25s;display:inline-flex;gap:8px;align-items:center}.ib:hover{transform:translateY(-2px);border-color:var(--pt);box-shadow:0 6px 16px rgba(0,0,0,.1)}
+.hero{position:relative;min-height:min(92vh,840px);display:flex;align-items:center;justify-content:center;overflow:hidden;color:#fff;text-align:center;isolation:isolate;padding:70px 0 120px;background:linear-gradient(160deg,color-mix(in srgb,var(--p) 78%,#000) 0%,var(--p) 55%,color-mix(in srgb,var(--p) 72%,var(--a)) 100%)}
+.hero:before{content:"";position:absolute;inset:0;z-index:-1;opacity:.14;mix-blend-mode:overlay;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E")}
+.blob{position:absolute;border-radius:50%;filter:blur(80px);z-index:-2;animation:fl 16s ease-in-out infinite alternate;will-change:transform}
+.o1{width:520px;height:520px;background:var(--a);top:-180px;left:-120px;opacity:.5}.o2{width:440px;height:440px;background:#ffffff;opacity:.16;bottom:-160px;right:-80px;animation-delay:-6s}.o3{width:300px;height:300px;background:var(--a);opacity:.3;bottom:10%;left:58%;animation-delay:-10s}
+@keyframes fl{to{transform:translate(70px,50px) scale(1.2)}}
+.pe{position:absolute;bottom:-70px;left:var(--l);font-size:var(--s);opacity:.2;z-index:-1;animation:rise var(--t) linear var(--d) infinite;filter:saturate(.8)}
+@keyframes rise{to{transform:translateY(-115vh) rotate(var(--r))}}
+.ico{font-size:3.4rem;line-height:1;display:inline-block;animation:bob 4s ease-in-out infinite;filter:drop-shadow(0 10px 18px rgba(0,0,0,.3))}@keyframes bob{50%{transform:translateY(-10px) rotate(-5deg)}}
+.badge{display:inline-flex;align-items:center;padding:6px 16px;border-radius:999px;font-size:.8rem;font-weight:700;margin:10px 0 4px;backdrop-filter:blur(8px);border:1px solid #ffffff40}
+.badge[hidden]{display:none}.badge.on{background:#16a34acc}.badge.off{background:#ffffff26}
+.badge.on:before{content:"";width:8px;height:8px;border-radius:50%;background:#bbf7d0;margin-right:8px;animation:pulse 1.6s infinite}
+@keyframes pulse{0%{box-shadow:0 0 0 0 #bbf7d0aa}100%{box-shadow:0 0 0 10px #bbf7d000}}
+h1{font-family:var(--fd);font-size:clamp(2.4rem,9vw,5.2rem);line-height:1.04;margin:10px 0 6px;font-weight:800;letter-spacing:-.025em;text-wrap:balance}
+.w{display:inline-block;animation:wd .9s cubic-bezier(.2,.8,.2,1) both;animation-delay:calc(.2s + var(--i)*.13s)}
+@keyframes wd{from{opacity:0;transform:translateY(46px) rotate(4deg);filter:blur(8px)}}
+.fu{animation:fu .9s cubic-bezier(.2,.8,.2,1) both;animation-delay:calc(.3s + var(--i,0)*.14s)}@keyframes fu{from{opacity:0;transform:translateY(24px)}}
+.ul{width:96px;height:5px;border-radius:9px;background:var(--a);margin:18px auto 0;transform-origin:left;animation:gr 1s .9s cubic-bezier(.2,.8,.2,1) both}@keyframes gr{from{transform:scaleX(0)}}
+.tag{font-size:clamp(1.05rem,2.6vw,1.4rem);opacity:.95;margin:22px auto 6px;max-width:660px}
+.kind{opacity:.8;letter-spacing:.16em;text-transform:uppercase;font-size:.76rem;font-weight:700}
+.btns{display:flex;gap:12px;justify-content:center;flex-wrap:wrap;margin-top:30px}
+.btn{display:inline-flex;align-items:center;gap:10px;padding:14px 28px;border-radius:999px;text-decoration:none;font-weight:700;font-size:.96rem;border:0;cursor:pointer;font-family:inherit;transition:transform .2s,box-shadow .3s;will-change:transform}
+.btn:hover{box-shadow:0 14px 30px rgba(0,0,0,.3)}.btn:active{transform:scale(.96)!important}
+.c1{background:var(--a);color:#111}.c2{background:#25d366;color:#04301a}.c3{background:#ffffff1f;color:#fff;border:1px solid #ffffff55;backdrop-filter:blur(8px)}
+.cue{position:absolute;bottom:92px;left:50%;width:26px;height:42px;border:2px solid #ffffff90;border-radius:14px;transform:translateX(-50%)}
+.cue:after{content:"";position:absolute;left:50%;top:8px;width:4px;height:8px;background:#fff;border-radius:3px;transform:translateX(-50%);animation:sc 1.7s infinite}@keyframes sc{60%{transform:translate(-50%,14px);opacity:0}}
+.wave{position:absolute;bottom:-1px;left:0;width:100%;height:80px;fill:var(--bg)}
+.mqw{overflow:hidden;padding:28px 0 8px;position:relative;z-index:2}
+.mq{width:112%;margin-left:-6%;transform:rotate(-1.6deg);background:var(--fg);color:var(--bg);padding:16px 0;box-shadow:0 14px 34px rgba(0,0,0,.18)}
+.mt{display:flex;gap:34px;width:max-content;animation:mq 32s linear infinite;font-family:var(--fd);font-weight:800;font-size:1.25rem;white-space:nowrap}
+.mt .st{color:var(--a)}@keyframes mq{to{transform:translateX(-50%)}}.mq:hover .mt{animation-play-state:paused}
+section{padding:64px 0;position:relative;z-index:2}
+.eb{font-size:.74rem;font-weight:800;letter-spacing:.2em;text-transform:uppercase;color:var(--pt);margin-bottom:8px}
+h2{font-family:var(--fd);font-size:clamp(1.6rem,4.4vw,2.4rem);line-height:1.15;margin:0 0 18px;letter-spacing:-.02em}
+.card{background:var(--card);border:1px solid var(--line);border-radius:26px;padding:30px;box-shadow:0 10px 40px rgba(20,24,40,.07);position:relative}
+.gb:before{content:"";position:absolute;inset:-2px;border-radius:28px;padding:2px;pointer-events:none;background:conic-gradient(from var(--ang),var(--a),transparent 28%,var(--pt),transparent 68%,var(--a));-webkit-mask:linear-gradient(#000 0 0) content-box,linear-gradient(#000 0 0);-webkit-mask-composite:xor;mask-composite:exclude;animation:rot 7s linear infinite}@keyframes rot{to{--ang:360deg}}
+.g2{display:grid;grid-template-columns:1.2fr 1fr;gap:22px}.g1{display:grid;gap:22px}@media(max-width:780px){.g2{grid-template-columns:1fr}}
+.lead{font-size:1.1rem;color:var(--fg);position:relative;z-index:1}.wm{position:absolute;right:18px;bottom:-14px;font-size:9rem;line-height:1;opacity:.07;pointer-events:none;user-select:none}.card.gb{overflow:hidden}
+.pills{display:flex;flex-wrap:wrap;gap:9px;margin-top:20px}
+.pill{display:inline-flex;align-items:center;gap:7px;background:var(--soft);color:var(--pt);border-radius:999px;padding:8px 15px;font-size:.86rem;font-weight:700}.pill .i{width:1em;height:1em;stroke-width:3}
+.hr{display:flex;justify-content:space-between;padding:10px 14px;border-radius:12px;font-size:.95rem;transition:.2s}
+.hr.today{background:var(--soft);color:var(--pt);font-weight:800}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:16px}
+.tile{position:relative;display:flex;flex-direction:column;align-items:flex-start;gap:6px;padding:24px;border-radius:24px;background:var(--card);border:1px solid var(--line);text-decoration:none;color:var(--fg);overflow:hidden;transform:perspective(800px) rotateX(var(--rx,0deg)) rotateY(var(--ry,0deg));transition:transform .18s ease-out,box-shadow .3s;cursor:pointer;font:inherit;text-align:left;box-shadow:0 8px 28px rgba(20,24,40,.06)}
+.tile:hover{box-shadow:0 18px 44px rgba(20,24,40,.16)}
+.tile:after{content:"";position:absolute;inset:0;background:radial-gradient(240px circle at var(--mx,50%) var(--my,50%),color-mix(in srgb,var(--a) 30%,transparent),transparent 62%);opacity:0;transition:opacity .3s;pointer-events:none}.tile:hover:after{opacity:1}
+.tile .ic{width:52px;height:52px;border-radius:17px;display:grid;place-items:center;background:var(--a);color:#111;font-size:1.3rem;margin-bottom:8px;transition:transform .3s}.tile:hover .ic{transform:rotate(-8deg) scale(1.1)}
+.tile b{font-size:1.1rem}.tile small{color:var(--muted);font-size:.85rem;word-break:break-word}.tile .go{position:absolute;right:20px;top:22px;opacity:.35;transition:.3s}.tile:hover .go{opacity:1;transform:translateX(4px)}
+form{display:grid;gap:14px}.fl{position:relative}
+.fl input,.fl textarea{font:inherit;width:100%;padding:24px 16px 9px;border-radius:16px;border:1.5px solid var(--line);background:var(--bg);color:var(--fg);transition:.2s;resize:vertical}
+.fl label{position:absolute;left:17px;top:16px;color:var(--muted);font-size:.95rem;pointer-events:none;transition:.2s}
+.fl input:focus,.fl textarea:focus{outline:none;border-color:var(--pt);box-shadow:0 0 0 4px color-mix(in srgb,var(--pt) 18%,transparent)}
+.fl input:focus+label,.fl textarea:focus+label,.fl input:not(:placeholder-shown)+label,.fl textarea:not(:placeholder-shown)+label{top:7px;font-size:.7rem;color:var(--pt);font-weight:700}
+.mapf{position:relative;height:340px;border-radius:20px;overflow:hidden;margin-top:6px;background:linear-gradient(135deg,var(--soft),var(--bg));display:grid;place-items:center;font-size:3rem}
+.mapf iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+a.link{color:var(--pt);font-weight:800;text-decoration:none;display:inline-flex;gap:8px;align-items:center;margin-top:14px}a.link:hover{text-decoration:underline}
+.fabs{position:fixed;right:16px;bottom:16px;display:flex;flex-direction:column;gap:10px;z-index:50}
+.fab{width:56px;height:56px;border-radius:50%;display:grid;place-items:center;font-size:1.35rem;text-decoration:none;box-shadow:0 10px 26px rgba(0,0,0,.3);transition:transform .2s;animation:pop .6s .9s cubic-bezier(.2,1.4,.4,1) both}.fab:hover{transform:scale(1.12)}
+.f1{background:var(--a);color:#111}.f2{background:#25d366;color:#04301a}@keyframes pop{from{transform:scale(0)}}
+footer{position:relative;z-index:2;text-align:center;color:var(--muted);font-size:.8rem;padding:30px 20px 44px;overflow:hidden}
+.big{font-family:var(--fd);font-weight:800;font-size:clamp(2.6rem,12vw,8rem);line-height:1;color:transparent;-webkit-text-stroke:1.5px var(--line);white-space:nowrap;margin-bottom:24px;overflow:hidden;text-overflow:ellipsis}
+.js .rv{opacity:0;transform:translateY(34px);transition:opacity .9s cubic-bezier(.2,.8,.2,1),transform .9s cubic-bezier(.2,.8,.2,1);transition-delay:var(--d,0s)}.js .rv.in{opacity:1;transform:none}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;scroll-behavior:auto!important}.js .rv{opacity:1!important;transform:none!important}.spot{display:none}}
+</style><script type="application/ld+json">{"@context": "https://schema.org", "@type": "LocalBusiness", "name": "Sizzler Cafe and Grill", "telephone": null, "address": {"@type": "PostalAddress", "streetAddress": "Allama Shabbir Ahmed Usmani Road, Karachi", "addressLocality": "Karachi"}, "geo": {"@type": "GeoCoordinates", "latitude": 24.9306638, "longitude": 67.099261}}</script></head>
+<body data-name="Sizzler Cafe and Grill" data-wa="" data-phone="" data-hours="">
+<div id="prog"></div><div class="spot"></div>
+<div class="draft">Free draft preview made for Sizzler Cafe and Grill by Muhammad Muzammil Mehar. Not yet published.</div>
+<nav><div class="wrap"><span class="brand" dir="auto">🍽️ Sizzler Cafe and Grill</span><div class="nr">
+<button class="ib" id="lang">اردو</button><button class="ib" id="theme" aria-label="Toggle dark mode">🌓</button></div></div></nav>
+<header class="hero"><div class="blob o1"></div><div class="blob o2"></div><div class="blob o3"></div><span class="pe" style="--l:27%;--s:22px;--t:16s;--d:-1s;--r:-37deg">🍽️</span><span class="pe" style="--l:12%;--s:54px;--t:19s;--d:-2s;--r:-36deg">🍕</span><span class="pe" style="--l:38%;--s:31px;--t:18s;--d:-22s;--r:2deg">🥘</span><span class="pe" style="--l:8%;--s:51px;--t:23s;--d:-21s;--r:-9deg">✨</span><span class="pe" style="--l:54%;--s:34px;--t:21s;--d:-10s;--r:42deg">🍽️</span><span class="pe" style="--l:64%;--s:50px;--t:26s;--d:-5s;--r:30deg">🍕</span><span class="pe" style="--l:83%;--s:25px;--t:17s;--d:-3s;--r:-8deg">🥘</span><span class="pe" style="--l:47%;--s:40px;--t:26s;--d:-19s;--r:-11deg">✨</span><span class="pe" style="--l:86%;--s:22px;--t:19s;--d:-23s;--r:49deg">🍽️</span><span class="pe" style="--l:95%;--s:32px;--t:24s;--d:-29s;--r:-13deg">🍕</span><span class="pe" style="--l:35%;--s:43px;--t:25s;--d:-14s;--r:-48deg">🥘</span><div class="wrap">
+<div class="ico fu">🍽️</div><div class="fu" style="--i:1"><span id="open" class="badge" hidden></span></div>
+<h1 dir="auto"><span class="w" style="--i:0">Sizzler</span> <span class="w" style="--i:1">Cafe</span> <span class="w" style="--i:2">and</span> <span class="w" style="--i:3">Grill</span> </h1><div class="ul"></div>
+<p class="tag en fu" style="--i:5">Welcome to Sizzler Cafe and Grill.</p><p class="tag ur fu" dir="rtl">سیزلر کیفے اینڈ گرل میں خوش آمدید۔</p>
+<div class="kind fu" style="--i:6">Restaurant · Karachi</div>
+<div class="btns fu" style="--i:7"></div></div><div class="cue"></div>
+<svg class="wave" viewBox="0 0 1440 100" preserveAspectRatio="none"><path d="M0,50 C240,100 480,0 720,40 C960,80 1200,100 1440,45 L1440,100 L0,100 Z"/></svg></header>
+<div class="mqw"><div class="mq"><div class="mt"><span>Sizzler Cafe and Grill</span><span class="st">✦</span><span>Restaurant</span><span class="st">✦</span><span>Karachi</span><span class="st">✦</span><span>Delivery</span><span class="st">✦</span><span>Takeaway</span><span class="st">✦</span><span>International</span><span class="st">✦</span><span>Sizzler Cafe and Grill</span><span class="st">✦</span><span>Restaurant</span><span class="st">✦</span><span>Karachi</span><span class="st">✦</span><span>Delivery</span><span class="st">✦</span><span>Takeaway</span><span class="st">✦</span><span>International</span><span class="st">✦</span><span>Sizzler Cafe and Grill</span><span class="st">✦</span><span>Restaurant</span><span class="st">✦</span><span>Karachi</span><span class="st">✦</span><span>Delivery</span><span class="st">✦</span><span>Takeaway</span><span class="st">✦</span><span>International</span><span class="st">✦</span><span>Sizzler Cafe and Grill</span><span class="st">✦</span><span>Restaurant</span><span class="st">✦</span><span>Karachi</span><span class="st">✦</span><span>Delivery</span><span class="st">✦</span><span>Takeaway</span><span class="st">✦</span><span>International</span><span class="st">✦</span></div></div></div>
+<section><div class="wrap g1"><div class="card gb rv"><span class="wm">🍽️</span><div class="eb">About us</div><h2 dir="auto">Sizzler Cafe and Grill</h2>
+<p class="lead en" dir="auto">Welcome to Sizzler Cafe and Grill, an international restaurant located in Karachi. We are pleased to offer both delivery and takeaway services for your convenience.</p><p class="lead ur" dir="rtl">سیزلر کیفے اینڈ گرل میں خوش آمدید، جو کراچی میں واقع ایک بین الاقوامی ریستوراں ہے۔ ہمیں آپ کی سہولت کے لیے ہوم ڈیلیوری اور ٹیک اوے کی خدمات پیش کرنے پر خوشی ہے۔</p>
+<div class="pills"><span class="pill"><svg class="i" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg>Delivery</span><span class="pill"><svg class="i" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg>Takeaway</span><span class="pill"><svg class="i" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg>International</span></div></div></div></section>
+<section style="padding-top:8px"><div class="wrap"><div class="eb rv">Get in touch</div><h2 class="rv">Reach us your way</h2><div class="tiles"><a class="tile rv" style="--d:0.00s" href="https://www.google.com/maps/dir/?api=1&amp;destination=24.9306638,67.099261"><span class="ic"><svg class="i" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 10c0 7-9 13-9 13S3 17 3 10a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span><b>Directions</b><small>Karachi</small><span class="go"><svg class="i" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span></a><button class="tile rv" style="--d:0.08s" id="share" type="button"><span class="ic"><svg class="i" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg></span><b>Share</b><small>Send this page</small><span class="go"><svg class="i" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span></button></div></div></section>
+<section style="padding-top:8px"><div class="wrap g1"><div class="card rv" style="--d:.1s"><div class="eb">Location</div><h2>Find us</h2><p style="margin:0;color:var(--muted)">Allama Shabbir Ahmed Usmani Road, Karachi</p><div class="mapf">📍<iframe title="Map" src="https://www.openstreetmap.org/export/embed.html?bbox=67.096261,24.9276638,67.102261,24.9336638&amp;marker=24.9306638,67.099261" loading="lazy"></iframe></div><a class="link" href="https://www.google.com/maps/dir/?api=1&amp;destination=24.9306638,67.099261">Get directions <svg class="i" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a></div></div></section>
+<footer><div class="wrap"><div class="big" dir="auto">Sizzler Cafe and Grill</div>Draft preview by Muhammad Muzammil Mehar. This is not the official website of Sizzler Cafe and Grill.<br>Map data &copy; OpenStreetMap contributors</div></footer>
+<div class="fabs"></div><script>
+(function(){var d=document,b=d.body,root=d.documentElement,$=function(s){return d.querySelector(s)},$$=function(s){return d.querySelectorAll(s)};
+try{var th=localStorage.getItem('th');if(th)root.setAttribute('data-theme',th)}catch(e){}
+$('#theme').onclick=function(){var c=root.getAttribute('data-theme')||(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');var n=c==='dark'?'light':'dark';root.setAttribute('data-theme',n);try{localStorage.setItem('th',n)}catch(e){}};
+var lg=$('#lang');if(lg){lg.onclick=function(){var u=b.classList.toggle('lang-ur');lg.textContent=u?'English':'\u0627\u0631\u062f\u0648'}}
+var el=$('#open'),m=/^\s*(?:Mo-Su\s+)?(\d\d):(\d\d)-(\d\d):(\d\d)\s*$/.exec(b.dataset.hours||'');
+if(m&&el){var s=+m[1]*60+ +m[2],e=+m[3]*60+ +m[4];if(e<=s)e+=1440;var n=new Date(),t=n.getHours()*60+n.getMinutes();var o=(t>=s&&t<e)||(t+1440>=s&&t+1440<e);el.textContent=o?'Open now':'Closed right now';el.className='badge '+(o?'on':'off');el.hidden=false}
+var dow=new Date().getDay();$$('.hr[data-dow]').forEach(function(r){if(+r.dataset.dow===dow)r.classList.add('today')});
+var f=$('#msg');if(f){f.onsubmit=function(ev){ev.preventDefault();var t='Hello '+b.dataset.name+'! I am '+f.n.value+'. '+f.m.value;window.open('https://wa.me/'+b.dataset.wa+'?text='+encodeURIComponent(t),'_blank')}}
+var sh=$('#share');if(sh){sh.onclick=function(){var u=location.href,sm=sh.querySelector('small');if(navigator.share){navigator.share({title:d.title,url:u}).catch(function(){})}else if(navigator.clipboard){navigator.clipboard.writeText(u);if(sm)sm.textContent='Link copied \u2713'}}}
+var vc=$('#vcard');if(vc){vc.onclick=function(){var t='BEGIN:VCARD\nVERSION:3.0\nFN:'+b.dataset.name+'\nTEL;TYPE=CELL:'+b.dataset.phone+'\nEND:VCARD';var a=d.createElement('a');a.href=URL.createObjectURL(new Blob([t],{type:'text/vcard'}));a.download='contact.vcf';d.body.appendChild(a);a.click();a.remove()}}
+var pg=$('#prog');addEventListener('scroll',function(){var h=root.scrollHeight-innerHeight;pg.style.width=(h>0?scrollY/h*100:0)+'%'},{passive:true});
+if('IntersectionObserver' in window){var io=new IntersectionObserver(function(es){es.forEach(function(x){if(x.isIntersecting){x.target.classList.add('in');io.unobserve(x.target)}})},{threshold:.12});$$('.rv').forEach(function(x){io.observe(x)})}else{$$('.rv').forEach(function(x){x.classList.add('in')})}
+if(matchMedia('(hover:hover)').matches&&!matchMedia('(prefers-reduced-motion:reduce)').matches){
+var sp=$('.spot');addEventListener('mousemove',function(ev){sp.style.opacity=1;sp.style.setProperty('--x',ev.clientX+'px');sp.style.setProperty('--y',ev.clientY+'px')},{passive:true});
+$$('.tile').forEach(function(t){t.addEventListener('mousemove',function(ev){var r=t.getBoundingClientRect(),x=ev.clientX-r.left,y=ev.clientY-r.top;t.style.setProperty('--mx',x+'px');t.style.setProperty('--my',y+'px');t.style.setProperty('--ry',((x/r.width-.5)*10)+'deg');t.style.setProperty('--rx',((.5-y/r.height)*10)+'deg')});t.addEventListener('mouseleave',function(){t.style.setProperty('--rx','0deg');t.style.setProperty('--ry','0deg')})});
+$$('.mg').forEach(function(t){t.addEventListener('mousemove',function(ev){var r=t.getBoundingClientRect();t.style.transform='translate('+((ev.clientX-r.left-r.width/2)*.18)+'px,'+((ev.clientY-r.top-r.height/2)*.28)+'px)'});t.addEventListener('mouseleave',function(){t.style.transform=''})});
+var hero=$('.hero');addEventListener('scroll',function(){var y=scrollY;if(y<900){$$('.blob').forEach(function(x,i){x.style.translate='0 '+(y*(.08+i*.05))+'px'})}},{passive:true})}
+})();
+</script></body></html>
