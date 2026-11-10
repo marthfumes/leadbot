@@ -5239,5 +5239,209 @@
    "about_ur": "\u0645\u0627\u0634\u0627\u0621 \u0627\u0644\u0644\u06c1 \u0631\u0648\u0644 \u06a9\u0627\u0631\u0646\u0631 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u06ba \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0645\u0642\u0627\u0645\u06cc \u0644\u0648\u06af\u0648\u06ba \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u067e\u0631 \u0641\u062e\u0631 \u06c1\u06d2\u06d4 \u06c1\u0645\u0627\u0631\u06d2 \u06c1\u0627\u06ba \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba \u0627\u0648\u0631 \u06c1\u0645\u0627\u0631\u06d2 \u06a9\u06be\u0627\u0646\u06d2 \u0633\u06d2 \u0644\u0637\u0641 \u0627\u0646\u062f\u0648\u0632 \u06c1\u0648\u06ba\u06d4"
   },
   "tv": 4
+ },
+ "node4767393792": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Bahadur Shah Road",
+   "amenity": "restaurant",
+   "name": "Mashallah Bar B Q"
+  },
+  "lat": 24.883028,
+  "lon": 67.0675241,
+  "slug": "mashallah-bar-b-q-3792",
+  "email": "",
+  "built": "2026-11-10",
+  "status": "no_email",
+  "tv": 4
+ },
+ "node4767393794": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Bahadur Shah Road",
+   "amenity": "restaurant",
+   "name": "Peking Chinese"
+  },
+  "lat": 24.8832056,
+  "lon": 67.0678231,
+  "slug": "peking-chinese-3794",
+  "email": "",
+  "built": "2026-11-10",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Peking Chinese in Karachi",
+   "about": "Welcome to Peking Chinese, a restaurant located in Karachi. We are happy to serve our local community in Karachi. Visit us soon to experience our restaurant.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u067e\u06cc\u06a9\u0646\u06af \u0686\u0627\u0626\u09a8\u09bf\u099c \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u067e\u06cc\u06a9\u0646\u06af \u0686\u0627\u0626\u09a8\u09bf\u099c \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u06c1 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u06ba \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0627\u067e\u0646\u06cc \u0645\u0642\u0627\u0645\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u06a9\u06cc \u062e\u0648\u0634\u06cc \u06c1\u06d2\u06d4 \u06c1\u0645\u0627\u0631\u06d2 \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u06ba \u06a9\u0627 \u062a\u062c\u0631\u0628\u06c1 \u06a9\u0631\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u062c\u0644\u062f \u06c1\u06cc \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node4767393795": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Bahadur Shah Road",
+   "amenity": "restaurant",
+   "name": "Mehran Spot"
+  },
+  "lat": 24.8831545,
+  "lon": 67.0680846,
+  "slug": "mehran-spot-3795",
+  "email": "",
+  "built": "2026-11-10",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Mehran Spot in Karachi",
+   "about": "Welcome to Mehran Spot, a restaurant located in Karachi. We are happy to serve our local community. Visit us soon in Karachi.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0645\u06c1\u0631\u0627\u0646 \u0627\u0633\u067e\u0627\u0679 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u0645\u06c1\u0631\u0627\u0646 \u0627\u0633\u067e\u0627\u0679 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u06c1 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u06ba \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u0627\u067e\u0646\u06cc \u0645\u0642\u0627\u0645\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u067e\u0631 \u062e\u0648\u0634\u06cc \u06c1\u06d2\u06d4 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u062c\u0644\u062f \u06c1\u06cc \u06c1\u0645\u0627\u0631\u06d2 \u067e\u0627\u0633 \u0622\u0626\u06cc\u06ba"
+  },
+  "tv": 4
+ },
+ "node4767548823": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Bmchs Road No 7",
+   "amenity": "restaurant",
+   "name": "Shanghai"
+  },
+  "lat": 24.8822936,
+  "lon": 67.0656274,
+  "slug": "shanghai-8823",
+  "email": "",
+  "built": "2026-11-10",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Shanghai in Karachi.",
+   "about": "Welcome to Shanghai, a restaurant located in Karachi. We are happy to serve the local community in Karachi.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0634\u0646\u06af\u06be\u0627\u0626\u06cc \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4",
+   "about_ur": "\u0634\u0646\u06af\u06be\u0627\u0626\u06cc \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u06ba \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0645\u0642\u0627\u0645\u06cc \u0644\u0648\u06af\u0648\u06ba \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u067e\u0631 \u062e\u0648\u0634\u06cc \u06c1\u06d2\u06d4"
+  },
+  "tv": 4
+ },
+ "node4767548824": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Bmchs Road No 5",
+   "amenity": "restaurant",
+   "name": "Crescent Roll Corner And BBQ"
+  },
+  "lat": 24.8825264,
+  "lon": 67.0658367,
+  "slug": "crescent-roll-corner-and-bbq-8824",
+  "email": "",
+  "built": "2026-11-10",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Crescent Roll Corner And BBQ",
+   "about": "Welcome to Crescent Roll Corner And BBQ, a restaurant located in Karachi. We are proud to serve the local community in Karachi. Visit us today to experience our restaurant.",
+   "tagline_ur": "\u06a9\u0631\u06cc\u0633\u0646\u0679 \u0631\u0648\u0644 \u06a9\u0627\u0631\u0646\u0631 \u0627\u06cc\u0646\u0688 \u0628\u0627\u0631\u0628\u06cc \u06a9\u06cc\u0648 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u06a9\u0631\u06cc\u0633\u0646\u0679 \u0631\u0648\u0644 \u06a9\u0627\u0631\u0646\u0631 \u0627\u06cc\u0646\u0688 \u0628\u0627\u0631\u0628\u06cc \u06a9\u06cc\u0648 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u06c1 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u06ba \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0645\u0642\u0627\u0645\u06cc \u0639\u0644\u0627\u0642\u06d2 \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u067e\u0631 \u0641\u062e\u0631 \u06c1\u06d2\u06d4 \u0622\u062c \u06c1\u06cc \u06c1\u0645\u0627\u0631\u06d2 \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u06ba \u06a9\u0627 \u062f\u0648\u0631\u06c1 \u06a9\u0631\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node4767548825": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Bmchs Road No 5",
+   "amenity": "restaurant",
+   "name": "Mughlia Roll Corner"
+  },
+  "lat": 24.8826324,
+  "lon": 67.0659017,
+  "slug": "mughlia-roll-corner-8825",
+  "email": "",
+  "built": "2026-11-10",
+  "status": "no_email",
+  "tv": 4
+ },
+ "node4767548826": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Bmchs Road No 8",
+   "amenity": "restaurant",
+   "name": "Sadia Biryani"
+  },
+  "lat": 24.8826205,
+  "lon": 67.0658037,
+  "slug": "sadia-biryani-8826",
+  "email": "",
+  "built": "2026-11-10",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Sadia Biryani in Karachi.",
+   "about": "Sadia Biryani is a restaurant located in Karachi. We are happy to serve our local community. Visit us in Karachi today.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0633\u0627\u062f\u06cc\u06c1 \u0628\u0631\u06cc\u0627\u0646\u06cc \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4",
+   "about_ur": "\u0633\u0627\u062f\u06cc\u06c1 \u0628\u0631\u06cc\u0627\u0646\u06cc \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u06ba \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u0627\u067e\u0646\u06d2 \u0645\u0642\u0627\u0645\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u062a\u06d2 \u06c1\u0648\u0626\u06d2 \u062e\u0648\u0634\u06cc \u06c1\u0648\u062a\u06cc \u06c1\u06d2\u06d4 \u0622\u062c \u06c1\u06cc \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06c1\u0645\u0627\u0631\u06d2 \u067e\u0627\u0633 \u0622\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node4767548827": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Bmchs Road No 5",
+   "amenity": "restaurant",
+   "name": "Tooso Nashta"
+  },
+  "lat": 24.8827924,
+  "lon": 67.066007,
+  "slug": "tooso-nashta-8827",
+  "email": "",
+  "built": "2026-11-10",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Tooso Nashta in Karachi",
+   "about": "Welcome to Tooso Nashta, a restaurant located in Karachi. We are happy to serve you in our local area. Visit us today to experience our restaurant.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0679\u0648\u0633\u0648 \u0646\u0627\u0634\u062a\u06c1 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u0679\u0648\u0633\u0648 \u0646\u0627\u0634\u062a\u06c1 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u06c1 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u06ba \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u0627\u067e\u0646\u06d2 \u0645\u0642\u0627\u0645\u06cc \u0639\u0644\u0627\u0642\u06d2 \u0645\u06cc\u06ba \u0622\u067e \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u067e\u0631 \u062e\u0648\u0634\u06cc \u06c1\u06d2\u06d4 \u06c1\u0645\u0627\u0631\u06d2 \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u06ba \u06a9\u0627 \u062a\u062c\u0631\u0628\u06c1 \u06a9\u0631\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u0622\u062c \u06c1\u06cc \u0622\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node4769251787": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Phase 6",
+   "addr:place": "DHA Phase 6",
+   "addr:province": "Sindh",
+   "addr:street": "Khayaban-e-Seher",
+   "addr:suburb": "Defence Housing Authority",
+   "amenity": "restaurant",
+   "name": "Zaika"
+  },
+  "lat": 24.807677,
+  "lon": 67.0622049,
+  "slug": "zaika-1787",
+  "email": "",
+  "built": "2026-11-10",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Zaika in Karachi",
+   "about": "Welcome to Zaika, a restaurant located in Defence Housing Authority, Karachi. We are pleased to serve you in our local area. Come visit us soon.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0688\u06cc\u0641\u0646\u0633 \u06c1\u0627\u0624\u0633\u0646\u06af \u0627\u062a\u06be\u0627\u0631\u0679\u06cc \u0645\u06cc\u06ba \u0630\u0627\u0626\u0642\u06c1",
+   "about_ur": "\u0638\u0627\u0626\u0642\u06c1 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u0688\u06cc\u0641\u0646\u0633 \u06c1\u0627\u0624\u0633\u0646\u06af \u0627\u062a\u06be\u0627\u0631\u0679\u06cc\u060c \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0631\u06cc\u0633\u062a\u0648\u0631\u0627\u06ba \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u0627\u067e\u0646\u06d2 \u0645\u0642\u0627\u0645\u06cc \u0639\u0644\u0627\u0642\u06d2 \u0645\u06cc\u06ba \u0622\u067e \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u06a9\u06cc \u062e\u0648\u0634\u06cc \u06c1\u06d2\u06d4 \u062c\u0644\u062f \u06c1\u06cc \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node4769325025": {
+  "tags": {
+   "addr:city": "\u06a9\u0631\u0627\u0686\u06cc",
+   "addr:city:ar": "\u0643\u0631\u0627\u062a\u0634\u064a",
+   "addr:city:en": "Karachi",
+   "addr:city:ks": "\u06a9\u064e\u0631\u0672\u0686\u06cc",
+   "addr:city:pnb": "\u06a9\u0631\u0627\u0686\u06cc",
+   "addr:city:ps": "\u06a9\u0631\u0627\u0686\u06cd",
+   "addr:city:sd": "\u06aa\u0631\u0627\u0686\u064a",
+   "addr:city:ur": "\u06a9\u0631\u0627\u0686\u06cc",
+   "addr:street": "Chagatai Road",
+   "amenity": "restaurant",
+   "name": "Munno Mian Cooking Cornor & Food Centre"
+  },
+  "lat": 24.8732538,
+  "lon": 67.0314434,
+  "slug": "munno-mian-cooking-cornor-food-centre-5025",
+  "email": "",
+  "built": "2026-11-10",
+  "status": "no_email",
+  "tv": 4
  }
 }
