@@ -5689,5 +5689,243 @@
   "built": "2026-11-11",
   "status": "no_email",
   "tv": 4
+ },
+ "node4343808591": {
+  "tags": {
+   "addr:city": "\u06a9\u0631\u0627\u0686\u06cc",
+   "amenity": "cafe",
+   "name": "\u0688\u06be\u0627\u0628\u06c1",
+   "name:en": "Dhaba",
+   "name:ur": "\u0688\u06be\u0627\u0628\u06c1"
+  },
+  "lat": 24.7802032,
+  "lon": 67.0550618,
+  "slug": "dhaba-8591",
+  "email": "",
+  "built": "2026-11-12",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to \u0688\u06be\u0627\u0628\u06c1 Caf\u00e9 in Karachi.",
+   "about": "Welcome to \u0688\u06be\u0627\u0628\u06c1, a cozy local Caf\u00e9 located right here in Karachi. We are happy to serve our community and welcome you to our space.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0688\u06be\u0627\u0628\u06c1 \u06a9\u06cc\u0641\u06d2 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4",
+   "about_ur": "\u0688\u06be\u0627\u0628\u06c1 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0622\u0631\u0627\u0645 \u062f\u06c1 \u0645\u0642\u0627\u0645\u06cc \u06a9\u06cc\u0641\u06d2 \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u0627\u067e\u0646\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u062a\u06d2 \u06c1\u0648\u0626\u06d2 \u062e\u0648\u0634\u06cc \u06c1\u06d2 \u0627\u0648\u0631 \u06c1\u0645 \u0622\u067e \u06a9\u0648 \u0627\u067e\u0646\u06d2 \u06c1\u0627\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f \u06a9\u06c1\u062a\u06d2 \u06c1\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node4723925054": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Block 2",
+   "addr:place": "Clifton Block 2",
+   "addr:province": "Sindh",
+   "addr:street": "Clifton",
+   "addr:suburb": "Clifton",
+   "amenity": "cafe",
+   "country": "PK",
+   "name": "Filli Tea cafe"
+  },
+  "lat": 24.8112003,
+  "lon": 67.0173907,
+  "slug": "filli-tea-cafe-5054",
+  "email": "",
+  "built": "2026-11-12",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Filli Tea cafe in Clifton",
+   "about": "Welcome to Filli Tea cafe, a local caf\u00e9 located in Clifton, Karachi. We are happy to serve our community here. Come visit us soon!",
+   "tagline_ur": "\u06a9\u0644\u0641\u0679\u0646 \u0645\u06cc\u06ba \u0641\u0644\u06cc \u0686\u0627\u0626\u06d2 \u06a9\u06cc\u0641\u06d2 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u06a9\u0644\u06cc\u0679\u0646\u060c \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0641\u0644\u06cc \u0686\u0627\u0626\u06d2 \u06a9\u06cc\u0641\u06d2 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4 \u06c1\u0645\u06cc\u06ba \u06cc\u06c1\u0627\u06ba \u0627\u067e\u0646\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u062a\u06d2 \u06c1\u0648\u0626\u06d2 \u062e\u0648\u0634\u06cc \u06c1\u0648\u062a\u06cc \u06c1\u06d2\u06d4 \u062c\u0644\u062f \u06c1\u06cc \u06c1\u0645\u0627\u0631\u06d2 \u067e\u0627\u0633 \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba!"
+  },
+  "tv": 4
+ },
+ "node4723968475": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Block 2",
+   "addr:place": "Clifton Block 2",
+   "addr:province": "Sindh",
+   "addr:street": "Clifton",
+   "addr:suburb": "Clifton",
+   "amenity": "cafe",
+   "country": "PK",
+   "name": "Koyla Cafe"
+  },
+  "lat": 24.8159652,
+  "lon": 67.018168,
+  "slug": "koyla-cafe-8475",
+  "email": "",
+  "built": "2026-11-12",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Koyla Cafe in Clifton",
+   "about": "Welcome to Koyla Cafe, a local cafe located in Clifton, Karachi. We are happy to serve our community in the area. Visit us soon!",
+   "tagline_ur": "\u06a9\u0644\u0641\u0679\u0646 \u0645\u06cc\u06ba \u06a9\u0648\u0626\u0644\u06c1 \u06a9\u06cc\u0641\u06d2 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u06a9\u0648\u0626\u0644\u06c1 \u06a9\u06cc\u0641\u06d2 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0639\u0644\u0627\u0642\u06d2 \u06a9\u0644\u0641\u0679\u0646 \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u06a9\u06cc\u0641\u06d2 \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u0627\u0633 \u0639\u0644\u0627\u0642\u06d2 \u0645\u06cc\u06ba \u0627\u067e\u0646\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u062a\u06d2 \u06c1\u0648\u0626\u06d2 \u062e\u0648\u0634\u06cc \u06c1\u0648\u062a\u06cc \u06c1\u06d2\u06d4 \u062c\u0644\u062f \u06c1\u06cc \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba!"
+  },
+  "tv": 4
+ },
+ "node4724003657": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Phase 5",
+   "addr:place": "DHA Phase 5",
+   "addr:province": "Sindh",
+   "addr:suburb": "Defence Housing Authority",
+   "amenity": "cafe",
+   "name": "New York Coffee"
+  },
+  "lat": 24.8177641,
+  "lon": 67.0399202,
+  "slug": "new-york-coffee-3657",
+  "email": "",
+  "built": "2026-11-12",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to New York Coffee in Karachi",
+   "about": "Welcome to New York Coffee, a cozy caf\u00e9 located in Defence Housing Authority, Karachi. We are happy to serve you in our local neighborhood. Drop by and enjoy our space.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0646\u06cc\u0648 \u06cc\u0627\u0631\u06a9 \u06a9\u0627\u0641\u06cc \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u0646\u06cc\u0648 \u06cc\u0627\u0631\u06a9 \u06a9\u0627\u0641\u06cc \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u0688\u06cc\u0641\u0646\u0633 \u06c1\u0627\u0624\u0633\u0646\u06af \u0627\u062a\u06be\u0627\u0631\u0679\u06cc\u060c \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0622\u0631\u0627\u0645 \u062f\u06c1 \u06a9\u06cc\u0641\u06d2 \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u0627\u067e\u0646\u06d2 \u0645\u0642\u0627\u0645\u06cc \u0645\u062d\u0644\u06d2 \u0645\u06cc\u06ba \u0622\u067e \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u06a9\u06cc \u062e\u0648\u0634\u06cc \u06c1\u06d2\u06d4 \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba \u0627\u0648\u0631 \u06c1\u0645\u0627\u0631\u06cc \u062c\u06af\u06c1 \u0633\u06d2 \u0644\u0637\u0641 \u0627\u0646\u062f\u0648\u0632 \u06c1\u0648\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node4724003658": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Phase 5",
+   "addr:place": "DHA Phase 5",
+   "addr:province": "Sindh",
+   "addr:suburb": "Defence Housing Authority",
+   "amenity": "cafe",
+   "name": "Buttlers Chocolate Cafe"
+  },
+  "lat": 24.8171446,
+  "lon": 67.041009,
+  "slug": "buttlers-chocolate-cafe-3658",
+  "email": "",
+  "built": "2026-11-12",
+  "status": "no_email",
+  "tv": 4
+ },
+ "node4724026283": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Block 9",
+   "addr:place": "Clifton Block 9",
+   "addr:province": "Sindh",
+   "addr:street": "Clifton",
+   "addr:suburb": "Clifton",
+   "amenity": "cafe",
+   "country": "PK",
+   "name": "Filli Tea Cafe"
+  },
+  "lat": 24.827021,
+  "lon": 67.0355524,
+  "slug": "filli-tea-cafe-6283",
+  "email": "",
+  "built": "2026-11-12",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Filli Tea Cafe in Karachi.",
+   "about": "Welcome to Filli Tea Cafe, located in the lovely area of Clifton, Karachi. We are a warm local cafe ready to serve you. Come on by and enjoy our space.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u06a9\u0644\u0641\u0679\u0646 \u0645\u06cc\u06ba \u0641\u0644\u06cc \u0679\u06cc \u06a9\u06cc\u0641\u06d2 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4",
+   "about_ur": "\u0641\u0644\u06cc \u0679\u06cc \u06a9\u06cc\u0641\u06d2 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u062e\u0648\u0628\u0635\u0648\u0631\u062a \u0639\u0644\u0627\u0642\u06d2 \u06a9\u0644\u0641\u0679\u0646 \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u06c1\u06d2\u06d4 \u06c1\u0645 \u0622\u067e \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u06d2 \u0644\u06cc\u06d2 \u062a\u06cc\u0627\u0631 \u0627\u06cc\u06a9 \u0634\u0627\u0646\u062f\u0627\u0631 \u0645\u0642\u0627\u0645\u06cc \u06a9\u06cc\u0641\u06d2 \u06c1\u06cc\u06ba\u06d4 \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba \u0627\u0648\u0631 \u06c1\u0645\u0627\u0631\u06d2 \u0645\u0627\u062d\u0648\u0644 \u0633\u06d2 \u0644\u0637\u0641 \u0627\u0646\u062f\u0648\u0632 \u06c1\u0648\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node4724125609": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Phase 5",
+   "addr:place": "DHA Phase 5",
+   "addr:province": "Sindh",
+   "addr:street": "Khayaban-e-Shamsheer",
+   "addr:suburb": "Defence Housing Authority",
+   "amenity": "cafe",
+   "name": "Cafe Clifton Tea"
+  },
+  "lat": 24.8015532,
+  "lon": 67.0368867,
+  "slug": "cafe-clifton-tea-5609",
+  "email": "",
+  "built": "2026-11-12",
+  "status": "no_email",
+  "tv": 4
+ },
+ "node4727128290": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Phase 5",
+   "addr:place": "DHA Phase 5",
+   "addr:province": "Sindh",
+   "addr:street": "3rd Commercial Lane",
+   "addr:suburb": "Defence Housing Authority",
+   "amenity": "cafe",
+   "name": "ChatterBox Cafe- Zamzama",
+   "name:en": "ChatterBox Cafe"
+  },
+  "lat": 24.8172801,
+  "lon": 67.0422971,
+  "slug": "chatterbox-cafe-8290",
+  "email": "",
+  "built": "2026-11-12",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to ChatterBox Cafe- Zamzama",
+   "about": "ChatterBox Cafe- Zamzama is a local caf\u00e9 located in Defence Housing Authority, Karachi. We welcome you to visit our caf\u00e9 in the neighborhood. Come by and enjoy your time at ChatterBox Cafe- Zamzama.",
+   "tagline_ur": "\u0686\u06cc\u0679\u0631 \u0628\u0627\u06a9\u0633 \u06a9\u06cc\u0641\u06d2 - \u0632\u0645\u0632\u0645\u06c1 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u0686\u06cc\u0679\u0631 \u0628\u0627\u06a9\u0633 \u06a9\u06cc\u0641\u06d2 - \u0632\u0645\u0632\u0645\u06c1\u060c \u0688\u06cc\u0641\u0646\u0633 \u06c1\u0627\u0624\u0633\u0646\u06af \u0627\u062a\u06be\u0627\u0631\u0679\u06cc\u060c \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u06a9\u06cc\u0641\u06d2 \u06c1\u06d2\u06d4 \u06c1\u0645 \u0627\u067e\u0646\u06d2 \u06a9\u06cc\u0641\u06d2 \u0645\u06cc\u06ba \u0622\u067e \u06a9\u0627 \u062e\u06cc\u0631\u0645\u0642\u062f\u0645 \u06a9\u0631\u062a\u06d2 \u06c1\u06cc\u06ba\u06d4 \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba \u0627\u0648\u0631 \u0686\u06cc\u0679\u0631 \u0628\u0627\u06a9\u0633 \u06a9\u06cc\u0641\u06d2 - \u0632\u0645\u0632\u0645\u06c1 \u0645\u06cc\u06ba \u0627\u067e\u0646\u06d2 \u0648\u0642\u062a \u0633\u06d2 \u0644\u0637\u0641 \u0627\u0646\u062f\u0648\u0632 \u06c1\u0648\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node4727729737": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Phase 6",
+   "addr:place": "DHA Phase 6",
+   "addr:province": "Sindh",
+   "addr:street": "Khayaban e Shahbaz",
+   "addr:suburb": "Defence Housing Authority",
+   "amenity": "cafe",
+   "name": "Lals Patisserie"
+  },
+  "lat": 24.8081908,
+  "lon": 67.0615442,
+  "slug": "lals-patisserie-9737",
+  "email": "",
+  "built": "2026-11-12",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Lals Patisserie in Karachi",
+   "about": "Welcome to Lals Patisserie, a cozy caf\u00e9 located in Defence Housing Authority, Karachi. We are delighted to serve our local community and visitors alike. Stop by and enjoy your time with us.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0688\u06cc\u0641\u0646\u0633 \u06c1\u0627\u0624\u0633\u0646\u06af \u0627\u062a\u06be\u0627\u0631\u0679\u06cc \u0645\u06cc\u06ba \u0644\u0627\u0644\u0632 \u067e\u06cc\u0633\u0679\u0631\u06cc \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u0688\u06cc\u0646\u0633 \u06c1\u0627\u0624\u0633\u0646\u06af \u0627\u062a\u06be\u0627\u0631\u0679\u06cc\u060c \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u062e\u0648\u0634\u06af\u0648\u0627\u0631 \u06a9\u06cc\u0641\u06d2\u060c \u0644\u0627\u0644\u0632 \u067e\u06cc\u0633\u0679\u0631\u06cc \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4 \u06c1\u0645\u06cc\u06ba \u0627\u067e\u0646\u06cc \u0645\u0642\u0627\u0645\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u0627\u0648\u0631 \u0632\u0627\u0626\u0631\u06cc\u0646 \u062f\u0648\u0646\u0648\u06ba \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u062a\u06d2 \u06c1\u0648\u0626\u06d2 \u062e\u0648\u0634\u06cc \u06c1\u0648\u062a\u06cc \u06c1\u06d2\u06d4 \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba \u0627\u0648\u0631 \u06c1\u0645\u0627\u0631\u06d2 \u0633\u0627\u062a\u06be \u0627\u067e\u0646\u06d2 \u0648\u0642\u062a \u0633\u06d2 \u0644\u0637\u0641 \u0627\u0646\u062f\u0648\u0632 \u06c1\u0648\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node4732954407": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:postcode": "75020",
+   "addr:province": "Sindh",
+   "addr:street": "Port Grand",
+   "amenity": "cafe",
+   "name": "Chai Shai -Port Grand"
+  },
+  "lat": 24.8420632,
+  "lon": 66.9893064,
+  "slug": "chai-shai-port-grand-4407",
+  "email": "",
+  "built": "2026-11-12",
+  "status": "no_email",
+  "tv": 4
  }
 }
