@@ -6422,5 +6422,220 @@
    "about_ur": "\u0641\u0628\u06cc \u06a9\u06cc\u0641\u06d2 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u0688\u06cc\u0641\u0646\u0633 \u06c1\u0627\u0624\u0633\u0646\u06af \u0627\u062a\u06be\u0627\u0631\u0679\u06cc\u060c \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u06a9\u06cc\u0641\u06d2 \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u0627\u067e\u0646\u06d2 \u0645\u062d\u0644\u06d2 \u0645\u06cc\u06ba \u0622\u067e \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u06a9\u06d2 \u062e\u0648\u0634\u06cc \u06c1\u0648\u062a\u06cc \u06c1\u06d2\u06d4 \u062c\u0644\u062f \u06c1\u06cc \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba!"
   },
   "tv": 4
+ },
+ "node4770029798": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Phase 6",
+   "addr:place": "DHA Phase 6",
+   "addr:province": "Sindh",
+   "addr:street": "Khayaban-e-Seher",
+   "addr:suburb": "Defence Housing Authority",
+   "amenity": "cafe",
+   "name": "Latte Lounge"
+  },
+  "lat": 24.7940441,
+  "lon": 67.0492415,
+  "slug": "latte-lounge-9798",
+  "email": "",
+  "built": "2026-11-15",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Your neighborhood caf\u00e9 in Karachi",
+   "about": "Welcome to Latte Lounge, a cozy caf\u00e9 located in Defence Housing Authority, Karachi. We are happy to serve our local community every day.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0688\u06cc\u0641\u0646\u0633 \u06c1\u0627\u0624\u0633\u0646\u06af \u0627\u062a\u06be\u0627\u0631\u0679\u06cc \u0645\u06cc\u06ba \u0622\u067e \u06a9\u0627 \u0627\u067e\u0646\u0627 \u06a9\u06cc\u0641\u06d2",
+   "about_ur": "\u0644\u0627\u062a \u0644\u0646\u062c \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u06c1 \u0688\u06cc\u0641\u0646\u0633 \u06c1\u0627\u0624\u0633\u0646\u06af \u0627\u062a\u06be\u0627\u0631\u0679\u06cc\u060c \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0622\u0631\u0627\u0645 \u062f\u06c1 \u06a9\u06cc\u0641\u06d2 \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u0627\u067e\u0646\u06cc \u0645\u0642\u0627\u0645\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u06a9\u06d2 \u062e\u0648\u0634\u06cc \u06c1\u0648\u062a\u06cc \u06c1\u06d2\u06d4"
+  },
+  "tv": 4
+ },
+ "node4770029803": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Phase 6",
+   "addr:place": "DHA Phase 6",
+   "addr:province": "Sindh",
+   "addr:street": "Khayaban-e-Seher",
+   "addr:suburb": "Defence Housing Authority",
+   "amenity": "cafe",
+   "name": "Jack & Charlie Cafe"
+  },
+  "lat": 24.7950364,
+  "lon": 67.0501347,
+  "slug": "jack-charlie-cafe-9803",
+  "email": "",
+  "built": "2026-11-15",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Jack & Charlie Cafe",
+   "about": "Welcome to Jack & Charlie Cafe, a lovely caf\u00e9 located in Defence Housing Authority, Karachi. We are happy to serve our local community every day. Drop by and enjoy your time with us!",
+   "tagline_ur": "\u062c\u06cc\u06a9 \u0627\u06cc\u0646\u0688 \u0686\u0627\u0631\u0644\u06cc \u06a9\u06cc\u0641\u06d2 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u062c\u06cc\u06a9 \u0627\u06cc\u0646\u0688 \u0686\u0627\u0631\u0644\u06cc \u06a9\u06cc\u0641\u06d2 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u06c1 \u0688\u06cc\u0641\u0646\u0633 \u06c1\u0627\u0624\u0633\u0646\u06af \u0627\u062a\u06be\u0627\u0631\u0679\u06cc\u060c \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u067e\u06cc\u0627\u0631\u0627 \u06a9\u06cc\u0641\u06d2 \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u06c1\u0631 \u0631\u0648\u0632 \u0627\u067e\u0646\u06cc \u0645\u0642\u0627\u0645\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u06a9\u06d2 \u062e\u0648\u0634\u06cc \u06c1\u0648\u062a\u06cc \u06c1\u06d2\u06d4 \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba \u0627\u0648\u0631 \u06c1\u0645\u0627\u0631\u06d2 \u0633\u0627\u062a\u06be \u0627\u067e\u0646\u06d2 \u0648\u0642\u062a \u0633\u06d2 \u0644\u0637\u0641 \u0627\u0646\u062f\u0648\u0632 \u06c1\u0648\u06ba!"
+  },
+  "tv": 4
+ },
+ "node4773326180": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Jamaluddin Afghani Road",
+   "amenity": "cafe",
+   "name": "Tea Town Cafe"
+  },
+  "lat": 24.8845874,
+  "lon": 67.065043,
+  "slug": "tea-town-cafe-6180",
+  "email": "",
+  "built": "2026-11-15",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Tea Town Cafe in Karachi",
+   "about": "Welcome to Tea Town Cafe, a cozy caf\u00e9 located right here in Karachi. We are delighted to serve our community in Karachi with a warm and friendly atmosphere. Stop by Tea Town Cafe soon!",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0679\u06cc \u0679\u0627\u0624\u0646 \u06a9\u06cc\u0641\u06d2 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u0679\u06cc \u0679\u0627\u0624\u0646 \u06a9\u06cc\u0641\u06d2 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0622\u0631\u0627\u0645 \u062f\u06c1 \u06a9\u06cc\u0641\u06d2 \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0627\u067e\u0646\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u0648 \u0627\u06cc\u06a9 \u062e\u0648\u0634\u06af\u0648\u0627\u0631 \u0645\u0627\u062d\u0648\u0644 \u0641\u0631\u0627\u06c1\u0645 \u06a9\u0631\u0646\u06d2 \u06a9\u06cc \u062e\u0648\u0634\u06cc \u06c1\u06d2\u06d4 \u062c\u0644\u062f \u06c1\u06cc \u0679\u06cc \u0679\u0627\u0624\u0646 \u06a9\u06cc\u0641\u06d2 \u06a9\u0627 \u0636\u0631\u0648\u0631 \u0631\u062e \u06a9\u0631\u06cc\u06ba!"
+  },
+  "tv": 4
+ },
+ "node4773397432": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Burhani Service Road",
+   "amenity": "cafe",
+   "name": "Society Burger"
+  },
+  "lat": 24.8691799,
+  "lon": 67.0840415,
+  "slug": "society-burger-7432",
+  "email": "",
+  "built": "2026-11-15",
+  "status": "no_email",
+  "tv": 4
+ },
+ "node4774619865": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Street No 4",
+   "amenity": "cafe",
+   "cuisine": "regional",
+   "name": "Cafe Shama Abbasi"
+  },
+  "lat": 24.835181,
+  "lon": 67.0719478,
+  "slug": "cafe-shama-abbasi-9865",
+  "email": "",
+  "built": "2026-11-15",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Cafe Shama Abbasi in Karachi",
+   "about": "Welcome to Cafe Shama Abbasi, a regional caf\u00e9 located in Karachi. We invite you to experience our regional cuisine in Karachi.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06a9\u06cc\u0641\u06d2 \u0634\u0645\u0639 \u0639\u0628\u0627\u0633\u06cc \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0631\u06cc\u062c\u0646\u0644 \u06a9\u06cc\u0641\u06d2\u060c \u06a9\u06cc\u0641\u06d2 \u0634\u0645\u0639 \u0639\u0628\u0627\u0633\u06cc \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4 \u06c1\u0645 \u0622\u067e \u06a9\u0648 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06c1\u0645\u0627\u0631\u06cc \u0631\u06cc\u062c\u0646\u0644 \u063a\u0630\u0627 \u06a9\u0627 \u062a\u062c\u0631\u0628\u06c1 \u06a9\u0631\u0646\u06d2 \u06a9\u06cc \u062f\u0639\u0648\u062a \u062f\u06cc\u062a\u06d2 \u06c1\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node4774671219": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Shaheed e Millat Road",
+   "amenity": "cafe",
+   "name": "Ashes La Moosh"
+  },
+  "lat": 24.8802778,
+  "lon": 67.0631932,
+  "slug": "ashes-la-moosh-1219",
+  "email": "",
+  "built": "2026-11-15",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Ashes La Moosh in Karachi.",
+   "about": "Welcome to Ashes La Moosh, a cozy caf\u00e9 located right here in Karachi. We are excited to welcome you to our local spot in the city. Stop by and enjoy your time with us in Karachi!",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0627\u06cc\u0634\u06cc\u062c \u0644\u0627 \u0645\u0648\u0634 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4",
+   "about_ur": "\u0627\u06cc\u0634\u06cc\u062c \u0644\u0627 \u0645\u0648\u0634 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0622\u0631\u0627\u0645 \u062f\u06c1 \u06a9\u06cc\u0641\u06d2 \u06c1\u06d2\u06d4 \u06c1\u0645 \u0634\u06c1\u0631 \u0645\u06cc\u06ba \u0627\u067e\u0646\u06d2 \u0645\u0642\u0627\u0645\u06cc \u0645\u0642\u0627\u0645 \u067e\u0631 \u0622\u067e \u06a9\u0648 \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f \u06a9\u06c1\u062a\u06d2 \u06c1\u0648\u0626\u06d2 \u067e\u0631\u062c\u0648\u0634 \u06c1\u06cc\u06ba\u06d4 \u0622\u0626\u06cc\u06ba \u0627\u0648\u0631 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06c1\u0645\u0627\u0631\u06d2 \u0633\u0627\u062a\u06be \u0627\u067e\u0646\u06d2 \u0648\u0642\u062a \u06a9\u0627 \u0644\u0637\u0641 \u0627\u0679\u06be\u0627\u0626\u06cc\u06ba!"
+  },
+  "tv": 4
+ },
+ "node4774672022": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Shaheed e Millat Road",
+   "amenity": "cafe",
+   "name": "Filli Cafe"
+  },
+  "lat": 24.8804811,
+  "lon": 67.0629246,
+  "slug": "filli-cafe-2022",
+  "email": "",
+  "built": "2026-11-15",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Filli Cafe in Karachi",
+   "about": "Welcome to Filli Cafe, a cozy cafe located right here in Karachi. We are excited to serve our local community and visitors alike. Stop by and enjoy your time at Filli Cafe today.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0641\u0644\u06cc \u06a9\u06cc\u0641\u06d2 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u0641\u0644\u06cc \u06a9\u06cc\u0641\u06d2 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0622\u0631\u0627\u0645 \u062f\u06c1 \u06a9\u06cc\u0641\u06d2 \u06c1\u06d2\u06d4 \u06c1\u0645 \u0627\u067e\u0646\u06cc \u0645\u0642\u0627\u0645\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u0627\u0648\u0631 \u0622\u0646\u06d2 \u0648\u0627\u0644\u06d2 \u062a\u0645\u0627\u0645 \u0645\u06c1\u0645\u0627\u0646\u0648\u06ba \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u06d2 \u0644\u06cc\u06d2 \u067e\u0631\u062c\u0648\u0634 \u06c1\u06cc\u06ba\u06d4 \u0622\u062c \u06c1\u06cc \u0641\u0644\u06cc \u06a9\u06cc\u0641\u06d2 \u0622\u0626\u06cc\u06ba \u0627\u0648\u0631 \u0627\u067e\u0646\u06d2 \u0648\u0642\u062a \u0633\u06d2 \u0644\u0637\u0641 \u0627\u0646\u062f\u0648\u0632 \u06c1\u0648\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node4774672023": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Shaheed e Millat Road",
+   "amenity": "cafe",
+   "name": "Fibbi Chai"
+  },
+  "lat": 24.8804091,
+  "lon": 67.0628686,
+  "slug": "fibbi-chai-2023",
+  "email": "",
+  "built": "2026-11-15",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Fibbi Chai in Karachi",
+   "about": "Welcome to Fibbi Chai, a cozy caf\u00e9 located right here in Karachi. We are excited to serve our community and provide a comfortable space for everyone. Come visit us soon!",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0641\u0628\u06cc \u0686\u0627\u0626\u06cc \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u0641\u0628\u06cc \u0686\u0627\u0626\u06cc \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0622\u0631\u0627\u0645 \u062f\u06c1 \u06a9\u06cc\u0641\u06d2 \u06c1\u06d2\u06d4 \u06c1\u0645 \u0627\u067e\u0646\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u0627\u0648\u0631 \u06c1\u0631 \u0627\u06cc\u06a9 \u06a9\u06d2 \u0644\u06cc\u06d2 \u0627\u06cc\u06a9 \u0622\u0631\u0627\u0645 \u062f\u06c1 \u062c\u06af\u06c1 \u0641\u0631\u0627\u06c1\u0645 \u06a9\u0631\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u067e\u0631\u062c\u0648\u0634 \u06c1\u06cc\u06ba\u06d4 \u062c\u0644\u062f \u06c1\u06cc \u06c1\u0645 \u0633\u06d2 \u0645\u0644\u0627\u0642\u0627\u062a \u06a9\u0631\u06cc\u06ba!"
+  },
+  "tv": 4
+ },
+ "node4774672033": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Shaheed e Millat Road",
+   "amenity": "cafe",
+   "name": "Cafe Liquiteria"
+  },
+  "lat": 24.8818596,
+  "lon": 67.0608115,
+  "slug": "cafe-liquiteria-2033",
+  "email": "",
+  "built": "2026-11-15",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Cafe Liquiteria in Karachi.",
+   "about": "Welcome to Cafe Liquiteria, a cozy caf\u00e9 located right here in Karachi. We are proud to serve the local community in Karachi. Stop by and visit us today!",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06a9\u06cc\u0641\u06d2 \u0644\u06cc\u06a9\u06cc\u0679\u0631\u06cc\u0627 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4",
+   "about_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u062e\u0648\u0634\u06af\u0648\u0627\u0631 \u06a9\u06cc\u0641\u06d2\u060c \u06a9\u06cc\u0641\u06d2 \u0644\u06cc\u06a9\u06cc\u0679\u0631\u06cc\u0627 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4 \u06c1\u0645\u06cc\u06ba \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0645\u0642\u0627\u0645\u06cc \u0639\u0644\u0627\u0642\u06d2 \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u067e\u0631 \u0641\u062e\u0631 \u06c1\u06d2\u06d4 \u0622\u062c \u06c1\u06cc \u06c1\u0645\u0627\u0631\u06d2 \u067e\u0627\u0633 \u0622\u0626\u06cc\u06ba \u0627\u0648\u0631 \u0648\u0632\u0679 \u06a9\u0631\u06cc\u06ba!"
+  },
+  "tv": 4
+ },
+ "node4777144259": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Alamgir Road",
+   "amenity": "cafe",
+   "name": "Rehmat Yaseen Hotel"
+  },
+  "lat": 24.8829487,
+  "lon": 67.0660824,
+  "slug": "rehmat-yaseen-hotel-4259",
+  "email": "",
+  "built": "2026-11-15",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Rehmat Yaseen Hotel in Karachi",
+   "about": "Welcome to Rehmat Yaseen Hotel, a local caf\u00e9 located in Karachi. We are happy to serve the Karachi community. Visit us today to experience our caf\u00e9.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0631\u062d\u0645\u062a \u06cc\u0627\u0633\u06cc\u0646 \u06c1\u0648\u0679\u0644 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u0631\u062d\u0645\u062a \u06cc\u0627\u0633\u06cc\u0646 \u06c1\u0648\u0679\u0644 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u06a9\u06cc\u0641\u06d2 \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u06a9\u06d2 \u062e\u0648\u0634\u06cc \u06c1\u0648\u062a\u06cc \u06c1\u06d2\u06d4 \u06c1\u0645\u0627\u0631\u06d2 \u06a9\u06cc\u0641\u06d2 \u06a9\u0627 \u062a\u062c\u0631\u0628\u06c1 \u06a9\u0631\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u0622\u062c \u06c1\u06cc \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
  }
 }
