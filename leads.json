@@ -6637,5 +6637,230 @@
    "about_ur": "\u0631\u062d\u0645\u062a \u06cc\u0627\u0633\u06cc\u0646 \u06c1\u0648\u0679\u0644 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u06a9\u06cc\u0641\u06d2 \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u06a9\u06d2 \u062e\u0648\u0634\u06cc \u06c1\u0648\u062a\u06cc \u06c1\u06d2\u06d4 \u06c1\u0645\u0627\u0631\u06d2 \u06a9\u06cc\u0641\u06d2 \u06a9\u0627 \u062a\u062c\u0631\u0628\u06c1 \u06a9\u0631\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u0622\u062c \u06c1\u06cc \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba\u06d4"
   },
   "tv": 4
+ },
+ "node4777144314": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Bmchs Road No 13",
+   "amenity": "cafe",
+   "name": "cafe student"
+  },
+  "lat": 24.8813978,
+  "lon": 67.0662253,
+  "slug": "cafe-student-4314",
+  "email": "",
+  "built": "2026-11-16",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to cafe student in Karachi",
+   "about": "Welcome to cafe student, a local caf\u00e9 located in Karachi. We are happy to serve our community here in Karachi.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06a9\u06cc\u09ab\u09c7 \u0627\u0633\u0679\u0648\u0688\u0646\u0679 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u06a9\u06cc\u09ab\u09c7 \u0627\u0633\u0679\u0648\u0688\u0646\u06af \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u06c1 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u06a9\u06cc\u09ab\u09c7 \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0627\u067e\u0646\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u06a9\u06d2 \u062e\u0648\u0634\u06cc \u06c1\u0648\u062a\u06cc \u06c1\u06d2\u06d4"
+  },
+  "tv": 4
+ },
+ "node4786004053": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Phase 8",
+   "addr:place": "DHA Phase 8",
+   "addr:province": "Sindh",
+   "addr:street": "Khayaban e Shaheen",
+   "addr:suburb": "Defence Housing Authority",
+   "amenity": "cafe",
+   "name": "The Hangout Cafe"
+  },
+  "lat": 24.7898603,
+  "lon": 67.0755837,
+  "slug": "the-hangout-cafe-4053",
+  "email": "",
+  "built": "2026-11-16",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to The Hangout Cafe",
+   "about": "Welcome to The Hangout Cafe, a cozy cafe located in Defence Housing Authority, Karachi. We look forward to seeing you here soon.",
+   "tagline_ur": "\u062f\u06cc \u06c1\u06cc\u0646\u06af \u0622\u0624\u0679 \u06a9\u06cc\u0641\u06d2 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u062f\u06cc \u06c1\u06cc\u0646\u06af \u0622\u0624\u0679 \u06a9\u06cc\u0641\u06d2 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u06c1 \u0688\u06cc\u0641\u0646\u0633 \u06c1\u0627\u0624\u0633\u0646\u06af \u0627\u062a\u06be\u0627\u0631\u0679\u06cc\u060c \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0622\u0631\u0627\u0645 \u062f\u06c1 \u06a9\u06cc\u0641\u06d2 \u06c1\u06d2\u06d4 \u06c1\u0645 \u062c\u0644\u062f \u06c1\u06cc \u0622\u067e \u06a9\u0648 \u06cc\u06c1\u0627\u06ba \u062f\u06cc\u06a9\u06be\u0646\u06d2 \u06a9\u06d2 \u0645\u0646\u062a\u0638\u0631 \u06c1\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node4786004056": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Phase 6",
+   "addr:place": "DHA Phase 6",
+   "addr:province": "Sindh",
+   "addr:street": "Abdul Sattar Edhi Road",
+   "addr:suburb": "Defence Housing Authority",
+   "amenity": "cafe",
+   "name": "Chai Adda"
+  },
+  "lat": 24.7792644,
+  "lon": 67.0544593,
+  "slug": "chai-adda-4056",
+  "email": "",
+  "built": "2026-11-16",
+  "status": "no_email",
+  "tv": 4
+ },
+ "node4786004059": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Phase 6",
+   "addr:place": "DHA Phase 6",
+   "addr:province": "Sindh",
+   "addr:street": "Khayaban e Muslim",
+   "addr:suburb": "Defence Housing Authority",
+   "amenity": "cafe",
+   "name": "Once Upon A Time Cafe"
+  },
+  "lat": 24.7800981,
+  "lon": 67.0546996,
+  "slug": "once-upon-a-time-cafe-4059",
+  "email": "",
+  "built": "2026-11-16",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Once Upon A Time Cafe",
+   "about": "Welcome to Once Upon A Time Cafe, a charming caf\u00e9 located in the heart of Defence Housing Authority, Karachi. We are delighted to serve our local community and visitors alike. Drop by and experience our welcoming atmosphere today.",
+   "tagline_ur": "\u0648\u0646\u0633 \u0627\u067e\u0627\u0646 \u0627\u06d2 \u0679\u0627\u0626\u0645 \u06a9\u06cc\u0641\u06d2 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u0648\u0646\u0633 \u0627\u067e\u0627\u0646 \u0627\u06d2 \u0679\u0627\u0626\u0645 \u06a9\u06cc\u0641\u06d2 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0688\u06cc\u0641\u0646\u0633 \u06c1\u0627\u0624\u0633\u0646\u06af \u0627\u062a\u06be\u0627\u0631\u0679\u06cc \u06a9\u06d2 \u062f\u0644 \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u067e\u0631\u06a9\u0634\u0634 \u06a9\u06cc\u0641\u06d2 \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u0627\u067e\u0646\u06cc \u0645\u0642\u0627\u0645\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u0627\u0648\u0631 \u0632\u0627\u0626\u0631\u06cc\u0646 \u062f\u0648\u0646\u0648\u06ba \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u062a\u06d2 \u06c1\u0648\u0626\u06d2 \u062e\u0648\u0634\u06cc \u06c1\u0648\u062a\u06cc \u06c1\u06d2\u06d4 \u0622\u062c \u06c1\u06cc \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba \u0627\u0648\u0631 \u06c1\u0645\u0627\u0631\u06d2 \u062e\u0648\u0634\u06af\u0648\u0627\u0631 \u0645\u0627\u062d\u0648\u0644 \u06a9\u0627 \u062a\u062c\u0631\u0628\u06c1 \u06a9\u0631\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node4786004060": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Phase 6",
+   "addr:place": "DHA Phase 6",
+   "addr:province": "Sindh",
+   "addr:street": "Khayaban e Muslim",
+   "addr:suburb": "Defence Housing Authority",
+   "amenity": "cafe",
+   "name": "Chainak Chai"
+  },
+  "lat": 24.779947,
+  "lon": 67.0549091,
+  "slug": "chainak-chai-4060",
+  "email": "",
+  "built": "2026-11-16",
+  "status": "no_email",
+  "tv": 4
+ },
+ "node4786004061": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Phase 6",
+   "addr:place": "DHA Phase 6",
+   "addr:province": "Sindh",
+   "addr:street": "Khayaban e Muslim",
+   "addr:suburb": "Defence Housing Authority",
+   "amenity": "cafe",
+   "name": "Lasani Food"
+  },
+  "lat": 24.7801752,
+  "lon": 67.05517,
+  "slug": "lasani-food-4061",
+  "email": "",
+  "built": "2026-11-16",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Lasani Food in Karachi.",
+   "about": "Lasani Food is a cozy caf\u00e9 located in Defence Housing Authority, Karachi. We are happy to welcome you to our local spot. Stop by and visit us soon!",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0644\u062b\u0627\u0646\u06cc \u0641\u0648\u0688 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4",
+   "about_ur": "\u0644\u062b\u0627\u0646\u06cc \u0641\u0648\u0688 \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0688\u06cc\u0641\u0646\u0633 \u06c1\u0627\u0624\u0633\u0646\u06af \u0627\u062a\u06be\u0627\u0631\u0679\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0622\u0631\u0627\u0645 \u062f\u06c1 \u06a9\u06cc\u0641\u06d2 \u06c1\u06d2\u06d4 \u06c1\u0645 \u0622\u067e \u06a9\u0648 \u0627\u067e\u0646\u06d2 \u0645\u0642\u0627\u0645\u06cc \u0645\u0642\u0627\u0645 \u067e\u0631 \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f \u06a9\u06c1\u062a\u06d2 \u06c1\u06cc\u06ba\u06d4 \u062c\u0644\u062f \u06c1\u06cc \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba!"
+  },
+  "tv": 4
+ },
+ "node4786004065": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Phase 6",
+   "addr:place": "DHA Phase 6",
+   "addr:province": "Sindh",
+   "addr:street": "Khayaban e Muslim",
+   "addr:suburb": "Defence Housing Authority",
+   "amenity": "cafe",
+   "name": "Club House Cafe"
+  },
+  "lat": 24.7806543,
+  "lon": 67.0558472,
+  "slug": "club-house-cafe-4065",
+  "email": "",
+  "built": "2026-11-16",
+  "status": "no_email",
+  "tv": 4
+ },
+ "node4786004067": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Phase 6",
+   "addr:place": "DHA Phase 6",
+   "addr:province": "Sindh",
+   "addr:street": "Muslim Commercial Street 2",
+   "addr:suburb": "Defence Housing Authority",
+   "amenity": "cafe",
+   "name": "Cafe Mohsin"
+  },
+  "lat": 24.7805186,
+  "lon": 67.0558238,
+  "slug": "cafe-mohsin-4067",
+  "email": "",
+  "built": "2026-11-16",
+  "status": "no_email",
+  "tv": 4
+ },
+ "node4786004068": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Phase 6",
+   "addr:place": "DHA Phase 6",
+   "addr:province": "Sindh",
+   "addr:street": "Muslim Commercial Street 2",
+   "addr:suburb": "Defence Housing Authority",
+   "amenity": "cafe",
+   "name": "Cafe Jeddah"
+  },
+  "lat": 24.7803321,
+  "lon": 67.0556557,
+  "slug": "cafe-jeddah-4068",
+  "email": "",
+  "built": "2026-11-16",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Cafe Jeddah in Karachi",
+   "about": "Welcome to Cafe Jeddah, a lovely caf\u00e9 located in the Defence Housing Authority area of Karachi. We are happy to serve our local community and visitors alike. Stop by and enjoy your time at our caf\u00e9.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06a9\u06cc\u0641\u06d2 \u062c\u062f\u06c1 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0688\u06cc\u0641\u0646\u0633 \u06c1\u0627\u0624\u0633\u0646\u06af \u0627\u062a\u06be\u0627\u0631\u0679\u06cc \u06a9\u06d2 \u0639\u0644\u0627\u0642\u06d2 \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u067e\u06cc\u0627\u0631\u06d2 \u06a9\u06cc\u09ab\u09c7\u060c \u06a9\u06cc\u0641\u06d2 \u062c\u062f\u06c1 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4 \u06c1\u0645\u06cc\u06ba \u0627\u067e\u0646\u06cc \u0645\u0642\u0627\u0645\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u0627\u0648\u0631 \u0632\u0627\u0626\u0631\u06cc\u0646 \u062f\u0648\u0646\u0648\u06ba \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u062a\u06d2 \u06c1\u0648\u0626\u06d2 \u062e\u0648\u0634\u06cc \u06c1\u0648\u062a\u06cc \u06c1\u06d2\u06d4 \u0622\u0626\u06cc\u06ba \u0627\u0648\u0631 \u06c1\u0645\u0627\u0631\u06d2 \u06a9\u06cc\u09ab\u09c7 \u0645\u06cc\u06ba \u0627\u067e\u0646\u06d2 \u0648\u0642\u062a \u0633\u06d2 \u0644\u0637\u0641 \u0627\u0646\u062f\u0648\u0632 \u06c1\u0648\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node4786004069": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Phase 6",
+   "addr:place": "DHA Phase 6",
+   "addr:province": "Sindh",
+   "addr:street": "Khayaban e Ittehad",
+   "addr:suburb": "Defence Housing Authority",
+   "amenity": "cafe",
+   "name": "New Quetta Bismillah Hotel"
+  },
+  "lat": 24.780684,
+  "lon": 67.0562021,
+  "slug": "new-quetta-bismillah-hotel-4069",
+  "email": "",
+  "built": "2026-11-16",
+  "status": "no_email",
+  "tv": 4
  }
 }
