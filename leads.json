@@ -7584,5 +7584,236 @@
    "about_ur": "\u0633\u06cc\u0641\u0633 \u0644\u0627\u0624\u0a02\u099c \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u06c1 \u0688\u06cc\u0641\u0646\u0633 \u06c1\u0627\u0624\u0633\u0646\u06af \u0627\u062a\u06be\u0627\u0631\u0679\u06cc\u060c \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0634\u0627\u0646\u062f\u0627\u0631 \u06a9\u06cc\u0641\u06d2 \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u0627\u067e\u0646\u06cc \u0645\u0642\u0627\u0645\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u06a9\u06d2 \u062e\u0648\u0634\u06cc \u06c1\u0648\u062a\u06cc \u06c1\u06d2\u06d4 \u06c1\u0645\u0627\u0631\u06d2 \u06a9\u06cc\u0641\u06d2 \u06a9\u06cc \u0641\u0636\u0627 \u0633\u06d2 \u0644\u0637\u0641 \u0627\u0646\u062f\u0648\u0632 \u06c1\u0648\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u062c\u0644\u062f \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba\u06d4"
   },
   "tv": 4
+ },
+ "node4786500636": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Phase 6",
+   "addr:place": "DHA Phase 6",
+   "addr:province": "Sindh",
+   "addr:street": "Khayaban-e-Shahbaz",
+   "addr:suburb": "Defence Housing Authority",
+   "amenity": "cafe",
+   "name": "Smoke Hub"
+  },
+  "lat": 24.8088031,
+  "lon": 67.0625501,
+  "slug": "smoke-hub-0636",
+  "email": "",
+  "built": "2026-11-21",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Smoke Hub in Karachi",
+   "about": "Welcome to Smoke Hub, a local caf\u00e9 located in Defence Housing Authority, Karachi. Drop by to enjoy our space in the neighborhood. We look forward to serving you.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0633\u0645\u0648\u06a9 \u06c1\u0628 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u0633\u0645\u0648\u06a9 \u06c1\u0628 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u0688\u06cc\u0641\u0646\u0633 \u06c1\u0627\u0624\u0633\u0646\u06af \u0627\u062a\u06be\u0627\u0631\u0679\u06cc\u060c \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u06a9\u06cc\u0641\u06d2 \u06c1\u06d2\u06d4 \u06c1\u0645\u0627\u0631\u06d2 \u0639\u0644\u0627\u0642\u06d2 \u0645\u06cc\u06ba \u06c1\u0645\u0627\u0631\u06d2 \u0645\u0627\u062d\u0648\u0644 \u0633\u06d2 \u0644\u0637\u0641 \u0627\u0646\u062f\u0648\u0632 \u06c1\u0648\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba\u06d4 \u06c1\u0645 \u0622\u067e \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u06d2 \u0645\u0646\u062a\u0638\u0631 \u06c1\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node4786500643": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Phase 7",
+   "addr:place": "DHA Phase 7",
+   "addr:postcode": "75500",
+   "addr:province": "Sindh",
+   "addr:street": "Lane 9",
+   "addr:suburb": "Defence Housing Authority",
+   "amenity": "cafe",
+   "name": "Cafe Kouso"
+  },
+  "lat": 24.814851,
+  "lon": 67.0722694,
+  "slug": "cafe-kouso-0643",
+  "email": "",
+  "built": "2026-11-21",
+  "status": "no_email",
+  "tv": 4
+ },
+ "node4786500665": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Phase 7 Extension",
+   "addr:place": "DHA Phase 7 Extention",
+   "addr:province": "Sindh",
+   "addr:street": "1st Street",
+   "addr:suburb": "Defence Housing Authority",
+   "amenity": "cafe",
+   "name": "Cafe Nandala"
+  },
+  "lat": 24.8214078,
+  "lon": 67.0777928,
+  "slug": "cafe-nandala-0665",
+  "email": "",
+  "built": "2026-11-21",
+  "status": "no_email",
+  "tv": 4
+ },
+ "node4788412640": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Phase 4",
+   "addr:place": "DHA Phase 4",
+   "addr:province": "Sindh",
+   "addr:street": "7th Commercial Ln",
+   "addr:suburb": "Defence Housing Authority",
+   "amenity": "cafe",
+   "name": "Halwa Puri (BreakFast)"
+  },
+  "lat": 24.8185494,
+  "lon": 67.0654608,
+  "slug": "halwa-puri-breakfast-2640",
+  "email": "",
+  "built": "2026-11-21",
+  "status": "no_email",
+  "tv": 4
+ },
+ "node4788412669": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Phase 5",
+   "addr:place": "DHA Phase 5",
+   "addr:province": "Sindh",
+   "addr:street": "Badar Commercial Street 1",
+   "addr:suburb": "Defence Housing Authority",
+   "amenity": "cafe",
+   "name": "The Dribbler's Cafe"
+  },
+  "lat": 24.7995557,
+  "lon": 67.047262,
+  "slug": "the-dribbler-s-cafe-2669",
+  "email": "",
+  "built": "2026-11-21",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to The Dribbler's Cafe in Karachi",
+   "about": "Welcome to The Dribbler's Cafe, a cozy caf\u00e9 located in Defence Housing Authority, Karachi. We are happy to serve our local community and visitors in the area. Drop by to experience our cafe space in Karachi.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0688\u06cc\u0641\u0646\u0633 \u06c1\u0627\u0624\u0633\u0646\u06af \u0627\u062a\u06be\u0627\u0631\u0679\u06cc \u0645\u06cc\u06ba \u062f\u06cc \u0688\u0631\u06cc\u0628\u0644\u0631\u0632 \u06a9\u06cc\u0641\u06d2 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u0688\u06cc\u0641\u0646\u0633 \u06c1\u0627\u0624\u0633\u0646\u06af \u0627\u062a\u06be\u0627\u0631\u0679\u06cc\u060c \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0622\u0631\u0627\u0645 \u062f\u06c1 \u06a9\u06cc\u0641\u06d2\u060c \u062f\u06cc \u0688\u0631\u06cc\u0628\u0644\u0631\u0632 \u06a9\u06cc\u0641\u06d2 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4 \u06c1\u0645\u06cc\u06ba \u0627\u0633 \u0639\u0644\u0627\u0642\u06d2 \u0645\u06cc\u06ba \u0627\u067e\u0646\u06cc \u0645\u0642\u0627\u0645\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u0627\u0648\u0631 \u0632\u0627\u0626\u0631\u06cc\u0646 \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u062a\u06d2 \u06c1\u0648\u0626\u06d2 \u062e\u0648\u0634\u06cc \u06c1\u0648\u062a\u06cc \u06c1\u06d2\u06d4 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06c1\u0645\u0627\u0631\u06d2 \u06a9\u06cc\u0641\u06d2 \u06a9\u06d2 \u062a\u062c\u0631\u0628\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u0636\u0631\u0648\u0631 \u0622\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node4788412696": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Phase 5",
+   "addr:place": "DHA Phase 5",
+   "addr:province": "Sindh",
+   "addr:street": "Badar Commercial Street 12",
+   "addr:suburb": "Defence Housing Authority",
+   "amenity": "cafe",
+   "name": "Quetta Cafe"
+  },
+  "lat": 24.7989402,
+  "lon": 67.0475915,
+  "slug": "quetta-cafe-2696",
+  "email": "",
+  "built": "2026-11-21",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Quetta Cafe in Karachi",
+   "about": "Welcome to Quetta Cafe, your local cafe located in Defence Housing Authority, Karachi. We are happy to serve our community in the neighborhood. Come by and visit us soon.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06a9\u0648\u0626\u099f\u09be \u06a9\u06cc\u0641\u06d2 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u06a9\u0648\u0626\u099f\u09be \u06a9\u06cc\u0641\u06d2 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u0688\u06cc\u0641\u0646\u0633 \u06c1\u0627\u0624\u0633\u0646\u06af \u0627\u062a\u06be\u0627\u0631\u0679\u06cc\u060c \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0622\u067e \u06a9\u0627 \u0645\u0642\u0627\u0645\u06cc \u06a9\u06cc\u0641\u06d2 \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u0627\u067e\u0646\u06d2 \u0645\u062d\u0644\u06d2 \u06a9\u06d2 \u0644\u0648\u06af\u0648\u06ba \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u06a9\u06cc \u062e\u0648\u0634\u06cc \u06c1\u06d2\u06d4 \u062c\u0644\u062f \u06c1\u06cc \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba \u0627\u0648\u0631 \u06c1\u0645 \u0633\u06d2 \u0645\u0644\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node4788425050": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Phase 5",
+   "addr:place": "DHA Phase 5",
+   "addr:province": "Sindh",
+   "addr:street": "Badar Commercial Street 11",
+   "addr:suburb": "Defence Housing Authority",
+   "amenity": "cafe",
+   "name": "Chainak"
+  },
+  "lat": 24.7971684,
+  "lon": 67.0451647,
+  "slug": "chainak-5050",
+  "email": "",
+  "built": "2026-11-21",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Chainak Caf\u00e9 in Karachi",
+   "about": "Welcome to Chainak, a cozy caf\u00e9 located in Defence Housing Authority, Karachi. We are happy to serve you in our local area. Come visit us soon!",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0688\u06cc\u0641\u0646\u0633 \u06c1\u0627\u0624\u0633\u0646\u06af \u0627\u062a\u06be\u0627\u0631\u0679\u06cc \u0645\u06cc\u06ba \u0686\u06cc\u0646\u0627\u0626\u06cc\u06a9 \u06a9\u06cc\u0641\u06d2 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u0686\u06cc\u0646\u0627\u0626\u06cc\u06a9 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u06c1 \u0688\u06cc\u0641\u0646\u0633 \u06c1\u0627\u0624\u0633\u0646\u06af \u0627\u062a\u06be\u0627\u0631\u0679\u06cc\u060c \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0622\u0631\u0627\u0645 \u062f\u06c1 \u06a9\u06cc\u0641\u06d2 \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u0627\u067e\u0646\u06d2 \u0645\u0642\u0627\u0645\u06cc \u0639\u0644\u0627\u0642\u06d2 \u0645\u06cc\u06ba \u0622\u067e \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u06a9\u06cc \u062e\u0648\u0634\u06cc \u06c1\u06d2\u06d4 \u062c\u0644\u062f \u06c1\u06cc \u06c1\u0645\u0627\u0631\u06d2 \u067e\u0627\u0633 \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba!"
+  },
+  "tv": 4
+ },
+ "node4788531155": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Phase 5",
+   "addr:place": "DHA Phase 5",
+   "addr:province": "Sindh",
+   "addr:street": "30th Street",
+   "addr:suburb": "Defence Housing Authority",
+   "amenity": "cafe",
+   "name": "Tea 20 Cafe"
+  },
+  "lat": 24.7975576,
+  "lon": 67.0452821,
+  "slug": "tea-20-cafe-1155",
+  "email": "",
+  "built": "2026-11-21",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Tea 20 Cafe in Karachi",
+   "about": "Welcome to Tea 20 Cafe, a cozy caf\u00e9 located in the Defence Housing Authority area of Karachi. We are happy to serve our local community. Visit us soon to enjoy our caf\u00e9.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0679\u06cc 20 \u06a9\u06cc\u0641\u06d2 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0688\u06cc\u0641\u0646\u0633 \u06c1\u0627\u0624\u0633\u0646\u06af \u0627\u062a\u06be\u0627\u0631\u0679\u06cc \u06a9\u06d2 \u0639\u0644\u0627\u0642\u06d2 \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0622\u0631\u0627\u0645 \u062f\u06c1 \u06a9\u06cc\u0641\u06d2\u060c \u0679\u06cc 20 \u06a9\u06cc\u0641\u06d2 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4 \u06c1\u0645\u06cc\u06ba \u0627\u067e\u0646\u06cc \u0645\u0642\u0627\u0645\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u062a\u06d2 \u06c1\u0648\u0626\u06d2 \u062e\u0648\u0634\u06cc \u06c1\u0648\u062a\u06cc \u06c1\u06d2\u06d4 \u06c1\u0645\u0627\u0631\u06d2 \u06a9\u06cc\u0641\u06d2 \u0633\u06d2 \u0644\u0637\u0641 \u0627\u0646\u062f\u0648\u0632 \u06c1\u0648\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u062c\u0644\u062f \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node4788531191": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Phase 5",
+   "addr:place": "DHA Phase 5",
+   "addr:province": "Sindh",
+   "addr:street": "Badar Commercial 10th Street",
+   "addr:suburb": "Defence Housing Authority",
+   "amenity": "cafe",
+   "name": "Zaiqa Chai"
+  },
+  "lat": 24.7976168,
+  "lon": 67.0446972,
+  "slug": "zaiqa-chai-1191",
+  "email": "",
+  "built": "2026-11-21",
+  "status": "no_email",
+  "tv": 4
+ },
+ "node4788531198": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Phase 5",
+   "addr:place": "DHA Phase 5",
+   "addr:province": "Sindh",
+   "addr:street": "Badar Commercial 10th Street",
+   "addr:suburb": "Defence Housing Authority",
+   "amenity": "cafe",
+   "name": "Honey Dukes cafe"
+  },
+  "lat": 24.7989892,
+  "lon": 67.0457171,
+  "slug": "honey-dukes-cafe-1198",
+  "email": "",
+  "built": "2026-11-21",
+  "status": "no_email",
+  "tv": 4
  }
 }
