@@ -8463,5 +8463,241 @@
   "built": "2026-11-25",
   "status": "no_email",
   "tv": 4
+ },
+ "node4801878991": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:place": "Clifton Block 4",
+   "addr:province": "Sindh",
+   "addr:street": "E Street",
+   "addr:suburb": "Clifton",
+   "amenity": "cafe",
+   "country": "PK",
+   "name": "Cafe Headlion 2.0"
+  },
+  "lat": 24.8075699,
+  "lon": 67.0343433,
+  "slug": "cafe-headlion-2-0-8991",
+  "email": "",
+  "built": "2026-11-26",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Cafe Headlion 2.0 in Clifton",
+   "about": "Welcome to Cafe Headlion 2.0, a cozy caf\u00e9 located in Clifton, Karachi. We are happy to serve our local community. Visit us today to experience our space in Karachi.",
+   "tagline_ur": "\u0643\u0644\u064a\u0641\u0679\u0646 \u0645\u06cc\u06ba \u0643\u06cc\u0641\u06d2 \u06c1\u06cc\u0688\u0644\u0627\u0626\u0646 2.0 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u0643\u0644\u064a\u0641\u0679\u0646\u060c \u0643\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0643\u06cc\u0641\u06d2 \u06c1\u06cc\u0688\u0644\u0627\u0626\u0646 2.0 \u0645\u06cc\u06ba \u0622\u067e \u06a9\u0627 \u062e\u06cc\u0631\u0645\u0642\u062f\u0645 \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u0627\u067e\u0646\u06cc \u0645\u0642\u0627\u0645\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u062a\u06d2 \u06c1\u0648\u0626\u06d2 \u062e\u0648\u0634\u06cc \u06c1\u0648\u062a\u06cc \u06c1\u06d2\u06d4 \u0643\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06c1\u0645\u0627\u0631\u06cc \u062c\u06af\u06c1 \u06a9\u0627 \u062a\u062c\u0631\u0628\u06c1 \u06a9\u0631\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u0622\u062c \u06c1\u06cc \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node4801878997": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:place": "Clifton Block 4",
+   "addr:province": "Sindh",
+   "addr:street": "E Street",
+   "addr:suburb": "Clifton",
+   "amenity": "cafe",
+   "country": "PK",
+   "name": "E Street Mews Cafe"
+  },
+  "lat": 24.8079302,
+  "lon": 67.0351661,
+  "slug": "e-street-mews-cafe-8997",
+  "email": "",
+  "built": "2026-11-26",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to E Street Mews Cafe in Karachi.",
+   "about": "Welcome to E Street Mews Cafe, a cozy caf\u00e9 located in Clifton, Karachi. We are delighted to welcome you to our neighborhood spot.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0627\u06cc \u0627\u0633\u0679\u0631\u06cc\u0679 \u0645\u06cc\u0648\u0632 \u06a9\u06cc\u0641\u06d2 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4",
+   "about_ur": "\u0627\u06cc \u0627\u0633\u0679\u0631\u06cc\u0679 \u0645\u06cc\u0648\u0632 \u06a9\u06cc\u0641\u06d2 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0639\u0644\u0627\u0642\u06d2 \u06a9\u0644\u0641\u0679\u0646 \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0622\u0631\u0627\u0645 \u062f\u06c1 \u06a9\u06cc\u0641\u06d2 \u06c1\u06d2\u06d4 \u06c1\u0645 \u0622\u067e \u06a9\u0648 \u0627\u067e\u0646\u06d2 \u0645\u062d\u0644\u06d2 \u06a9\u06d2 \u0627\u0633 \u0645\u0642\u0627\u0645 \u067e\u0631 \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f \u06a9\u06c1\u062a\u06d2 \u06c1\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node4801879005": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Block 3",
+   "addr:place": "Clifton Block 3",
+   "addr:province": "Sindh",
+   "addr:street": "Clifton",
+   "addr:suburb": "Clifton",
+   "amenity": "cafe",
+   "country": "PK",
+   "name": "Cairo Cafe"
+  },
+  "lat": 24.8060707,
+  "lon": 67.0266467,
+  "slug": "cairo-cafe-9005",
+  "email": "",
+  "built": "2026-11-26",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Your cozy local caf\u00e9 in Clifton.",
+   "about": "Welcome to Cairo Cafe, a charming caf\u00e9 located in Clifton, Karachi. We are delighted to serve our local community. Visit us soon!",
+   "tagline_ur": "\u06a9\u0644\u0641\u0679\u0646 \u0645\u06cc\u06ba \u0622\u067e \u06a9\u0627 \u0627\u067e\u0646\u0627 \u0622\u0631\u0627\u0645 \u062f\u06c1 \u06a9\u06cc\u0641\u06d2\u0640",
+   "about_ur": "\u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0639\u0644\u0627\u0642\u06d2 \u06a9\u0644\u0641\u0679\u0646 \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u062f\u0644\u06a9\u0634 \u06a9\u06cc\u0641\u06d2 \u0642\u0627\u06c1\u0631\u06c1 \u06a9\u06cc\u0641\u06d2 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4 \u06c1\u0645\u06cc\u06ba \u0627\u067e\u0646\u06cc \u0645\u0642\u0627\u0645\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u062a\u06d2 \u06c1\u0648\u0626\u06d2 \u062e\u0648\u0634\u06cc \u06c1\u0648\u062a\u06cc \u06c1\u06d2\u06d4 \u062c\u0644\u062f \u06c1\u06cc \u06c1\u0645\u0627\u0631\u06d2 \u067e\u0627\u0633 \u0622\u0626\u06cc\u06ba!"
+  },
+  "tv": 4
+ },
+ "node4801879007": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Block 3",
+   "addr:place": "Clifton Block 3",
+   "addr:province": "Sindh",
+   "addr:street": "Clifton",
+   "addr:suburb": "Clifton",
+   "amenity": "cafe",
+   "country": "PK",
+   "name": "Cafe Tareen"
+  },
+  "lat": 24.8053015,
+  "lon": 67.0262612,
+  "slug": "cafe-tareen-9007",
+  "email": "",
+  "built": "2026-11-26",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Cafe Tareen in Karachi",
+   "about": "Welcome to Cafe Tareen, a cozy caf\u00e9 located in Clifton, Karachi. We are delighted to serve our local community and visitors alike. Stop by and enjoy your time with us in Clifton!",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06a9\u06cc\u0641\u06d2 \u062a\u0631\u06cc\u0646 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u06a9\u0644\u0641\u0679\u0646 \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0622\u0631\u0627\u0645 \u062f\u06c1 \u06a9\u06cc\u0641\u06d2\u060c \u06a9\u06cc\u0641\u06d2 \u062a\u0631\u06cc\u0646 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4 \u06c1\u0645\u06cc\u06ba \u0627\u067e\u0646\u06cc \u0645\u0642\u0627\u0645\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u0627\u0648\u0631 \u0622\u0646\u06d2 \u0648\u0627\u0644\u06d2 \u0645\u06c1\u0645\u0627\u0646\u0648\u06ba \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u06a9\u06cc \u062e\u0648\u0634\u06cc \u06c1\u06d2\u06d4 \u0622\u0626\u06cc\u06ba \u0627\u0648\u0631 \u06a9\u0644\u0641\u0679\u0646 \u0645\u06cc\u06ba \u06c1\u0645\u0627\u0631\u06d2 \u0633\u0627\u062a\u06be \u0627\u067e\u0646\u06d2 \u0648\u0642\u062a \u06a9\u0627 \u0644\u0637\u0641 \u0627\u0679\u06be\u0627\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node4803891136": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Penolo Road",
+   "amenity": "cafe",
+   "name": "New Cafe Zam Zam"
+  },
+  "lat": 24.849782,
+  "lon": 66.9994263,
+  "slug": "new-cafe-zam-zam-1136",
+  "email": "",
+  "built": "2026-11-26",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to New Cafe Zam Zam in Karachi.",
+   "about": "Welcome to New Cafe Zam Zam, a local caf\u00e9 located in Karachi. We are proud to serve the Karachi community. Visit us today!",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0646\u06cc\u0648 \u06a9\u06cc\u0641\u06d2 \u0632\u0645 \u0632\u0645 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4",
+   "about_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u06a9\u06cc\u0641\u06d2\u060c \u0646\u06cc\u0648 \u06a9\u06cc\u0641\u06d2 \u0632\u0645 \u0632\u0645 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4 \u06c1\u0645\u06cc\u06ba \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u067e\u0631 \u0641\u062e\u0631 \u06c1\u06d2\u06d4 \u0622\u062c \u06c1\u06cc \u06c1\u0645\u0627\u0631\u06d2 \u067e\u0627\u0633 \u0622\u0626\u06cc\u06ba!"
+  },
+  "tv": 4
+ },
+ "node4803891140": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "I.I. Chundrigar Road",
+   "amenity": "cafe",
+   "name": "Cafe Yasmeen"
+  },
+  "lat": 24.8490218,
+  "lon": 67.0012196,
+  "slug": "cafe-yasmeen-1140",
+  "email": "",
+  "built": "2026-11-26",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Cafe Yasmeen in Karachi.",
+   "about": "Welcome to Cafe Yasmeen, a local caf\u00e9 located in Karachi. We are happy to serve our community in Karachi. Stop by and visit us soon!",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06a9\u06cc\u0641\u06d2 \u06cc\u0627\u0633\u0645\u06cc\u0646 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4",
+   "about_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u06a9\u06cc\u0641\u06d2\u060c \u06a9\u06cc\u0641\u06d2 \u06cc\u0627\u0633\u0645\u06cc\u0646 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4 \u06c1\u0645\u06cc\u06ba \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0627\u067e\u0646\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u067e\u0631 \u062e\u0648\u0634\u06cc \u06c1\u06d2\u06d4 \u062c\u0644\u062f \u06c1\u06cc \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba \u0627\u0648\u0631 \u06c1\u0645 \u0633\u06d2 \u0645\u0644\u0627\u0642\u0627\u062a \u06a9\u0631\u06cc\u06ba!"
+  },
+  "tv": 4
+ },
+ "node4803891164": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "I.I. Chundrigar Road",
+   "amenity": "cafe",
+   "name": "Cafe Nazir"
+  },
+  "lat": 24.8502717,
+  "lon": 67.0068408,
+  "slug": "cafe-nazir-1164",
+  "email": "",
+  "built": "2026-11-26",
+  "status": "no_email",
+  "tv": 4
+ },
+ "node4803891165": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "I.I. Chundrigar Road",
+   "amenity": "cafe",
+   "name": "CAF\u00c8 BOGIE"
+  },
+  "lat": 24.8495984,
+  "lon": 67.0069483,
+  "slug": "caf-bogie-1165",
+  "email": "",
+  "built": "2026-11-26",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to CAF\u00c8 BOGIE in Karachi.",
+   "about": "Welcome to CAF\u00c8 BOGIE, a local caf\u00e9 located in Karachi. We are happy to serve the Karachi community.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06a9\u06cc\u0641\u06d2 \u0628\u0648\u06af\u06cc \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4",
+   "about_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u06a9\u06cc\u0641\u06d2 \u0628\u0648\u06af\u06cc \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4 \u06c1\u0645\u06cc\u06ba \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u062a\u06d2 \u06c1\u0648\u0626\u06d2 \u062e\u0648\u0634\u06cc \u06c1\u0648\u062a\u06cc \u06c1\u06d2\u06d4"
+  },
+  "tv": 4
+ },
+ "node4804188794": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Phase 5",
+   "addr:place": "DHA Phase 5",
+   "addr:province": "Sindh",
+   "addr:street": "10th Commercial Lane",
+   "addr:suburb": "Defence Housing Authority",
+   "amenity": "cafe",
+   "name": "Club Havana- Zamzama"
+  },
+  "lat": 24.8185777,
+  "lon": 67.0394891,
+  "slug": "club-havana-zamzama-8794",
+  "email": "",
+  "built": "2026-11-26",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Club Havana- Zamzama Caf\u00e9",
+   "about": "Welcome to Club Havana- Zamzama, a caf\u00e9 located in Defence Housing Authority, Karachi. We are happy to serve you in our local area. Come visit us soon!",
+   "tagline_ur": "\u06a9\u0644\u0628 \u06c1\u0648\u0935\u093e\u0928\u093e- \u0632\u0645\u0632\u0645\u06c1 \u06a9\u06cc\u0641\u06d2 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u0688\u06cc\u0641\u09c7\u09a8\u09cd\u09b8 \u09b9\u09be\u0989\u099c\u09bf\u0982 \u0627\u062a\u06be\u0627\u0631\u099f\u09bf\u060c \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u06a9\u06cc\u0641\u06d2\u060c \u06a9\u0644\u0628 \u06c1\u0648\u0935\u093e\u0928\u093e- \u0632\u0645\u0632\u0645\u06c1 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4 \u06c1\u0645\u06cc\u06ba \u0627\u067e\u0646\u06d2 \u0645\u0642\u0627\u0645\u06cc \u0639\u0644\u0627\u0642\u06d2 \u0645\u06cc\u06ba \u0622\u067e \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u06a9\u06d2 \u062e\u0648\u0634\u06cc \u06c1\u0648\u0626\u06cc \u06c1\u06d2\u06d4 \u062c\u0644\u062f \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba!"
+  },
+  "tv": 4
+ },
+ "node4804189025": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:housenumber": "Phase 5",
+   "addr:place": "DHA Phase 5",
+   "addr:province": "Sindh",
+   "addr:street": "6th Commercial Lane",
+   "addr:suburb": "Defence Housing Authority",
+   "amenity": "cafe",
+   "name": "Cafe 99"
+  },
+  "lat": 24.8178285,
+  "lon": 67.0410483,
+  "slug": "cafe-99-9025",
+  "email": "",
+  "built": "2026-11-26",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Cafe 99 in Karachi",
+   "about": "Welcome to Cafe 99, a local caf\u00e9 located in Defence Housing Authority, Karachi. We are happy to serve our community in the area. Visit us soon.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06a9\u06cc\u0641\u06d2 99 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u06a9\u06cc\u0641\u06d2 99 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u06c1 \u0688\u06cc\u0641\u0646\u0633 \u06c1\u0627\u0624\u0633\u0646\u06af \u0627\u062a\u06be\u0627\u0631\u0679\u06cc\u060c \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u06a9\u06cc\u0641\u06d2 \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u0627\u0633 \u0639\u0644\u0627\u0642\u06d2 \u0645\u06cc\u06ba \u0627\u067e\u0646\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u06a9\u06d2 \u062e\u0648\u0634\u06cc \u06c1\u0648\u062a\u06cc \u06c1\u06d2\u06d4 \u062c\u0644\u062f \u06c1\u06cc \u06c1\u0645\u0627\u0631\u06d2 \u067e\u0627\u0633 \u0622\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
  }
 }
