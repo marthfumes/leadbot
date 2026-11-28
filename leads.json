@@ -8933,5 +8933,239 @@
    "about_ur": "\u06c1\u06cc\u0632\u0644\u0632 \u06a9\u06cc\u06a9\u0633 \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0639\u0644\u0627\u0642\u06d2 \u0646\u0627\u0631\u062a\u06be \u0646\u0627\u0638\u0645 \u0622\u0628\u0627\u062f \u0679\u0627\u0624\u0646 \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u06a9\u06cc\u0641\u06d2 \u06c1\u06d2\u06d4 \u0622\u062c \u06c1\u06cc \u06c1\u0645\u0627\u0631\u06d2 \u06a9\u06cc\u0641\u06d2 \u06a9\u0627 \u062f\u0648\u0631\u06c1 \u06a9\u0631\u06cc\u06ba\u06d4"
   },
   "tv": 4
+ },
+ "node5079404677": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:place": "Nazimabad 2",
+   "addr:postcode": "74700",
+   "addr:province": "Sindh",
+   "addr:street": "Nazimabad 1",
+   "addr:suburb": "Nazimabad",
+   "amenity": "cafe",
+   "name": "Cafe Ajwa"
+  },
+  "lat": 24.9059439,
+  "lon": 67.0329631,
+  "slug": "cafe-ajwa-4677",
+  "email": "",
+  "built": "2026-11-28",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Cafe Ajwa in Karachi",
+   "about": "Welcome to Cafe Ajwa, a cozy caf\u00e9 located right here in Nazimabad, Karachi. Drop by to enjoy our welcoming space and wonderful neighborhood atmosphere. We are always happy to serve our local community.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0646\u0627\u0638\u0645 \u0622\u0628\u0627\u062f \u0645\u06cc\u06ba \u06a9\u06cc\u09ab\u09c7 \u0627\u062c\u0648\u06c1 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u06a9\u06cc\u09ab\u09c7 \u0627\u062c\u0648\u06c1 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0639\u0644\u0627\u0642\u06d2 \u0646\u0627\u0638\u0645 \u0622\u0628\u0627\u062f \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0632\u0628\u0631\u062f\u0633\u062a \u06a9\u06cc\u09ab\u09c7 \u06c1\u06d2\u06d4 \u06c1\u0645\u0627\u0631\u06d2 \u062e\u0648\u0634\u06af\u0648\u0627\u0631 \u0645\u0627\u062d\u0648\u0644 \u0633\u06d2 \u0644\u0637\u0641 \u0627\u0646\u062f\u0648\u0632 \u06c1\u0648\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba\u06d4 \u06c1\u0645\u06cc\u06ba \u0627\u067e\u0646\u06cc \u0645\u0642\u0627\u0645\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631 \u06a9\u06d2 \u06c1\u0645\u06cc\u0634\u06c1 \u062e\u0648\u0634\u06cc \u06c1\u0648\u062a\u06cc \u06c1\u06d2\u06d4"
+  },
+  "tv": 4
+ },
+ "node5091377621": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:postcode": "75020",
+   "addr:province": "Sindh",
+   "addr:street": "Hawks Bay Road",
+   "amenity": "cafe",
+   "name": "Cafe Naveed"
+  },
+  "lat": 24.8711239,
+  "lon": 66.9589521,
+  "slug": "cafe-naveed-7621",
+  "email": "",
+  "built": "2026-11-28",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Cafe Naveed in Karachi.",
+   "about": "Welcome to Cafe Naveed, a local caf\u00e9 located in Karachi. We are proud to serve our community here in Karachi. Visit us today!",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06a9\u06cc\u0641\u06d2 \u0646\u0648\u06cc\u062f \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4",
+   "about_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u06a9\u06cc\u0641\u06d2\u060c \u06a9\u06cc\u0641\u06d2 \u0646\u0648\u06cc\u062f \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4 \u06c1\u0645\u06cc\u06ba \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0627\u067e\u0646\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u067e\u0631 \u0641\u062e\u0631 \u06c1\u06d2\u06d4 \u0622\u062c \u06c1\u06cc \u06c1\u0645\u0627\u0631\u06d2 \u067e\u0627\u0633 \u0622\u0626\u06cc\u06ba!"
+  },
+  "tv": 4
+ },
+ "node5101017474": {
+  "tags": {
+   "addr:city": "\u06a9\u0631\u0627\u0686\u06cc",
+   "addr:city:ar": "\u0643\u0631\u0627\u062a\u0634\u064a",
+   "addr:city:en": "Karachi",
+   "addr:city:ks": "\u06a9\u064e\u0631\u0672\u0686\u06cc",
+   "addr:city:pnb": "\u06a9\u0631\u0627\u0686\u06cc",
+   "addr:city:ps": "\u06a9\u0631\u0627\u0686\u06cd",
+   "addr:city:sd": "\u06aa\u0631\u0627\u0686\u064a",
+   "addr:city:ur": "\u06a9\u0631\u0627\u0686\u06cc",
+   "addr:street": "Gulshan Iqbal Block 14",
+   "amenity": "cafe",
+   "name": "Cafe Sukoon"
+  },
+  "lat": 24.8913048,
+  "lon": 67.0677652,
+  "slug": "cafe-sukoon-7474",
+  "email": "",
+  "built": "2026-11-28",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Cafe Sukoon in Karachi",
+   "about": "Welcome to Cafe Sukoon, a local caf\u00e9 located in Karachi. We are happy to serve our community in the Karachi area.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06a9\u06cc\u09ab\u09c7 \u0633\u06a9\u0648\u0646 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u06a9\u06cc\u09ab\u09c7 \u0633\u06a9\u0648\u0646 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u06a9\u06cc\u09ab\u09c7 \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0639\u0644\u0627\u0642\u06d2 \u0645\u06cc\u06ba \u0627\u067e\u0646\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u062a\u06d2 \u06c1\u0648\u0626\u06d2 \u062e\u0648\u0634\u06cc \u06c1\u0648 \u0631\u06c1\u06cc \u06c1\u06d2\u06d4"
+  },
+  "tv": 4
+ },
+ "node5101083940": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Sir Shah Muhammad Suleman Road",
+   "amenity": "cafe",
+   "cuisine": "juice",
+   "name": "Fresh Juice Center"
+  },
+  "lat": 24.8975291,
+  "lon": 67.0776505,
+  "slug": "fresh-juice-center-3940",
+  "email": "",
+  "built": "2026-11-28",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Fresh juice in Karachi.",
+   "about": "Welcome to Fresh Juice Center, a juice caf\u00e9 located in Karachi. We offer a variety of juice options for our customers. Visit us to enjoy a refreshing drink in the area.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u062a\u0627\u0632\u06c1 \u062c\u0648\u0633\u06d4",
+   "about_ur": "\u0641\u0631\u06cc\u0634 \u062c\u0648\u0633 \u0633\u06cc\u0646\u0679\u0631 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u06c1 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u062c\u0648\u0633 \u06a9\u06cc\u0641\u06d2 \u06c1\u06d2\u06d4 \u06c1\u0645 \u0627\u067e\u0646\u06d2 \u0635\u0627\u0631\u0641\u06cc\u0646 \u06a9\u06d2 \u0644\u06cc\u06d2 \u0645\u062e\u062a\u0644\u0641 \u0642\u0633\u0645 \u06a9\u06d2 \u062c\u0648\u0633 \u067e\u06cc\u0634 \u06a9\u0631\u062a\u06d2 \u06c1\u06cc\u06ba\u06d4 \u0639\u0644\u0627\u0642\u06d2 \u0645\u06cc\u06ba \u062a\u0627\u0632\u06c1 \u062f\u0645 \u0645\u0634\u0631\u0648\u0628 \u0633\u06d2 \u0644\u0637\u0641 \u0627\u0646\u062f\u0648\u0632 \u06c1\u0648\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u06c1\u0645\u0627\u0631\u06d2 \u067e\u0627\u0633 \u0622\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node5107370051": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Abdullah Haroon Road",
+   "amenity": "cafe",
+   "name": "Sabra Foods and Pakwan Centre"
+  },
+  "lat": 24.8625007,
+  "lon": 67.0243759,
+  "slug": "sabra-foods-and-pakwan-centre-0051",
+  "email": "",
+  "built": "2026-11-28",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Sabra Foods and Pakwan Centre",
+   "about": "Welcome to Sabra Foods and Pakwan Centre, a local caf\u00e9 located in Karachi. We are happy to serve the Karachi community. Visit us to experience our caf\u00e9 in the area.",
+   "tagline_ur": "\u0635\u0628\u0631\u06c1 \u0641\u0648\u0688\u0632 \u0627\u06cc\u0646\u0688 \u067e\u06a9\u0648\u0627\u0646 \u0633\u06cc\u0646\u0679\u0631 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u0635\u0628\u0631\u06c1 \u0641\u0648\u0688\u0632 \u0627\u06cc\u0646\u0688 \u067e\u06a9\u0648\u0627\u0646 \u0633\u06cc\u0646\u0679\u0631 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u06c1 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u06a9\u06cc\u0641\u06d2 \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u06a9\u06d2 \u062e\u0648\u0634\u06cc \u06c1\u0648\u062a\u06cc \u06c1\u06d2\u06d4 \u0627\u0633 \u0639\u0644\u0627\u0642\u06d2 \u0645\u06cc\u06ba \u06c1\u0645\u0627\u0631\u06d2 \u06a9\u06cc\u0641\u06d2 \u06a9\u0627 \u062a\u062c\u0631\u0628\u06c1 \u06a9\u0631\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node5117290575": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Rashid Minhas Road",
+   "amenity": "cafe",
+   "name": "Cafe Virsa"
+  },
+  "lat": 24.9229417,
+  "lon": 67.0931924,
+  "slug": "cafe-virsa-0575",
+  "email": "",
+  "built": "2026-11-28",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Cafe Virsa in Karachi",
+   "about": "Welcome to Cafe Virsa, a cozy caf\u00e9 located in Karachi. Visit us to enjoy a wonderful experience in the heart of the city.",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06a9\u06cc\u092b\u0947 \u0648\u0631\u0633\u0627 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u06a9\u06cc\u09ab\u09c7 \u0648\u0631\u0633\u0627 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u06c1 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0622\u0631\u0627\u0645 \u062f\u06c1 \u06a9\u06cc\u09ab\u09c7 \u06c1\u06d2\u06d4 \u0634\u06c1\u0631 \u06a9\u06d2 \u062f\u0644 \u0645\u06cc\u06ba \u0627\u06cc\u06a9 \u0634\u0627\u0646\u062f\u0627\u0631 \u062a\u062c\u0631\u0628\u06d2 \u0633\u06d2 \u0644\u0637\u0641 \u0627\u0646\u062f\u0648\u0632 \u06c1\u0648\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node5117329423": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:country": "PK",
+   "addr:postcode": "74700",
+   "addr:province": "Sindh",
+   "addr:street": "Nazimabad 3",
+   "addr:suburb": "Nazimabad",
+   "amenity": "cafe",
+   "name": "Cafe Super Piyala"
+  },
+  "lat": 24.9140364,
+  "lon": 67.0266128,
+  "slug": "cafe-super-piyala-9423",
+  "email": "",
+  "built": "2026-11-28",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Cafe Super Piyala in Karachi.",
+   "about": "Welcome to Cafe Super Piyala, a cozy caf\u00e9 located in Nazimabad, Karachi. We are happy to serve you in our local area. Come visit us soon!",
+   "tagline_ur": "\u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u06a9\u06cc\u09ab\u09c7 \u0633\u067e\u0631 \u067e\u06cc\u0627\u0644\u06c1 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u06d4",
+   "about_ur": "\u06a9\u06cc\u09ab\u09c7 \u0633\u067e\u0631 \u067e\u06cc\u0627\u0644\u06c1 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u0646\u0627\u0638\u0645 \u0622\u0628\u0627\u062f\u060c \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0622\u0631\u0627\u0645 \u062f\u06c1 \u06a9\u06cc\u09ab\u09c7 \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u0627\u067e\u0646\u06d2 \u0639\u0644\u0627\u0642\u06d2 \u0645\u06cc\u06ba \u0622\u067e \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631 \u06a9\u06d2 \u062e\u0648\u0634\u06cc \u06c1\u0648\u062a\u06cc \u06c1\u06d2\u06d4 \u062c\u0644\u062f \u06c1\u06cc \u06c1\u0645\u0627\u0631\u06d2 \u067e\u0627\u0633 \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba!"
+  },
+  "tv": 4
+ },
+ "node5117510193": {
+  "tags": {
+   "addr:city": "Karachi",
+   "addr:street": "Rashid Minhas Road",
+   "amenity": "cafe",
+   "name": "Greeno - Lucky One Mall"
+  },
+  "lat": 24.9319038,
+  "lon": 67.0863593,
+  "slug": "greeno-lucky-one-mall-0193",
+  "email": "",
+  "built": "2026-11-28",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Greeno at Lucky One Mall",
+   "about": "Welcome to Greeno, a local caf\u00e9 located in Lucky One Mall, Karachi. We are happy to serve the Karachi community. Visit us today!",
+   "tagline_ur": "\u0644\u06a9\u06cc \u0648\u0646 \u0645\u0648\u0644 \u0645\u06cc\u06ba \u06af\u0631\u06cc\u0646\u0648 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u06af\u0631\u06cc\u0646\u0648 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0644\u06a9\u06cc \u0648\u0646 \u0645\u0648\u0644 \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u06a9\u06cc\u0641\u06d2 \u06c1\u06d2\u06d4 \u06c1\u0645\u06cc\u06ba \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u062a\u06d2 \u06c1\u0648\u0626\u06d2 \u062e\u0648\u0634\u06cc \u06c1\u0648\u062a\u06cc \u06c1\u06d2\u06d4 \u0622\u062c \u06c1\u06cc \u06c1\u0645 \u0633\u06d2 \u0645\u0644\u06cc\u06ba!"
+  },
+  "tv": 4
+ },
+ "node5119465030": {
+  "tags": {
+   "addr:city": "\u06a9\u0631\u0627\u0686\u06cc",
+   "addr:postcode": "75020",
+   "addr:province": "Sindh",
+   "addr:street": "\u0633\u067e\u0627\u0631\u06a9\u0648 \u0631\u0648\u0688",
+   "amenity": "cafe",
+   "name": "\u0645\u0644\u062a\u0627\u0646\u06cc \u06c1\u0648\u0679\u0644 \u0645\u0639\u0627\u0630 \u06af\u0648\u0679\u06be",
+   "name:en": "Multani Hotel Mawaj Goth",
+   "name:ur": "\u0645\u0644\u062a\u0627\u0646\u06cc \u06c1\u0648\u0679\u0644 \u0645\u0639\u0627\u0630 \u06af\u0648\u0679\u06be"
+  },
+  "lat": 24.9260815,
+  "lon": 66.9421253,
+  "slug": "multani-hotel-mawaj-goth-5030",
+  "email": "",
+  "built": "2026-11-28",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Multani Hotel Muaz Goth Karachi",
+   "about": "Welcome to \u0645\u0644\u062a\u0627\u0646\u06cc \u06c1\u0648\u0679\u0644 \u0645\u0639\u0627\u0630 \u06af\u0648\u0679\u06be, a local caf\u00e9 located in Karachi. We are happy to serve our community in the area of \u06a9\u0631\u0627\u0686\u06cc. Visit us to experience our caf\u00e9.",
+   "tagline_ur": "\u0645\u0644\u062a\u0627\u0646\u06cc \u06c1\u0648\u0679\u0644 \u0645\u0639\u0627\u0630 \u06af\u0648\u0679\u06be \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u0645\u0644\u062a\u0627\u0646\u06cc \u06c1\u0648\u0679\u0644 \u0645\u0639\u0627\u0630 \u06af\u0648\u0679\u06be \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0639\u0644\u0627\u0642\u06d2 \u06a9\u0631\u0627\u0686\u06cc \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u0645\u0642\u0627\u0645\u06cc \u06a9\u06cc\u0641\u06d2\u06d4 \u06c1\u0645 \u06a9\u0631\u0627\u0686\u06cc \u06a9\u06d2 \u0639\u0644\u0627\u0642\u06d2 \u0645\u06cc\u06ba \u0627\u067e\u0646\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u062e\u0648\u0634 \u06c1\u06cc\u06ba\u06d4 \u06c1\u0645\u0627\u0631\u06d2 \u06a9\u06cc\u0641\u06d2 \u06a9\u0627 \u062a\u062c\u0631\u0628\u06c1 \u06a9\u0631\u0646\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u062a\u0634\u0631\u06cc\u0641 \u0644\u0627\u0626\u06cc\u06ba\u06d4"
+  },
+  "tv": 4
+ },
+ "node5119945150": {
+  "tags": {
+   "addr:city": "Saddar Town",
+   "addr:street": "Zaibunnisa Street",
+   "amenity": "cafe",
+   "name": "Cafe Rio"
+  },
+  "lat": 24.8554315,
+  "lon": 67.0296447,
+  "slug": "cafe-rio-5150",
+  "email": "",
+  "built": "2026-11-28",
+  "status": "no_email",
+  "ai": {
+   "tagline": "Welcome to Cafe Rio in Saddar Town",
+   "about": "Welcome to Cafe Rio, a lovely caf\u00e9 located right here in Saddar Town. We are always happy to serve our local community. Visit us soon in Saddar Town!",
+   "tagline_ur": "\u0635\u062f\u0631 \u0679\u0627\u0624\u0646 \u0645\u06cc\u06ba \u06a9\u06cc\u0641\u06d2 \u0631\u06cc\u0648 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f",
+   "about_ur": "\u06a9\u06cc\u0641\u06d2 \u0631\u06cc\u0648 \u0645\u06cc\u06ba \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f\u060c \u062c\u0648 \u0635\u062f\u0631 \u0679\u0627\u0624\u0646 \u0645\u06cc\u06ba \u0648\u0627\u0642\u0639 \u0627\u06cc\u06a9 \u062e\u0648\u0628\u0635\u0648\u0631\u062a \u06a9\u06cc\u0641\u06d2 \u06c1\u06d2\u06d4 \u06c1\u0645 \u0627\u067e\u0646\u06cc \u0645\u0642\u0627\u0645\u06cc \u06a9\u0645\u06cc\u0648\u0646\u0679\u06cc \u06a9\u06cc \u062e\u062f\u0645\u062a \u06a9\u0631\u06a9\u06d2 \u06c1\u0645\u06cc\u0634\u06c1 \u062e\u0648\u0634 \u06c1\u0648\u062a\u06d2 \u06c1\u06cc\u06ba\u06d4 \u0635\u062f\u0631 \u0679\u0627\u0624\u0646 \u0645\u06cc\u06ba \u062c\u0644\u062f \u06c1\u0645\u0627\u0631\u06d2 \u067e\u0627\u0633 \u0622\u0626\u06cc\u06ba!"
+  },
+  "tv": 4
  }
 }
